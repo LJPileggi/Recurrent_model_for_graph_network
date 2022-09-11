@@ -1,0 +1,390 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90783500924,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160409821472,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283229,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2600718,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3570944,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1279707,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43319550,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148812670,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26821,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938431,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2035,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3091613,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218898999,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249881,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712233,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2566927,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46337290,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66223564,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45811718,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101682177,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267907109,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651548002,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984793017,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1269675,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187731037,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31161372,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9476464,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163142412,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24375578,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186175,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,783057,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56307,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4306314,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1659402496,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4420239316,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32383,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260241229,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862056,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3118157,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6917422,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14400059,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3220019,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333439090,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259600,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367822545,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,853360187,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59391,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226951,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228264,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10643346,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10988967,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143806,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3630326,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59883873,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17973410,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310436,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1346441,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31291,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70971,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159340026,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57454535,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25347292,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10173,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1301490,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5322718,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3722629411,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2582444345,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1366740,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13275728,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46218,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38568950,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9141314,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8616,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174451,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108760906,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92670432,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8290988875,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922942662,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114817606,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43632002,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52297,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13256,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24140025,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38601768,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27246976,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223426,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47792608,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13291497,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58937444,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52767940,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1708903,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2691265,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48587538,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55078113,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926171744,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1444756350,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1510266,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5741380054,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5940726974,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246617,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12195409,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76461993,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42392480,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11903335,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2683530,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341497,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135554685,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9232227,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15183235,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2341291,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4029,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2705948,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551812054,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226876411,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49469391,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241557178,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755777,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64933,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279922,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2303642964,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2521911082,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2950815991,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10912549799,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24312,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169694,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23476,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,915,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639959,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91359709,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11465293,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32452954,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7719042,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1703,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322835,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671192,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49233,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10880854688,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17041107857,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16436447,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32921379,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17288,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21607315,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51001639,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226698498,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28503704,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28800919,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109075,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,813816,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030823,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28544424,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37070742,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131402,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6253982,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23921,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208122,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78266,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1567754,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4579066,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021637,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180234976,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250747458,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396991757,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81433167,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258304502,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649222516,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176025736,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100903624,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6820045,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31961494,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2743,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7048540,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,820730600,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746709587,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128891915,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110913030,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2351868816,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3685060950,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2076821,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4204648,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73096942,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23456970,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1974496487,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1844880128,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19646745,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90844915,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457423,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5767454,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53397145,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46780980,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2408294613,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1584481387,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6594844,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18629621,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84105,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559094,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344826,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174460,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2032071,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10140535,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1250,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367464835,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154847600,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21334880,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4852226,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6384,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,821604,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665813075,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314105611,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119056669,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43245765,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,540962,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279035,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1269396,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2613427,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171452,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80856,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291667704,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177857505,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20184,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797089,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,499002,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373559,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11673654,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6346764,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16668425,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3483485,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2076421,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2796671,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176813755,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95260934,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,732265102,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392892812,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254754,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301552,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1735785,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6233747,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206426,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243078,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119068717,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58170739,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3939622,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6560773,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243066,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10686541,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39123650,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8931581,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1436675,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832242,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3768256178,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18726518112,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365226,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1507375,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23067,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26539,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6756912,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4460,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47605498,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29851402,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10008370,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175413,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1349,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226392,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141963321,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324754544,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5386284,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98192796,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19549227,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75003049,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116737001,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259873,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1454467,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166845,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038565,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272938861,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14495039,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41804857,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131814360,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2345284982,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2801715916,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284275101,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859065221,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34790,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16297,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2770910,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44097887,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435439817,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239454488,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884184085,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369425841,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219015,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94645,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50718,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8161934,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5997,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11869,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46839742,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6412678,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63818453,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96162342,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2333734,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2824428,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8182817,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14110637,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19344,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785869,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1551590,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545772171,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440920880,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526114195,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103057272,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392311736,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44015520,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243942781,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199074544,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112648337,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39095146,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,954390,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487646080,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132918043,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2010295,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925735,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1769506069,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360141167,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123716,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2062841,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89577254,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,893296,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3908328,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3570,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12143826178,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10377638486,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1037749302,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,940264519,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903075,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5571865,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36653061,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52347,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419762503,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248289257,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3372,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2596951,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24869,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388036,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4736148,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18860116,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280252237,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48007433,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16461203,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691560336,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897165881,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21731,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755082,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16940,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1233987,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1274258,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164847935,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252021670,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7909997,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2927972,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50558376,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98641882,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5075299868,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45141291955,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4351547,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39836020,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4886771898,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9025762866,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51844,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108841,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62981344,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5550435,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79755,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477490,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11894285,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24138152,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77555,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3253615,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558977,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526984,,,0
+H1,2011,2011,2011,0,0,1,Import,579,Norway,NOR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2011,2011,2011,0,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

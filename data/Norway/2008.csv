@@ -1,0 +1,377 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90581252051,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173221368789,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192584,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3077794,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1411088,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3781879,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8381706,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16199594,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16922,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3668077,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12468,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163519039,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150147982,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5276054,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24714275,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9913036,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16623673,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71532136,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49914189,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237629063,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250808326,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859742927,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977925447,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4266412,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37997476,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17704901,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39339575,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99971114,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13028396,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36415,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233454,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,449842,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1469121,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1775000166,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4396020500,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1334704215,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251671546,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42939,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1845275,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8144740,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12222738,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3149201,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607703745,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387667,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163622553,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,626876416,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3818693,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11791,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14208575,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6196,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2422676,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69641890,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22989720,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1274274,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754954,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48128,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145979837,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56313923,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16012429,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757861,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150550,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2571366,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2520301437,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4057748185,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73989,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154145286,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3267,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29830352,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4881012,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428259,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133240510,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105171651,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5763212578,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1927830098,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73538995,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43208971,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12435,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13544,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4675923,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80063872,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8479764,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24803214,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7134170,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7697,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58400749,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16210635,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30593989,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79021369,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223580,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329988,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68374642,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53830484,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,776854903,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1566007472,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321164,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6132132068,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6214317308,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313783,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7155214,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51280476,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31922872,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10301942,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476383,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606925,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175920,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1703424,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6397270,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4119342,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493300,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486618722,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174316752,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127438056,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185761244,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216842,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18582,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68865,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262966,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3013401481,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2433623189,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3245827987,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16233248974,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20419,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319485,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46673,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196004,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49120322,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8386172,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67229,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4847704,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246798,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348020,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11961850480,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21622776721,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28063930,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33261571,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79660,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1762730,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60443358,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607616969,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4044422,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43386946,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131215,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1208636,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570853,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18741590,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23280607,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43507,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1472364,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34850,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171200,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1723,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1748085,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2193814,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11522901,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252624651,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305419296,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446056763,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83912287,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237345279,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591185960,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174565868,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71783302,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12141591,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39263969,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233466,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3373457,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923620432,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1780293724,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126640705,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74490117,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2959090579,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5420436522,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884249,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9020195,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86799194,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20388749,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1971612660,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467776559,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14980630,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,636477062,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661643,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33809646,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30375340,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50820505,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1189957745,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636851071,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1383995,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12040335,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11844,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2082239,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853211,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2028742,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970248,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7823715,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270852,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287649329,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164644725,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89169,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209401017,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,860857,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9697445,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559568823,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261627884,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68331972,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60061828,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6589565,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793672,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1062958,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333300,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41856,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211456,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349444373,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188242046,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5985,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351299,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83509,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423426,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44807996,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32411799,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5394501,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2396774,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1983457,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2222541,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140231152,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154262323,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694906963,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216237960,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340601,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291170,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1826812,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6347231,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394291,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214766,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133859074,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29240949,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6642768,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12733426,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373507,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17105250,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20843900,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9560137,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,991160,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,407128,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3639567612,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18089163564,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507516,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21189925,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135664,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7165805,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3950,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49761496,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35955969,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1411816,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636007,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7030054,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1368675,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281176237,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7803,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47246979,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85224632,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29747017,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16230570,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88848524,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77440,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038360,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230681,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671142,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213637373,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9572141,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183242829,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64115101,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2191330441,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2383873709,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248053656,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004225159,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58429,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25023,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142691,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49294314,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494044998,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156611843,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1990061179,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067115195,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55138,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334051,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14123209,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6212,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251435,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32376428,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8600920,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1526,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61038608,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188184638,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1547207,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1717250,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16352214,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21962205,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367683,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582883,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4021,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475373,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352888964,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,557979616,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384034424,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190943320,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321575826,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95163017,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178772368,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60699857,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95594724,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14947681,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127172,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460780987,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140035320,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2961839,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730354,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1817296328,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300692894,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565575,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6377080,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211217175,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736977,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24991,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12723337142,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10821099169,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,986883752,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1077413002,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785818,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2586785,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131114588,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95344,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378687181,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243404322,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,874,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15387714,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10891,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4468222,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6182233,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153321913,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372358869,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42356768,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10010897,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591249026,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394462022,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116445,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4118648,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20297,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2385860,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2444224,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202999748,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263697450,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5219735,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3159887,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34093762,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85885319,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5302338180,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47022444281,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5790314,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5232597,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4858682722,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7437220057,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31662,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283881,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86567301,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7474056,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168248,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2678092,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25194026,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62379014,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8397,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67113,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5754215,,,0
+H1,2008,2008,2008,0,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584951,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011552,,,0
+H1,2008,2008,2008,0,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
