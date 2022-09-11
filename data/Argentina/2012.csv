@@ -1,0 +1,362 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67973971893,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79982379582,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14348,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1254648,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504686,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457441,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5170,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1465525992,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30350,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22488,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6482,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200150929,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587754,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6846780,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46536816,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281888043,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585000865,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298069310,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14288212,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5536254,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31802307,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5044384,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19704588,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8761329,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358214528,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473616,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5847769,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2176826,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435397066,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448536625,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1697,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1297330896,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,852160027,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993550,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4940445,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1703,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208051,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17676646842,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16456671673,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2026,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338571,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72930,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1599,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71284,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9657721,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100832902,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7432763,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841230,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1339,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69856356,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7142129,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12227921,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14076812,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142513,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37600612,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510610672,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2213448753,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5040664,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8979925,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3371692,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138341,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,950840,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1005804515,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5051833888,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9900611962,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5068295629,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355246786,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2079591109,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30859,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665364,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75410,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48455382,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105975,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40670638,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51348074,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100445087,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2509391,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36852628,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10885502,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106709194,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288307,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22434629,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154763937,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42596951,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13921887,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149997631,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409187268,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13674,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,596739,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3773751,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243934225,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235956200,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417795549,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314500,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30395377,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311992,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29624263,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251370,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1063043,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1380,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316940,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3196610,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9468822,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54873,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,811166,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211957657,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50131128,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1591401018,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414067164,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38260128,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1622567,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9187436,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197562,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15061699,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2711,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361269,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3426599,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3698229283,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1970216475,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19006,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32777540,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130129,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14370170,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109286641,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420779,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3984581,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133844853,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5690,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1990205,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15569,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2946469,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54794,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26462296,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323015,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33621485,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31101167,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310287670,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129139023,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11069047,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,519572,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29411499,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343713950,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1549438819,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1395980,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,987373650,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5021,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104352978,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228196703,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216778945,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131782578,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225655792,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1452381764,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118830595,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1997387,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25967048,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9888,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10248624,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1498452016,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1207486042,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400216,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37959067,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928795,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218935526,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84252,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106190056,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1137225667,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1381682468,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30746308,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31342189,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3207,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239643,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114811,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13313,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532857,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82873756,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30045153,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132045370,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4237575,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95540625,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50604892,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164292597,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12850093,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1498572,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112777,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547424,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4524596,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6390181,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1287348,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447505905,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993685227,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22286,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182401,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3829199,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7390725,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853745,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26483,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37624883,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125233,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70391975,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2250814806,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889136695,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506915902,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307351198,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11053,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2439722,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38785,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5092241,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206037,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111507020,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516053753,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3583073,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69434696,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,653971,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38999750,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13144,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12333387,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417445,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162811,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129724965,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2204214625,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154739707,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10195752,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3628874,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133081,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21334210,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117040061,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210932,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25979429,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8054,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13359265,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57082355,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151175202,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180920223,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35969231,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52213292,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66759480,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228211,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170841337,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45379,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109707,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450631721,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1368077809,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161023963,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1924853114,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87877735,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302123244,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173237219,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556112817,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93042917,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71801940,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44200,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448592035,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8931946,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57765245,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63614805,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1123997305,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745129504,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4493978,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32145,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226279,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1708,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120479525,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401543,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229449,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152965,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31496,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75268783,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789035513,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161797,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117140396,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133413,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8551536,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68696,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440565,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3915,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2769920,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652782423,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1186810267,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147411284,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48379370,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58788878,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2591339,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155511472,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800855889,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17439979,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4110191,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3794,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42250,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238116181,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030102694,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156827,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13352085,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1317203197,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2514557423,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119757,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20975552,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5558745,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10146396,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11787,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284194204,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71665389,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552984043,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656762464,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2889310,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212399525,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37393,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861456811,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,682704716,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2633,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4511052,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18224,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1905165981,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20999064,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32941623,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280624031,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9961680,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175880014,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298965827,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302021298,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1442,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8724790,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18930739,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20461213,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81498031,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5144041,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4945674,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49686302,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013232674,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614831498,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818079785,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43322,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86483722,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156984073,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109023425,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8476097897,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4023110914,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16668,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1327145,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517394876,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868276573,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600417,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5957779,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24929869,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2220365763,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,653,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227318537,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30759,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251374,,,0
+H1,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803157152,,,0
+H1,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2122118819,,,0
