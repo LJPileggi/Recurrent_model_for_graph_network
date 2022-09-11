@@ -1,0 +1,163 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4152485854,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,963215608,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20877,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379116,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41484530,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15427,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1119324,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181473,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4793078,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450732,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5453470,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5016418,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195765,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26639480,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24907338,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56963,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63428,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319711,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127238031,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2137741,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92982,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,575643,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155958,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165000,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22304513,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1965136,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423848,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30877100,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119206,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99028719,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10199767,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143562500,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15374925,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193777172,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38745613,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8376,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15735647,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469590,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627079,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89824,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6329587,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45784,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47401,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361589,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9944803,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16454720,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12425971,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5049108,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56011101,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9334389,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14909,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11323386,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24373108,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2105717,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52771704,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992033,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694201,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1581038,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12894,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83588292,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21450100,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542406,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126609,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7464,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3819507,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9962712,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15598351,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20804688,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6604730,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87978,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27992,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6029,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2152175,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727426,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358604,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7535334,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6328784,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5393199,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99636,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20122743,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15148817,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1894702,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7396599,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188221922,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3412438,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24559,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102900960,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2256471,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65839,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79040,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28656,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3299876,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6510,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154024143,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17089145,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26721030,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20046627,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31729007,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47031565,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475188810,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1294903,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5001,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,653738,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25509145,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24088,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5573154,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21207188,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404083,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851684,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8778,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19568,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15276708,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364069,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517634,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1321120,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1259547,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857130,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12645210,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,602546,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2094766,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1509,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2943181,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165000,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55966,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8151,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7208521,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6552364,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782525,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72884,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721715,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457348,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50000,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398817,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721959,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63094908,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85652303,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14504,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264358,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24859421,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54257689,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8398756,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172970,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7475267,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,949528,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43822895,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3539776,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218800,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120000,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2072367,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5260918,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40239,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12290226,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18440209,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20657436,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1143022332,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432526157,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1778021,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42817699,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1294395,,,0
+H1,2005,2005,2005,0,0,1,Import,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684318235,,,0
+H1,2005,2005,2005,0,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13155575,,,0
