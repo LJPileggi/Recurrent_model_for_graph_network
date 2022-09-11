@@ -1,0 +1,436 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500830026000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549606741000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5595000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14628000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20794000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57127000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2492000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1604708000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556045000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,810000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26932000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96287000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29665000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72465000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357078000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223330000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80814000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,853211000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180443000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138029000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3108689000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19130384000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29219019000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123299000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37348000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26171000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141746000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757029000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130962000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19738000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30815000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2784000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22431000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24076249000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27892432000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6849000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7367000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18478000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29851000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102968000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327511000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16217000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11850000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3573033000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4623482000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5081000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4836000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2084000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,548000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3458000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6280000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2318000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43956000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544952000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802825000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85605000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40658000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8865000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5030000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293342000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529845000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105901000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7915000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86011000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59965000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3187495000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3969642000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5371000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1374000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7441000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6056000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3341000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245375000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175669000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15629000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2537000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790540000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601821000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16879234000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8609272000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,491113000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493763000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2216000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73499000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21912000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3775000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21995000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263997000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102552000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,618337000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1236849000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47861000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64461000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167152000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329069000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11842629000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11753928000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5035000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52167000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7943630000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8542181000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2094000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46465000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127771000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248623000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116189000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97834000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140878000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2614000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2646000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101265000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62112000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3556000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8037000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323883000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396517000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21445000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8417000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8230000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2401000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5029063000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6383610000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47913908000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62803030000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5494000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24798000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8638000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8377000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25096000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23967000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94118000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,748000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8643000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29038000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123209000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126070000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6263000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179529000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1513603000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4244135000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2073000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3450000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5923000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4084000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123372000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111458000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45982000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19998000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5229000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4336000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1658000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13091000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98467000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30127000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2295471000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3820164000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9743906000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9472923000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339100000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284227000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2302612000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1145257000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525790000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1435146000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42561000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126690000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10061156000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3360942000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1760872000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2661204000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33452195000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41698240000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298756000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65463000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87680000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32472000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24532527000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12137468000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951831000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344110000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16941000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409518000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100042000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102176000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24669000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53169000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5341381000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4163673000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131072000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515057000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112673000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25869000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22917000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3275000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15458000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415542000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1454000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371562000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568901000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160524000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342604000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2678394000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366050000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551573000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836787000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477774000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2340457000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254536000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44529000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59497000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25115000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42408000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12984000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3460752000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2002934000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8219000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6164000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4307000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44844000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256889000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303800000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20013000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27285000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68952000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67188000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1349057000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4551532000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6604460000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4609280000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4306000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29540000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60843000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136557000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486443000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658456000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11239000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13334000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8749000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186517000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26347000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29429000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96020000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17617000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44106092000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35495581000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40770000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87760000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1710000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5707000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22622000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3705000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2500000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408353000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437696000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54896000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34943000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32795000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508990000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577187000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9698463000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3949808000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5737000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5949000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55774000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522077000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387297000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132176000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99702000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128366000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8354000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9981000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49376000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261352000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207469000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1770993000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,838837000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10965988000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13350113000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5325328000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5853031000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1438000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11661000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218176000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1930688000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2291594000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13364423000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6092014000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18275000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8727000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1320000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5214000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4252000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2751000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1006527000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2419977000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12405000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41136000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14949000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6309000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1683000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13126000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2235838000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918415000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3564000000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3759909000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3152248000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3056240000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1089509000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253672000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2378867000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2098611000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2853285000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3435665000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136672000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43325000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15173130000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24994053000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49250000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96319000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5462000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1607000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9480348000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12528398000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17566440000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23941198000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1475589000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348282000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2255000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12796000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2403208000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1702606000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1569000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30181000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13055000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58394000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162107000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1980961000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894651000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944378000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5686682000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7638692000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15813000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54017000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42440000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26173000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796392000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1310436000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246565000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254436000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258376000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476315000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34910040000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45763130000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60146000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53074000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81557000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694525000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9108000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42789195000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56392629000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3313000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11881000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96029000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121725000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74345000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212052000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392736000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510229000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,749000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32686000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86014000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197738000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451779000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31717000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13568000,,,0
+H1,2000,2000,2000,0,0,1,Import,276,Germany,DEU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591575000,,,0
+H1,2000,2000,2000,0,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832380000,,,0

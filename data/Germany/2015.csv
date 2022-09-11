@@ -1,0 +1,458 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1057535853584,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1328500248528,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9369141,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89584490,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81178260,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,225679929,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,229467,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2219441,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1726381100,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2725349403,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4138,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80552,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1050230,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37599179,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84436242,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,373406324,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,135623,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17394388,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2419156294,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,770337436,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1697115366,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2968294549,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2043449344,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9378386259,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,40862631100,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63790607886,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33230940,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,509444099,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5175152453,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,709554434,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153435976,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,171035795,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2610667,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20729462,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39470559634,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45252134871,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,609995,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,463994950,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11828650,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60279846,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131477665,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,176432100,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,654586003,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,916451962,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2927927,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83289903,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9159409806,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11053159658,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1484208,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15458218,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2219,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,398291,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,674157,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,162832016,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,600228689,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1646217,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166752096,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3221823562,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3827763922,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,221743372,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164077626,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4128982,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8124015,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,755056035,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1441815764,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1407611158,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,134588134,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52381945,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,171916186,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4134936291,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11106873398,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1077538,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6868972,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312217,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14212521,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1618406,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10812863,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,596148842,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,321133065,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3551535,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19800872,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1625133736,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2661121983,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103334228263,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79426901926,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,174849,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7319,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1576284427,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2025023187,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4635385,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1452589,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18744855,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154168459,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89505982,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164548791,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2010166,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,114492,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,497859681,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,239888165,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1332565776,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2914621082,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45929959,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285769039,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120377990,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,615017603,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,43462962106,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,40099283079,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1124324,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75415760,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12371390974,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,18476205488,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21642,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1211180,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,218370542,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234827962,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,555785560,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,468123332,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50873797,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,207022150,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80346296,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30013885,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,183250247,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,338747522,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6204283,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16256724,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,626347948,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1755122143,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19936119,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45827405,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1045089,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,397232,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2996278,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8505228,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9742484678,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9958409502,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74105576780,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,113887944271,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3824503,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29535817,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142821,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2127391,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63967,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20699456,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25011410,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60832172,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103813224,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,411993259,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,758387,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11687763,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,866293,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69534198,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185305221,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,295951029,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3297379,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22289226,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31482,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102257,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2042344599,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5173942354,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20756723,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12968651,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2853605,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1988503,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36148,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4082942,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,125953490,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,268382777,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133365547,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98362788,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11621820,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10445599,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2868861,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34494846,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,640277,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2512146,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,414171235,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157074234,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1921990279,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6584212462,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26356790329,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24197885911,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,555771582,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,443023080,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4463331252,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2958681102,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,279245467,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2330584855,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,498943740,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1119056448,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12006609633,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6481866708,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1918718467,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4567959961,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54114588178,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64022980533,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,873525874,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,171892858,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60456047,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59604064,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23277036797,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18938948276,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3030160201,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1417179609,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28450063,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,913887412,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,175638841,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,417451294,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3563534,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8171476,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8557717075,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19881899810,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68103634,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1478404721,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14151209,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59561537,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81352819,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45756668,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50536169,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,926240979,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1635415,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5903231,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,715737878,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1795944212,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17323913,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,337725445,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1331102442,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,399121691,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1855684786,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3066188640,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3535961769,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,5751760724,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45295519,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,304840723,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179699439,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40865682,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154529826,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22269773,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7832615666,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5339456278,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25720515,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36704996,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3619852,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133552609,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,351768197,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,739369145,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,95815872,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,94771828,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53468307,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100508027,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5038257130,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12328822319,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9082182624,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8224843108,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13994180,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,104823183,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179688648,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,332021458,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21908574,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86987927,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44462,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1046756356,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2135155681,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,160537369,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137589432,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54694293,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1045117407,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167195462,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99847451,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17726,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43106,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37088785,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,168611646,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88091620186,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81541846389,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,453992,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26642638,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,981437,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10789493,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107879,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9572420,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23729,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1667981,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,995556,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62213247,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16371,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,839326,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,745950449,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1202316335,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48412598,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67364557,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130978,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35536215,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2185084072,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1164376875,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2291,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,112817,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47290,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22686096,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8026176933,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9213794912,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46736,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,301978,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1648947,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33464,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86314,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11257271,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,647927142,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42769,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,281908,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1599189851,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1134402941,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77881201,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,462835163,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,311236411,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35958238,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167132556,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,163043298,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1217945335,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,937048869,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3341710374,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2390271035,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2638,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58516,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49590807902,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,57696644500,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6127547046,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8335885112,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44560,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2825765,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1325814,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,823597,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197487308,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2401225161,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11905135331,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13553335273,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,23449896730,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24649522652,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24618262,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40466507,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2325603,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,811218,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19144,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4272047,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6474534,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7244,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4067280,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,205513,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3541935,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9208,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,296499,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24581,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2479690,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9466450,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46816902,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,300418,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,577819,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,971889532,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11094928990,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17306584,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,114586735,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1612376552,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2373235961,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1535137,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15972561,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3815087,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31090048,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8545047380,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10870331648,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6561558865,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7407026644,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15035652458,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13485543747,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9003166526,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2562139237,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5749677177,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5047750480,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1075713,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16708570,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5995500764,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10783105910,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50463409,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50882388,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29325768387,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42928410250,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93607,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10320693,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23374295,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,192441607,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,286186,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14667539,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31233107,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1868215,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9950912,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,15494000920,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,25437082457,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47893986393,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,55454715444,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14017230,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69793363,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2121772,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49568755,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5751213373,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4491478714,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11573874,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61052470,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52251,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67846,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1008,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,785524,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107787487,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133121841,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1043187069,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16304139404,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1832779809,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1527909267,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16144122099,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24795501499,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9455617,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,339084420,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1141610,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,891,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91739,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,94592142,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90871623,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1887332204,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3431114859,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2048545464,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,934620398,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1930283540,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3724363814,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41938834826,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98358591691,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178247999,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133867820,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2881957370,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33699956453,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10320158065,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69099301088,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126561005242,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19370053,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52012996,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,290862565,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,505914604,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20205718,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,478846269,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,155595894,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,578743522,,,4
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166230,,,0
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220600,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,973390,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2629745,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,160779615,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28524467,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65814404,,,4
+H1,2015,2015,2015,0,0,1,Import,276,Germany,DEU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1664171,,,0
+H1,2015,2015,2015,0,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,203884755,,,4
