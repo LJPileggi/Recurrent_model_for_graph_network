@@ -1,0 +1,461 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227931507413,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227572764096,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54362,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47040658,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577486,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8452204,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878555338,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258380703,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550643,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3041115,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561753,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196921,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323120227,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282294760,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3961886,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4136630,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1234439242,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23956651,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729230878,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,700764292,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5413800829,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9298849155,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423957929,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223840099,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117473503,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4536364,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234899699,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240611397,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43517362,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,863374472,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9187944,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25298287,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2444996,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13195704,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1091138751,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674462326,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4886,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1672138,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58205,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4013487,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973483,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71904051,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1925534,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6416752,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22630099,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,806441,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2116855110,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935666025,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3025859,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2899802,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20965,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11848661,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9455565,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701685,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4768112,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,653906208,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142533039,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47941447,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35125326,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3916722813,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4239105625,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801560,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956082,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59985139,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18089080,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,589709392,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4525477168,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32896744,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226116556,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919587289,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478949453,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33844,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8514161,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550149,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,971790,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245480,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490358,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58459075,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452224011,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580294,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2615701,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318774424,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642325267,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38498344674,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25084369426,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6241,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22725,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41050,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38519,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80106781,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248936510,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27939,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1668040,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217266490,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80546062,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110703,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7809733,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2321992,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1587303,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62975783,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124632278,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13665398,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31217210,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1986248,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4921382,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303925,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27528742,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210912041,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766834480,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8951020,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508284798,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376812598,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438806202,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388216,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1790107,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21390030,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96696773,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65368601,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353892052,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9331528,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51570195,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64310477,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9344149,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10078246,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57369344,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2715,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13393564,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11573069,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81728293,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601822,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12594,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4634,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58886,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8571361,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57640640,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315328669,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314672393,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2438114644,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1711343576,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1719697,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22403196,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339236,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60222,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156032,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56598918,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,898597,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43530526,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2579591,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35627585,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1608831,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31698088,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5352899,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5913347729,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4532004155,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26727520,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292004702,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1815,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341774,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40370418,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4109922,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45037767,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131292425,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3133254,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32687,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105880,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2443818,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107249,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9371450,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4975191,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137150110,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1645376,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63604074,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2275232,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6249689,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8759332,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18196086,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337571,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36087,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149742,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2167958,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76715042,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1188711572,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12609968146,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179338643,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492873786,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6318049,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6578220,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7278673572,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9510286623,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35004179,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322164846,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30410751,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337069792,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365635990,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444152760,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423380852,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760320993,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2269712058,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1514139540,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27143388,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340789005,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5011603,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38621014,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35710527083,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21820597224,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3477493,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58343467,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33606955,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290884556,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17264018,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199834699,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19083615,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107250682,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8540372062,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4520090413,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917434355,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458709601,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10593,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2524728,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1410559109,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4032553614,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985724,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210660486,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56482,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282676,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12333474,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37316482,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34223564,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6362884,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333662,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227162960,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10148478,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54471117,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20072665,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7394418,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10425603,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21642412,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1951808,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58775797,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1296699,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5531547,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12745922581,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12764450064,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39589747,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85367067,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42198059,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3703152,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28933511,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19343201,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1799497,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34016683,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4356217,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95476840,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568069125,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1995745016,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7537460533,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4012842760,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672863,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12697187,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2787311,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647096,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348189,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375662,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16273,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75642,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60720758,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111172877,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5508305,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199129825,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1778714823,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657104619,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2191054,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6708602,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23352,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171933,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926043,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57959455,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1039733288,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4610521313,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,816080,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10415559,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779716,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4828485,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1824,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153174,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17216,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60577,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56540068,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68734261,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10265232,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,761124153,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1237171401,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1976142,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72653581,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94495,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37459768,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1070898789,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835955610,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18781,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18081,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146879,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345622009,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386216840,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854941,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15897,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157741,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13831620,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3112160,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250196043,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413511,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588694,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140019205,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876300333,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26162169,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265213289,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149396125,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127819224,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214939086,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33712633,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112229885,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467745485,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2612378959,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5868067924,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56580,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256093769,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440610492,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65889309,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149411628,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,756,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303884,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4647,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66046555,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3881146125,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437878348,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93129571,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134110614,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3708455056,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1205181487,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42852387,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8752508,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27519,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102011,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44562,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33234,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22518,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2168590,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26009,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4381,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440576,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4142030,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662493,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925238,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97214,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24791,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11697,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1414741,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7819848728,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3110351960,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4218764,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166770511,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9643012,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11730393,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13497733,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11467862,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787019,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22505092,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3039489373,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5614841359,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7879010469,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10454678824,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35410975,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165409701,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3937621450,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7888498185,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47145685,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59601755,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18579,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23531983,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1164343970,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2349456606,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6612178,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7435771,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676789063,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,783544554,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41076,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118284,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032761,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160423990,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13297,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657000,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21729355,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8782200,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12031309,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701765755,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550424962,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4196020334,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1991446914,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873980,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79093661,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3026,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2154187,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2269796207,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5753759,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174034266,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1493283,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95990,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1984770,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63248787,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134132568,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12718491376,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3247203997,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15134037,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135129049,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283762374,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1088015974,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2022538,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7842705,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19270,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59683,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1953803,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241383,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1097054,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23032189,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182914717,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80870060,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837879,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4751911,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23060518,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1082811304,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2782345605,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4007084062,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23309588,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144502670,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14675262281,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23967866559,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35239858,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8163635,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35981968,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52038138,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2220294,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14208763,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5174404,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65716054,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718759,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58023,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10027808,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1166505046,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270928010,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93833175,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15948334,,,0
+H1,2014,2014,2014,0,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20724510,,,0
+H1,2014,2014,2014,0,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601091314,,,0

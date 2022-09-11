@@ -1,0 +1,402 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50309073337,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58423032127,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64709,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7362160,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16992,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685613,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18878679,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19302730,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185258,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796764,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166908,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9845927,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333639,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5208865,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15130,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894595,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215543624,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82247021,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976334870,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315743125,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126921372,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88587660,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48609,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574992,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51987027,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30058468,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41052252,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164759828,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573703,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15409,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2727660,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329753392,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,884628383,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74264,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1256024,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1060,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391681,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86983,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3669339,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244802933,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96610058,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11350161,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1898496,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20289,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2741,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14291831,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3155548,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34652,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270221,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148877130,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41928720,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12255576,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6319352,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112442762,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393836690,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278981,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4116279,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681661,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14679889,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352897553,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18305957,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5623994,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333986261,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701666748,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221088,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,927772,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7834,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2022618,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139263,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426685,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56679644,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136632139,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4926710,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67268,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62571937,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49814523,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2494975661,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1861171052,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3077,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190551,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753361,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40063,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5828995,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21813249,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4556491,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48308555,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6921703,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371234,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2752979,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36823,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336457,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5999551,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10245493,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405009,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8695304,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509096,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5670680,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316839,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44908442,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19551179,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27375663,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12482543,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56087329,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117006482,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196507013,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1614919,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3971137,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202727,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23402028,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1854620,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3541719,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10473946,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7105124,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1468443,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3407218,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3618838,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840192,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106605,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345952,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11266,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5268,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256662,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19145370,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229423101,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96275793,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1307448623,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,853125580,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38074,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5298562,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2187,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211314,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1520,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7038564,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17086832,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9677355,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7505764,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3030857,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510767,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3911090,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1586875484,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455808355,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72750729,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44610953,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662915,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23306,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14540,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7609539,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134318732,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8896011,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159788,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34635,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288848,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1766213,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9203716,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1969682,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2064954,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4851,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1516200,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2100378,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99927,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7423001,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,704750297,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2974746846,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14719033,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96694880,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17876408,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7001952,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1104482447,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,969404911,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95469803,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212690837,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25747647,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57326351,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79278482,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169998891,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261930801,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388364147,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405332128,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708962138,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12199863,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52670613,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142334,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8366317,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12253486157,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8250829917,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67179577,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612701,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13230295,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46956910,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22599362,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20148831,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3182043,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34333181,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1766207047,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909786448,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242651129,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69269342,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7258022,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2089892,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56451064,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410510691,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345662,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56263217,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358370,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1525813,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20632,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2795163,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11101697,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9693321,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3834003,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,918080,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3134078,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7088577,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7098448,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6778244,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3294259,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7178223,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1766150,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672736,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2511465021,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2121963708,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9698656,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10689559,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33846583,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4157074,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9856959,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12094713,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8351307,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2458716,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2142144,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22405191,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150126469,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285073192,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2358213672,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2039908290,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14491,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177612,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871497,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150003,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40823170,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13807771,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7061945,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10643966,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1064932148,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27070677,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1738364,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337241,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351502,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15505235,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524958552,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2192872014,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469632,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4565200,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17741,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780459,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147052,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5583361,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446917,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960921,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178108635,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161371359,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242797,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5858572,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1640622,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,847518,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47445266,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235839457,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358480,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12393,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64101403,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56036832,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9488,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603821,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26408235,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825496,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27090706,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781517,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3467532,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574325,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47143395,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165784134,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62904317,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65370733,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35214295,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19470362,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222721,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4608927,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65075934,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10708034,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,815883941,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925358202,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30333099,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68273192,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33972388,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146294551,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870767,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10600098,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309455476,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16639257,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28524376,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14245441,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332424113,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92717198,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157125,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453315,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90964,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104524,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63575,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184298,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087838,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37984,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33806,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57558,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669584185,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332095537,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5064015,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85081657,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8129352,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2860675,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1742403,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1529280,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453508797,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372101373,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2981467532,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5068431216,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3687821,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3701948,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229097197,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572151025,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6492957,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4034094,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30109,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9540605,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229652407,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254945769,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29565373,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5625943,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140493075,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556996969,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8674743,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5901188,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200075,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2242939,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262577050,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253858892,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549505155,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551952124,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4662578,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42655651,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154997,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3427213,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56923373,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,935656,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79634,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10427337,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873355599,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567374997,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309940,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20568136,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19515328,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131843708,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797064,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563288,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251398,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556932,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390502,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5376208,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131146429,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4204700,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71541,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47906148,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122908297,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729477562,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2088655972,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5034026,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21487590,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554101359,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3916746,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6427084628,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12659633096,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1601616,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5534217,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12224877,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830522,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844991,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15286329,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15055945,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1658597,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10098420,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15833174,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138057,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1865853,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642667171,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58923667,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249693,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5033913,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55482990,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2567106,,,0
+H1,1999,1999,1999,0,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395602841,,,0
+H1,1999,1999,1999,0,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870199482,,,0
