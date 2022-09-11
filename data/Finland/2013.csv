@@ -1,0 +1,417 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77587001767,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74445385637,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17390420,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2152424,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1585369,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2533478,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187645394,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277050531,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5304,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3270915,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,538600,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92043,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3638661,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5356,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183599,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180057,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69473549,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73599147,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106754200,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133541637,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628290055,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683675116,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399384020,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2387514,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22156582,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1996543,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11290792,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163525632,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98355034,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121181,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13800446,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170310,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394833,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1622711506,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2399187868,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64074,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210082,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134206,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,849537,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4881093,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6449029,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3366227,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19225606,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137800,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,783195734,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,621939168,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42682,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5977291,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13443,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16807890,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4547352,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1150,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387719,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82724865,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54175251,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706032,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2634586,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78028,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321734,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43496292,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139912623,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32675683,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211024,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2599123,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7653806,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322462662,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,912940221,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403179,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9890,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234667,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91991,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22957179,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6708592,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44296,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1778509,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148541815,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281886808,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4857718868,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3590391490,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54077473,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169817722,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17382,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8818195,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45841,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5912916,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155828470,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796884,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50008806,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10350939,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31579984,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25531281,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43656003,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6146846,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4883633,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219631521,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824680139,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313557449,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421852,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2389179375,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1357151149,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,935,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7240,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3970766,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20187357,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13333842,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28292736,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2485259,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6497194,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124203,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6008730,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14280879,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327497,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2237798717,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2305473068,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286445,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6159706,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1548,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88759,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174587,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2537242498,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2384314937,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9163,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671152,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2282666,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1277,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390458,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43624,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11931342,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746128,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11905838,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2184,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1349880,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992353,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9536193612,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6896707270,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547595,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43565559,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2938,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42715550,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2195,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75510582,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153189290,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,907847,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2242804,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26413,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469891,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9284095,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4655791,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8596,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1788861,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475706,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25908334,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164421,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164787,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82395,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14503821,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4274296,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75414978,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539883211,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305974443,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273865482,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18660529,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36159708,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149266964,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171529310,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4233010,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78748275,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7596,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66577029,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607294572,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131536876,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87011457,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208983769,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2037449782,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1706727551,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021277,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6115333,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1513511,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,471278,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,883834253,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1166401970,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,635191733,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208503837,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384860,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199822557,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17730296,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32294305,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174297,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11352394,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603443088,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035507638,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192012,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34620113,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37082,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3975435,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544314,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,764914,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514542,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113228157,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4121,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302199750,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665398454,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1260443,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2520912,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19288382,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441925346,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467097189,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68201375,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26936032,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1055034,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1728481,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061048,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1227314,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1443656,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2393139,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198064664,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289307222,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14324,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401367,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10234,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3388094,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2860093,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5543496,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27583,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20753155,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9061380,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1101600,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175941434,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453405461,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412799141,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250969589,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2961602,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21339843,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2595439,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8845481,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2586,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421501,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21605433,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116227029,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24620023,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34602113,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409975,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25196677,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413577,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2827605,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722754,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2232405,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3622312792,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4471804533,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42856,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,921511,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450715,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727604,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40005,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3965831,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33713,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35552658,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89983259,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6526798,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,815330,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125746,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1234933,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152308,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38583658,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1800,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48463,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1536209705,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2155139196,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1407,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14344,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16550709,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55750993,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46554499,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18593441,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12209264,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249119,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1102826,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36855,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4325494,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497511851,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113470762,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165577397,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183423286,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1624627940,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1779463930,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350051434,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146994590,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76964,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15351,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254903965,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33548827,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217261842,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199331401,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13929324805,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7022691808,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744703,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270676,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,759,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1170934,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66454,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10516,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22322,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9367526,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321024,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878431,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3640914,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29841172,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464681884,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965957,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8435086,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14453801,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28260759,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3794301,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,810449,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,918021,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2221061,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663489392,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612263459,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156717273,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302738008,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311281113,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128300254,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179971720,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117168648,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108219623,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77825044,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262042,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427187920,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472036916,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480553,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6342076,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152052660,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993144205,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421707,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17410255,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6981316,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205174,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18551036,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22291449,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13283,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8798089276,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8532188843,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,916463343,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574198768,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60165,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8949989,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4635,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4051426,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306818982,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209378746,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9979,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36338469,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12690328,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2358379,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17200720,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231354315,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11406352,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67269603,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508620932,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885715054,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189646,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11585082,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433552,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9262,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,752320,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3903888,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83166069,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435178104,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5719025,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3772757,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30093586,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339507635,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2373625485,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3660128101,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7873308,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35511197,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352982322,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2470692553,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4515792515,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300929,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038492,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49748710,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68937556,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59397,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27834383,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2501226,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64233577,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10668,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30206,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8253911,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1597339,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32663878,,,0
+H1,2013,2013,2013,0,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2255470900,,,0
+H1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2537117357,,,0

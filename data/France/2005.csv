@@ -1,0 +1,452 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475856799498,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434354245109,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,752785,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30710387,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12151570,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21494285,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670647,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4582169594,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5809564946,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146824,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1601340,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24177468,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402799791,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1749100644,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370800369,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5214748,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7642136,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495845267,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115708309,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581209858,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,756177035,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1296957976,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3031022671,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4298788913,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4232533919,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61231917,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22428711,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64082547,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112954801,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767249820,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69519548,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2133928,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47011205,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4730726,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16025840,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38438921718,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32740005390,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1077540,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43470092,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1093716,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5331578,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13022561,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17932019,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66271223,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85127323,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5320511,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5779505,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7466,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3456015457,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2772820005,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3673094,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2588024,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118206,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1719585,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118574,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11675013,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73900525,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685594,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6084345,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,636351059,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625866299,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52156190,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14305053,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3154232,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12829382,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448771932,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122620075,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84824577,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55902560,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413336282,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553849557,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2476757698,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3010954287,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197839,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11172051,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124427,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28546650,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16949486,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33440255,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161283907,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124753950,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15290871,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93774806,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1487581839,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,557274956,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25949320255,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7205194162,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12442,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7465,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348966309,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339477814,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7140883,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23099358,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2963858,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134926875,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175293176,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327803089,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124372549,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130432672,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133137,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75899,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123301230,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143080394,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150060564,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542838013,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49518331,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119692373,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26265358,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302869718,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3982711228,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3204764927,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6332105,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214129116,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3790123902,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3243498189,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2871782,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2178668,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41107046,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88603736,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173016156,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80228741,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7499233,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100120442,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217389419,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63600687,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27546959,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84892161,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1672303,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13419153,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185384230,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227198637,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52592930,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1073781,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1244,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52258,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1244,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164240,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109496,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12045509,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2929049678,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2105531637,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000066136,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11946265,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697160136,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9320849,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564886,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558679,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51343657,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272801872,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,548067563,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51318794,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55707214,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312313,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17036165,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3534980,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9467439,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81703993806,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63112311077,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154795023,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186709749,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1185792,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290589047,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107005,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652626150,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3862278528,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8772124,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2550697,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2486057,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5115080,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205305,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15154871,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48045112,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52591632,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84260921,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122983393,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9217574,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4974481,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6666815,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30276147,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3733,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27778394,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22535716,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717879557,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3376181695,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2987501890,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2857335161,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141666699,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128267690,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1428507492,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555581542,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2705004643,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2341127665,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515094170,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259817692,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8950529541,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3470629636,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1185879240,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282452940,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41127490759,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39877082265,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669551995,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691100677,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62059359,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19973821,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12889946291,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6732357219,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2262729060,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586890410,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10750518,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313376100,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114463159,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130050689,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29901124,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7507758,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4519195694,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2956720256,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1026637185,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444917392,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1326395,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5556786,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52013099,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10753986,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40300757,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801467454,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388213,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36083,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389380295,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187254727,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15738809,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32031773,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1976761536,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374302911,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,844830240,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402797303,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918033096,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2008535488,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80727186,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14572565,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361865687,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289347293,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11790731,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11972099,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1843832122,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1389421691,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5861770,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19894189,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16542609,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243261804,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378512815,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597918130,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123394550,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193983590,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371725306,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311881765,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,868834754,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2062229518,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3044232027,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2593140225,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4009048,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15146161,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25963000,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52745918,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153046,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172950,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238061137,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3753510603,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31944220,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32582972,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29307606,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230675050,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94164090,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7176789,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107007,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1244,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13537690,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12683806,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19664483797,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17885946404,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13378423,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41433267,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124032862,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13426618,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173923231,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639368816,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523839,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3206412,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459481390,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,596309324,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7633615,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9437578,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159021818,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109850416,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467490564,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303266624,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180535298,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155860007,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18664,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235168,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11198,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461625,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38432155,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8029671734,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1712945831,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181664,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,834887,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57237,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710462,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39817,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11198,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1280357,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10099514,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64701,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509002209,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505952451,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7805324,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222076091,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6157907,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2369037,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16978105,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35717218,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197049289,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104945613,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552931267,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536367953,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28618,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36083,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4800454889,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5769446843,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4561731166,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5750895191,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5967386,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51015,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253825,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47720357,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904993387,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2077979409,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2456029705,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10067573111,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4182567638,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3283636,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10133109,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139359,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108249,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62214,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1072537,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38572,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11274079,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43571951,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26819642,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103670,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22932629,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3329674,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55570348,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1893783,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1555303,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4463424891,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2054108349,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132184095,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745530054,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50975375,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46611804,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13859957,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13086940,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2618155634,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2286825200,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4274151064,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3769174369,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080414663,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021766767,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1185854354,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379001169,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1312854808,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1637457653,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781403,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829910,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1279829314,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2341953842,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17525585,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11076245,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33837472115,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44221756006,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45065078,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178513926,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84941539,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11118549,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34818491,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2258300,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6009888216,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5438463471,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11145186916,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12723398631,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556476200,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539680126,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4215597,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8618866,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884824695,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2009145166,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18578240,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218292351,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1667326,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544978,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74656,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803780,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273141558,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43857051,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,905797127,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303736934,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3430020106,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3224022065,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4394737290,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5799787691,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16405739,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87118110,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155534,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1287791,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12443,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3733,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78323251,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40045937,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306468165,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,738553588,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21386564,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54946982,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614168161,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1765185342,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27866767299,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38237980968,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30130070,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72493287,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1673547,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28100923296,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31113171077,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9548551,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237520870,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50029728,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98636061,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44060950,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47898350,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439285595,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339116984,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78389,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9828270,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22396,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28966675,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149605201,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157471454,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317179748,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16281312,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16300818,,,0
+H1,2005,2005,2005,0,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541314734,,,0
+H1,2005,2005,2005,0,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334554347,,,0
