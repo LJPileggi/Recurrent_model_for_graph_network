@@ -1,0 +1,402 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67098177536,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60856832000,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148020,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1448761,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3855480,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8535194,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105071592,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47735592,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2349386,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8804303,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7284,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1350925,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262448,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351296,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217743,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5208299,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12599530,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107331400,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32737420,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248117680,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565854,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2298242,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1829520,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13037097,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32039836,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5457003,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175155,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4515084,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4080543,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4739521,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627083648,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065267456,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5263,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102033,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134823,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630429,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5631278,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5840695,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23749272,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110823704,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174238768,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250969616,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183087,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1720862,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25017,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2309938,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1052,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437457,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117901,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1449229,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92643208,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198171376,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1732336,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142402,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2226082,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262131,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26239800,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39625928,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3311086,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772964,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20094920,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2467650,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357447168,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371022784,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38382,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248522,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12551,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142194,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9231,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18567644,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10134638,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4326005,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225288,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17469808,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29460564,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,890698880,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390354080,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10768,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9472,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68147152,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22027980,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240654,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37332,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1756885,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562227,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1928730,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328297,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495071,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154752,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40675780,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6633946,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249741120,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670718720,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,959420,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1244726,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8070378,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30773738,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1599913472,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1723375232,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114742,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5539389,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460136064,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494793696,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362530,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13602,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1971390,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2597740,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18994656,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5609626,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16911670,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2109211,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61705,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6026611,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4164255,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1681621,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521437,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12873179,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28905096,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136606,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280513,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481805,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216046,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382151,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640404800,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377926976,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3338364928,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2694456320,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266497,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278006,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72146,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059319,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459058,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640557,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,626021,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5650764,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25507,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,863086,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28281294848,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22155859968,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14207329,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5320570,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21213,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442552,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70695,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142667536,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270923200,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109641,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13765,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111666,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4129,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20674464,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4218029,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2254019,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12248759,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128672,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103978,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178389,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1775980,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12340218,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2771653,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206220128,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239768176,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2225033216,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3045487872,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3389129,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15339297,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142753616,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136613728,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23038384,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188625536,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134993408,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9675944,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428121088,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188518880,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90587536,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138871408,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5457582080,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5235148800,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31566568,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6118515,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,674778,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599738,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1595188480,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558687744,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110443456,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28269114,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572988,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17684804,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985310,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5380244,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2839017,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7715136,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243509232,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175877568,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778678,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28118534,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129724,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1613044,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1268401,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42677,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1533038,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34887504,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12009040,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34600656,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382296,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,943673,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172322800,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63658236,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30986908,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46232832,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14346406,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498184,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2993170,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358536,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3407714,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,713750,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206399856,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74410272,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111097,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322618,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327132,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5538422,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6128519,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15448947,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47047,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1577837,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5307512,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2105313,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75148808,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155338048,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,491377824,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188877072,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17163,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2609700,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9357872,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8240756,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3886,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337046,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30720808,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21780404,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044128,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1643416,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71092,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14905869,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7610,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2186,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3716938,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5588220,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2340692224,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476067968,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120734,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7408998,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243832,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133527,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364661,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181304,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374437,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22229008,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32403552,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7200788,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050954,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184133,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64864,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103652152,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43569428,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109804224,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296755744,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12713,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46319,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8258,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44511136,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15977920,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9856469,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2823303,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1682314,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247151,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271514,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917558,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11334517,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14032354,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67087744,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42751012,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505301,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647644800,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960757440,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376093248,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248204912,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329255,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80655,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64371,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8922155,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285256704,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404382208,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350804960,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582418368,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572184,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228246,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5018,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5101,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4048,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15546,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6880,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51255,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114585,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84042,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439236,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90654576,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227968784,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227216,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6798396,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276292,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375017,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5161632,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212721,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156935280,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97916328,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120971104,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99721464,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730553600,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753780480,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46064848,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30462494,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604338368,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021380288,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38863,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1689499,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124692352,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176934640,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11228614,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10517259,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1042187392,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1634472192,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94658,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4010248,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168179,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202445,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982691712,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719977920,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2426062848,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3347614464,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12945764,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32894344,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1760453,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1528596,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150153136,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99896984,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,816495,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848758,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147136,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68426,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4773050,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2819346,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4623049,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123107904,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52122808,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28869612,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408953920,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503946720,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904520,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7267366,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184700,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15384,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4681572,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600195,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85628896,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191087616,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12270742,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65598652,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9363387,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113331440,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071222528,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2542855168,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,811715,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1958737,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3285838080,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2409381120,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059586,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411458,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1481967,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221470,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2273921,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4187002,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25574708,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12707604,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2623420,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41373000,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36682,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2266,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129733,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268436,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4324869,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49930916,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201991184,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2013753,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1581068,,,0
+H1,1998,1998,1998,0,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1982694,,,0
+H1,1998,1998,1998,0,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2927780,,,0

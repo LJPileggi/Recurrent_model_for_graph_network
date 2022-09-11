@@ -1,0 +1,446 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156055652650,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156588406562,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253302,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15001988,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5505049,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64542152,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283719585,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258504199,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638691,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6483260,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81663,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18091749,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278722,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647833,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18413751,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56709751,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208502136,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139576712,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138483749,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910764145,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1727350,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21439331,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3608927,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43745533,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241363861,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15497581,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9375282,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123443898,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144977,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2204035,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2628320925,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2240635616,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11430,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539607,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27824,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624976,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9177013,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5992542,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279309643,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453817860,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126851,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710129,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67711,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604170694,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696310472,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263506,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4570985,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165095,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4790,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99607,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,799318,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7854143,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59752,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574620,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351881812,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951815160,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13772837,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8487044,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425998,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208143,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71529265,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144946801,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42317142,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2545710,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9371740,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5520714,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640457688,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1212773783,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290089,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335706,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5352,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897231,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521049,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925439,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43689527,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26185037,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65574,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2454307,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235567010,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143853849,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6262145064,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251955890,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9200,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376044,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71163,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31016947,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107192076,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69354,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,700570,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251617,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12603466,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,496394,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3918532,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9558,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14406,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53694926,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13184781,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856841662,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2028461814,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3613689,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10558842,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15850371,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82351600,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4989565545,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5488943787,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52462,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4446829,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697944258,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084525154,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8519985,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75181,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18613954,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17964380,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51154141,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25272023,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4615630,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5489570,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3299,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2226401,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2624362,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19826575,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76669,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156033,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43045164,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174992308,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146608,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3268648,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31561,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3006,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344913,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51049,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035360065,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770071188,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5019937396,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5629015628,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,557720,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043409,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5544,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42111,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47418,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976445,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000179,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40011221,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5931468,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56496278,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19820,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1047096,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435784,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968774,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64791419991,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47190430476,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3830414,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15438173,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650410,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2490487,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11287,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20582,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227877678,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964379690,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633662,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122300,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897120,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356294,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4992,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14383,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5091816,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16187420,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754596,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13357399,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149130,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697905,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72109,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1771787,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60854,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146954,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6020925,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4032982,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209582846,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645163838,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3848389465,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5453683190,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14183837,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50860266,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222657878,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260911699,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303955787,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,431449196,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494786780,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53994134,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702174154,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432589114,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168234708,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284981824,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10728012893,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13985075361,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23328888,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9104260,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364084,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13038015,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2560961265,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1546609952,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085631489,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289058963,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4149889,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67514825,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14261418,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16857495,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1924195,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3369434,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,934680557,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830959875,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733584,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136177454,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270087,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4203422,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5339077,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531635,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2427753,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51309506,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70147,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35302457,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263911684,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18966,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3198451,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966560692,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98152997,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72688923,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228940038,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284056160,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229387452,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17576630,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14112901,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5233197,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2238544,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3801945,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153780,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460511270,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367497032,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293242,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3463978,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616341,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15496934,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29055864,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61518050,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10270,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4952364,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11109211,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6939590,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255982510,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525091787,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771083415,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363852591,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773146,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7547890,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38010539,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60293507,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627203,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65930870,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99179,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63315,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88158060,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93740815,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11720913,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4711001,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536769,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102609462,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38162416,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8996551,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,686,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4732,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364700,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1215165,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4648488344,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2765240971,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2084557,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7771591,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24140,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044544,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106152,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6031042,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32128,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61562018,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124521043,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375652,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344928,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6619,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,969193,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162936909,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222925866,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358150,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53659,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,898,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3383,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855065,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750392664,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773442585,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27109,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81642,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58478,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34074,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2696749,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86644339,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131069369,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13108907,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27693388,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696010,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6159126,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889982,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6379716,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22337541,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53356729,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181474820,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99076256,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8292,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2485493844,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4012944219,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531686661,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647320879,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68605,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13685,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936300,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103175432,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,901390511,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2799496902,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547624603,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3556006404,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8522450,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412497,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4117,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11063,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,499997,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95116,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399481,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1711332,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6949,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448979,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9279408,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12158973,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714432,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58534,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307195911,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592127894,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875190,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10952342,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316259484,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,777771506,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8656734,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010933,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134034,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527730,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463491109,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723829119,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209588725,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436715915,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3166699810,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806971072,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306902597,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93568422,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1531362401,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3227262810,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85244,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23500,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460764370,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832686952,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10467318,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966877,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2313833109,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4463714378,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,798359,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65635099,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3362180,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6121820,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35483,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166392,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041133009,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1764120591,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6492481114,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6856433171,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338941985,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59485023,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9277229,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3242687,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521037357,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255245671,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173752,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2676461,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933031,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78904,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,593151,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15301861,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51497406,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687796397,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146124562,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106279331,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180835192,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1293704422,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38751791,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45188047,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1463,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216550,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4091,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20230,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009276,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8058718,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706820077,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1014935424,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34113317,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111367344,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38210948,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267353994,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3197972212,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5537836113,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4915869,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7537607,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81850564,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5134381138,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7917986532,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670943,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754569,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4204412,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25992622,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5267174,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67607594,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96987928,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113915405,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37041,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8097,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,533398,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27339042,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1610093,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8114936,,,0
+H1,2007,2007,2007,0,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77996547,,,0
+H1,2007,2007,2007,0,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161656683,,,0
