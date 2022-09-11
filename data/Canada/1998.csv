@@ -1,0 +1,402 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201372549120,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214606348288,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334783,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54610,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128418,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2933603,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372529024,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367701440,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11044952,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6587503,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1813683,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5725484,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249221,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6883641,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174714352,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230816880,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864983808,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,654117248,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421115424,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179475232,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14834760,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16525494,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3930240,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6346445,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94458440,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97196472,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642605,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780462,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7898353,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24538020,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770847360,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118225664,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5121954,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27078856,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3084,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9321408,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12139977,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281943,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2298318,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928847808,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,930402624,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5567846,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2534789,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16855,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61568,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76774,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413860,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1771859,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365124,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636110,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33248960,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5611213,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15472510,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717667,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552313,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72923,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267298,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951105,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4269752,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448813,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9813390,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12017825,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238870,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719114,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8269714,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156674,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11266,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65194880,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23931256,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43353,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81312,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243066800,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227432800,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5162410496,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1682306304,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3306,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23850,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229074496,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317369536,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36855,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45316,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13177662,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2871139,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4613956,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134347,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20136,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135640272,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32553682,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9577658,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9276127,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225449840,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316769792,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1675042,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16815226,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83610440,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43015684,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4061,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315189,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386199488,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115564008,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1278189,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2181285,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78208784,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64386716,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129721208,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136062464,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21341216,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22573344,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131205,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85573,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7030119,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32534876,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19240430,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3901190,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102429,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2085304,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1818824,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420587712,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155847584,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3333509888,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1140738176,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525817,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,980317,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4702,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33357,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262550,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228952,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3404578,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044669,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9593344,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84451,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,611189,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4127438592,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1829560064,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10908842,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44334472,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1251406,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19665,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1409,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7314,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54031852,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103778648,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2526531,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4213710,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717598,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3304274,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105673960,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93900672,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18585252,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10570548,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136995680,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6720343,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2986566,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16485970,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52892440,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12647955,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846689664,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909875776,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64206536,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64833560,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60128188,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11589905,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,621640256,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367184960,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103719840,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177661568,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55300644,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2045752,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742697536,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299482464,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281512992,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154501488,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2317680640,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032964288,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78208472,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8373316,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172925920,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66093756,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9437557760,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5805636096,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9192653,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16553000,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665973,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14797231,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12912706,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16154546,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358363,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3647898,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2236000512,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1224570368,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755781,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44409296,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16815,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1978852,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065641,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1778862,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5363946,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30521484,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2104279,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10069738,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627402,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2021046,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77848472,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14884022,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6138835,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41859956,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3002652,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4146943,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1718605,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2517931,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2984552,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1347256448,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307308640,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2318037,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5385577,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13138236,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6368331,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22076652,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5183683,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155869,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79863808,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13993810,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3236221,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5174450688,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,980349248,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2718091776,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795738880,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228598,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517670,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17995,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54938,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59194996,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128904320,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984963,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29751288,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466000,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10178864,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65134,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48100,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2416886,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4325181,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785422592,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1259708160,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17617318,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17094220,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261052,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1276694,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261721,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48361,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258321840,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141109648,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14984448,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8394508,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2248802,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1335358,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203180768,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135064496,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5652270,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1311,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421218,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1691,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246969,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1704899712,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578963520,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153448944,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59406576,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37598364,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36557848,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2995785,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15090431,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2508993,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9438887,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115540712,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126205984,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646382784,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173232992,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364459,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115180552,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138777088,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139099264,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86391064,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144652,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6491503,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11419952,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81708584,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37564896,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493690368,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194119696,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1428445,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984608,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12104,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50762,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3029713,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3825500,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3207,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,679077,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067068,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7748009,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885563,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19615036,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134382,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2478281,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10280,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20388,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265453408,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214941392,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649293,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15792301,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142886,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365827,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1613994,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1447031,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606161920,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262560512,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796513728,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285880800,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46297476,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12183952,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122538720,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36723740,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41730320,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61967952,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27952,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22325,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392232416,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227875776,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13241158,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6548067,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562670592,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390310592,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12615,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428655,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26222296,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58698760,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3517972,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922466112,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247594016,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757802112,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623965568,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7763721,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18409128,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4036965,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13270,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858867904,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203004304,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47643052,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14457190,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3706740,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148372,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50006,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31235,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23027304,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87446384,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8014482,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195570320,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5732536,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26363696,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168466368,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152388944,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7476,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781760,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460489,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929860,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5005952,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5226525,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46520696,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19854306,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3628051,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721161,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23411838,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106288480,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4204208640,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2975000064,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784822,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13435205,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42153,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3285029632,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137306128384,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181853782016,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16508411,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2011179,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87348,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1635595,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41037388,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16189827,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8769659,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3643210,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566958080,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474220960,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3437,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3938,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22443,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90042,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4120581,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3997402,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6602489,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34811984,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4254292,,,0
+H1,1998,1998,1998,0,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3558276,,,0
+H1,1998,1998,1998,0,0,2,Export,124,Canada,CAN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61315,,,0

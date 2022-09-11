@@ -1,0 +1,396 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243552880618,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266098208590,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161597,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17265197,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16113459,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69988286,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222226410,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173264,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721828095,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45721834,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1195070,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4276387,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10766979,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1281026505,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573695719,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5425925470,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3569445889,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662051931,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353629288,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21600,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34766753,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77676897,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52087356,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16699463,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,955154791,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1174126,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2270161,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57997,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5413972,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1720943900,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2529806982,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3927,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11090158,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15498,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1604423,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9514944,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7736727,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,674173,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1543346,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14231542,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2347232533,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1350925018,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6274659,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5940039,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1023297,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544714,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148237846,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17156299,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28462810,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89017888,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134188026,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497349456,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2379,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1155449,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34505322,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8753309,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34804308,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205653505,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183698792,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29310772,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4027798934,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3345577043,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2212932,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,502618,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1389670,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567341,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10140610,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386446163,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10816,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283181,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303461010,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,814782181,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8765500050,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26932831,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205273349,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41693,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456505,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181403802,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38164271,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7885232,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13126988,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112792,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267368,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26508081,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63097741,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5123876,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142120483,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114049385,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331443782,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1333510,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116276212,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92246044,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523818461,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59840,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520456565,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625699876,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,898368322,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,900538,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87595580,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223866,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38208002,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28096767,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134051379,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432799,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99589257,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508580964,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3354587,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1769685,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78797585,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9445,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2834828,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10847674,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262867122,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247402,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26083627,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2376264268,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910208600,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4106236413,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3701082564,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56837,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3175553,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321697,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47318798,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259354401,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5889490,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3291740,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3712167,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72507348,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51168,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4890807,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13772189970,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9751099988,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36600750,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145884684,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,887505,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497021,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58499678,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693839396,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10460656,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429115,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253411,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211107,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162915069,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42513,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44060108,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2371489,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12408020,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27376,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14450035,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112519,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64841301,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9422497554,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46541241569,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130360574,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030578324,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18585194,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32273121,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887887101,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2835706342,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2423970664,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,888579972,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73021551,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394940602,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612508381,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530235069,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483240180,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832612053,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3784278356,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3991554910,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7774740,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257650680,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33929023,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85135826,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42787308141,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44940523792,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960650767,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327718673,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48306629,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226152986,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5877610,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138806929,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166739401,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573099190,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23376945399,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12518777838,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450196647,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192256436,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42220723,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76638733,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7458049,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54409921,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2591263,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235686549,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1128751,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16765245,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5048758,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47054600,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28786760,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112723107,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54200726,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40981224,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4434933,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58895265,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57999366,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38941619,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119119619,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742356972,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8839954,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72864322,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402542,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4493128,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6203975945,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3221098347,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102941,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2099037,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1019130,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22927813,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71490602,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80277797,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94002,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1151270,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4369173,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29868695,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8951553,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87184163,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,761275612,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1790216774,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27338758059,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5001070526,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239497441,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122844864,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12637132,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2149874,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37285,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84348671,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299879824,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11193891,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22041054,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1609582087,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66735658,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11262864,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21216536,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395446,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4631737,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148542596,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5438986,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1456696166,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7278426893,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46556848,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33641,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3622034,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613934,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3051705,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320392,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1150885,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736742139,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434860715,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86726,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34544821,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6482898,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227157472,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917183140,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38044,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,776798,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570675782,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410991582,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9975,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1862189,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1822943,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627571,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581873575,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,814968254,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1951215,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1239624793,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122383134,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19126772,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2832454,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72097187,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498019115,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176519611,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1945208047,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1619111816,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226388715,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1016094403,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71460151,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260568014,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8299380,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377048405,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31555930,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84208,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630862,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103760485,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250413701,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7958794510,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2710471970,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6369694,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2890869,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14385,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106112,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3021487,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13075044,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18120,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383458,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1257810,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2715895298,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1354114676,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375639,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52556485,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50792,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114537,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2801,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11993149,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1699093454,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1895832787,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5128281291,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5790711209,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12892740,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61356951,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010785663,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1797775199,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12700846,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77113344,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514941,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1115490,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1173201416,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1048574038,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114891888,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33264697,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714406689,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2296288991,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892724,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938126876,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219947746,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4082146,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12643380,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7013721,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2992489,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2167405606,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,931508105,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1730429171,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652969247,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14193,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223156647,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5451661,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5301046,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4713848161,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2337109453,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225068,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108752148,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11878,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169769,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66985,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34942675,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447609537,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2377322092,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3203986,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106154706,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230937591,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,674006603,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223780,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31487879,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3250,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1236219,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16240307,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610436778,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247157506,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150375,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10256067,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80318329,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873207874,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3526938584,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6780522858,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3286412,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90146794,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26217375157,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54355080203,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4060183,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95526466,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188949972,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7616917,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50683849,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145774128,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443348809,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2317172,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451363847,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209691780,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9984531,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87411559,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35924121,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38835925,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147831,,,0
