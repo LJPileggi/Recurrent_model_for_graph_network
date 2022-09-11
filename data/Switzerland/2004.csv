@@ -1,0 +1,440 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,127467682066,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,137795773164,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179305,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1827415,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,403846,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25874777,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4938,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,144077703,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,161873609,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,554302,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5493720,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44794,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9684603,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,635488,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3894437,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5927297,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42952882,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39932886,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,441978418,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124617163,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1046691984,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,4927538447,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4097608586,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39959759,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50141243,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42012156,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143063684,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62322938,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71878961,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28640248,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55736024,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,237389,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7036531,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3614153369,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2300377817,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17946674,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21611710,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,897444,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,589145,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90524788,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5997578,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10464699,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31584840,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,200908,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53020713,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,506,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,443513263,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1006281105,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3299,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,901567,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100451,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6219,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5170,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36079,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143219851,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120688827,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7111,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2615293,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63532239,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231207316,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1295321,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3492893,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34872389,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,556258,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3119633,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35418995,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16077466,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4709486,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4294946,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12445583,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,554160864,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1606367140,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10233,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,368355,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18141447,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27398301,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103508,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,170484,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47578479,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,174121803,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197412,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1374051,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47826499,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,111645890,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2299631360,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2557883574,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6748,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15397,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,195817753,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,171328168,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,152676,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85174,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43776,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6926,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,719302,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3171771,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,352745,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3952003,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4186,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15228,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51914404,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37093227,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51280895,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,182489462,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23290424,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11011429,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3675497,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80631221,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,794980425,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,928554662,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9016005,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9496424,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,917201474,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,838598430,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1328161,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1394279,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11494582,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11275528,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42762882,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38962350,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2075523,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8328769,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103534,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,192442,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58026328,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12934745,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60890,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1821167,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27214861,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41041913,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1742982,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,286692,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5092,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14568,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20632,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2306952,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,697585876,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,618056610,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,12292290447,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11126530284,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1440637,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,829059,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83641,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2152,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1526319,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7913685,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9821653,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,453860,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7183912,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43150,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1042374,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231352,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8922003,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,37365407980,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,25030306441,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289362152,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21511580,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35349563,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24912927,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2468,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126501614,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,982455554,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,337036,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46751,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1562308,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69563,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8726548,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22188227,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93601712,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13294300,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2648277,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,759581,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1525922,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2357719,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19306,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4247,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4153396,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7013464,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15156697,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1595189113,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3605262411,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,622117974,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,712841555,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47358905,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31357846,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,141660108,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234223137,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149094563,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,473821520,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,152,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81279885,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3778299672,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,764126043,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,371616988,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,639956148,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,12821914903,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,13726809199,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28461684,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33578608,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2893768,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13380470,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2461124438,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5126738594,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,214264551,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84433656,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,127325693,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153059622,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34427814,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23370502,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1009331,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6266263,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,644320879,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1159648046,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39078134,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,190986569,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101624212,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1633946,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3299641,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1070654,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,358530476,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,510968231,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,334150,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9845268,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99677043,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,965871,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10623409,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,638997108,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153103822,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37146151,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77359976,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,217648371,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,320962213,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5853051,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4573819,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2133528,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2614080,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3769449,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,626192,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,235479686,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,576431354,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,202247,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1958671,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,253641330,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3753037,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3755487,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69246167,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198625,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1772228,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23472542,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37968187,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148789569,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,840631751,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,467834737,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1212519023,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,95507586,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1611561,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1676446,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17419056,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3827,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138955942,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184965697,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1336683,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3236589,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1719585,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62666780,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1057134,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16825954,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66386,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7765814,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3611237,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5630923316,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3595602358,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59992579,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18718781,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19000084,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12086769,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4325,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1626682,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27651,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83469450,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131350780,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2578966,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3048334,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13593573,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10537955,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,470062559,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,115891455,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3420,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1575,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29947,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,240497301,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,428598299,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5233,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,756347,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29667,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15949640,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,507,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14567479,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1822700,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1024,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34071122,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,482706068,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28713760,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167753854,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3191619,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,249203,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2021248,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7513766,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,243750581,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52764770,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74776730,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,189983153,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74973,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51120,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,542174700,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1084838913,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,395617398,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,706279046,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,707,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289525,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,257619,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,225097,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79281392,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,193187293,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,168729965,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,376088117,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2547460470,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,974932736,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,583288,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,480405,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12896,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,104569,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52287,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,302966,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,815,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51272,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13555,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3031918,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96676,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2288524,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110880,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1826232,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105372,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,254072,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,362128065,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1061683705,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2057526,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12796953,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62264,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1306098,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17713,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,660274,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,452788861,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4915348324,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,277461642,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1328357851,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,243340915,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,238594345,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137743593,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,612860302,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179916823,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,241019561,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,226420,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143806,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1278021218,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,446267033,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220571724,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6009098,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2781551288,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5154717152,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2272,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32735,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,224647,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26817038,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113918,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2064769,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66491,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,539768,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1350055821,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1330592825,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3557173,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106164765,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16927996,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2683791,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,584683247,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,797026004,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89942928,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12689150,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9144,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27368,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,162,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10525,,,0
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,642135,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7548851,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,984570727,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2121758036,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20263138,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102809811,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,472198635,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4089457446,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,146438,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5019836,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30150,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1341855,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2327,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10364,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35610828,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4033513,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44355473,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,364077979,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6461525,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37565233,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46712598,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,315618272,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5687047912,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6476160379,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17311771,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7934246,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8821760351,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12956697871,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3180959,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1423816,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96663866,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62443207,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,680614819,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19540728,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,87688228,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98334956,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,117960,,,0
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,128146,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,218957,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27488998,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17068741,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,175646372,,,4
+H1,2004,2004,2004,0,0,1,Import,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12222486,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8620967,,,4
+H1,2004,2004,2004,0,0,2,Export,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,90147,,,4

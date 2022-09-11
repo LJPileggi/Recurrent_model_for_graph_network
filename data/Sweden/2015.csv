@@ -1,0 +1,451 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,137987266923,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,140006470767,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,581354,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16939503,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1109944,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7978165,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45531,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,22414,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7369313,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,476056012,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4979,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65214,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1144109,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1453918,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44234102,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6639,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4185420,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,682258,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69916369,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69879409,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,237545611,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,249979202,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1357335264,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1650945362,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1212799308,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108373,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9507716,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1044374,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24962617,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,425446541,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47349063,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,493018,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10736266,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96042,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13592566,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5911884639,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5855604782,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2036340,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,842990,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,948,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2203065,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2832426,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50192198,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43719302,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34095447,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22172,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3894738,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,618886295,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,843264160,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,182006,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,470001,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,188053,,,0
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,346660,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1816865,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12186357,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53238,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1997536,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151809437,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126479383,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6949452,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27625129,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9221038,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,172796,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,53011127,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56170693,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69606814,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7640993,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21618951,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24349113,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,440277178,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1048872915,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44938,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,834688,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,592,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1388538,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41025,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,952337,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62457806,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40500419,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5739758,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166768369,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,305965162,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8216406647,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5321440788,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,237,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10552,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20754,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48498903,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99342400,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,948,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,211340,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45412,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6295861,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,548628,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15018344,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22884,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30831690,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26259954,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46880171,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85799407,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2367865,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29534903,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28669782,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23533993,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2017215078,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1043289823,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43041,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11274343,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10554444439,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9510975419,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103749,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,899917,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38469922,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29113645,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49461819,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38578311,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4958169,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25077894,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,739573,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16669319,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,159895505,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34148,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4504210,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2160796274,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1051762422,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2910327,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30340417,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6404,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2608,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,242240,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5973751,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6287623443,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9253671718,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5922849858,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5714148445,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,115251,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1014600,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20275,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167340,,,0
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6402,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5955368,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11619,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13851227,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131258,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22532320,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6995,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3816345,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153549,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2255010,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24728936603,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13978875464,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9558135,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126993858,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,281132,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,169614206,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1659,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14587,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,140231680,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,315884174,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90114,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,94115101,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9129,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1702465,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,347134,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5387752,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37041644,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,505705,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8267424,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6639,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8608036,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,172639,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4158736,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,948,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,6284,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82425,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32652942,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10545680,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,331692601,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,559878519,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1062359321,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,642198279,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34993773,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,278198309,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,184001257,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,339612312,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10487496,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,300498178,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,491832,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,243258092,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1937415654,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,702119378,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145505011,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,266846877,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4486560771,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3610056942,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,877189,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41485844,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1118481,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9775746,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1537831132,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1772463167,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12565691,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81530612,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7190626,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69636953,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32292248,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50462482,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164102,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100096,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,784254932,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1126855923,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,610166,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92403978,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247813,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3161332,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,21718670,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,510917,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15925048,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66510370,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,95449,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17789,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,593393981,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,416427611,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165762,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5520946,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13754,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21962340,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,918472330,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,865451599,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,306475728,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102357620,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4381676,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1468473,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,42613626,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11670932,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1766946,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1907401,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,417477614,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,320583952,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25967,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,2472755,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,251607,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9916521,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66541751,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100739359,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55372,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5920738,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6756656,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4756348,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,147932281,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,656249699,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,743846847,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,442878982,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,589416,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13499823,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,3476030,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9317486,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2783456,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4116752,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34148,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130931,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,88600957,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322780376,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,806994,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12880270,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1327640,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,207580436,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1323490,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27268625,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35215,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1477158,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13468276,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11100989908,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7172038531,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27271,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1762357,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3557,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1424710,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8299,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,457430,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,948,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53724,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64976,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6136822,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50985,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,244666,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50561804,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,150920528,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10124787,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13835454,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79679,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7160792,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,773717281,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,248739545,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3725500,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27389,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21607616,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10786056977,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14107673426,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11264,,,0
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54910,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51341,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8183,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,118,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11978,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2727,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8181,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69023,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138939255,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,230861343,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27207445,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37347151,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,256113,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6027001,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7827827,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7277610,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136281839,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,168628187,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47733883,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151646107,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10671,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4773242594,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4274070265,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,423534107,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,714552418,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2545693,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67126,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164463583,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,205523245,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,449264868,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,319680714,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4728085261,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1702241883,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2949574,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7192932,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8418,,,0
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,790451,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5809,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27633,,,0
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60945,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,982223,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113260,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2252,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,415446,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5692,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2252,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101519,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1021845,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3179596,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4861,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4032,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,125264804,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1225869690,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1004178,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17915086,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,67488422,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,128770803,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7588,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3695732,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,949991,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5710820,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,711362750,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1232241692,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151717545,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,732072219,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,960306471,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,298168213,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,943986699,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153441553,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,214440832,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,128715774,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9485,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1672223,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,193488605,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,815365664,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1371156,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15575633,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1861922140,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2683211027,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11975,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1938237,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,200622,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78274521,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3794,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1125370,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42211,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,465257,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1086014613,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1606286743,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1534428,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13229658,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4031,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2268175,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,491358916,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,637714230,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,444760,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7734210,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,115962,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,338832,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21342,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9131,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,116318,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15742618,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41004735,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,780709843,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13154160,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82572609,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1192065325,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1505874238,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1304,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18767919,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16837,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234822,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21461,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7291886,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12052935,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65211146,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,252803285,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13164476,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12609868,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32741159,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,717892714,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7561442957,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9853683480,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6167594,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,87646087,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,673126939,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,3735365361,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10161580475,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15532,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21307208,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7478398,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44639468,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,882880,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18200075,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,349675214,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12770805,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,316180,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,394960,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11732603,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3916048,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53877375,,,4
+H1,2015,2015,2015,0,0,1,Import,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,241215374,,,4
+H1,2015,2015,2015,0,0,2,Export,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3188750827,,,4
