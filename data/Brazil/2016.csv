@@ -1,0 +1,434 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,145247873733,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179526127510,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,158435,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8782814,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,885997,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39335464,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1719064711,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1063292078,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2842,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52205,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37709,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80493,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75821599,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,539731115,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,351376,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6709390,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,195750,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11105651,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9445952013,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13417339572,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,879697196,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,419793787,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1094396844,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88317821,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1682734,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,334943730,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93388160,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,260020877,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,129172970,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1091413782,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118896,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38577532,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13817395,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13353329,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1562051251,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3232960330,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,132,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1734200,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89910,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154447,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1482979239,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1428155433,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1926009,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1196567,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14437,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4042805,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22984,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,223245,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5072509,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110161,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2032120,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,87819453,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,207973,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,592149,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49770271,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102503736,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2111229,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185185078,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77481,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,458868420,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10362353,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25317060,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5942577,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1095914,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42167149,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1985034590,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2365967102,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51835,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19740798,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,386175,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157473067,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,206391,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6198178,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50620751,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,160832526,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1996531,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3043030748,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4080526602,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24414045617,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35133314867,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3125,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2180,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,967902614,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2231079816,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42687,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1912333,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68103,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31029109,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10083194,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41429818,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50988099,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,301611817,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7318801,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98264010,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55514412,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,321439180,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,415348,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24154132,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,483927155,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35475500,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,429,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71094635,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,626934133,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,244615433,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59587,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3128927,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14591988,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,580259646,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149843275,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,653583444,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6525400,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,87560356,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,150451861,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19649255,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58471,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13647333,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,294,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22447176,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27609692,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,57074396,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8881,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27516,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103464,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96355,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1070553,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,633421875,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,281196291,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3789303136,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2334633661,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,417,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1207579,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10159,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89588601,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13187,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27515360,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1376344,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,242861365,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38053,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82097988,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145203,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27894419,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9405007975,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4860766756,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,190783515,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,213415083,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53622,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,211461,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,487,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,173953,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,111947477,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126230657,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,870,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35580,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36101,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7639732,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,329656,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40856669,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,194928772,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35426276,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6302387,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25823415,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,589647,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39706403,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12839237,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100952897,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,493191068,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2261480735,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,291229454,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197729211,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16074008,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82166949,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1283104928,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2204403944,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82645517,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2232512050,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118761579,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,455498922,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,478423332,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,216759198,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,721483605,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,424961925,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3815241143,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3321622069,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47736596,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47031871,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1420050,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58210728,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3693345332,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4604146067,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53096256,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2187026,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6431862,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184161132,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,648290,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58927299,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6044045,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2051942,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5695393257,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2881006714,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,308450521,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197832516,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84658,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2309384,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,620643,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,695348,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2138777,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,280434353,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8406,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,494418,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9719381,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20739576,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89165,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26168793,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28100647,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,141496151,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23781509,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31577949,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137033856,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10959314,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2572909,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312829,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1017633,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30391831,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1399602,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,429493,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1222792893,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1842205071,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25236,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14342926,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19776,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48144190,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31464961,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14018208,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,499553,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,119896798,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,484335,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34710638,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3668060766,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3813037793,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1689097101,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1445014104,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164988,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1973496,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1552116,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2351492,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149415,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25654840,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143529,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77499,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,688673397,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,488509327,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24057212,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50564774,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101115938,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,492356482,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,204876,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24012634,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3007,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4029,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,384193,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1130671,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1871296629,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6954511332,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34782873,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138924131,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64710695,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63191,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,370198,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,463677,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71391,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5170575,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,279,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74476,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58824484,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96784854,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3442502,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103475688,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39138,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,484929,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1358366598,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,731352631,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,132943,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31931,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,561627781,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,728529340,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,740,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,263227,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,221676,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1257,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,223684,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108921,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2655525,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,163,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1093744,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46964270,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,433362449,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8796990,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,308604535,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16390,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2839170,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,3001466709,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2220841458,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1296354291,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1948437570,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,201404329,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,436271310,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,506778733,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,427732756,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,662178472,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,654463848,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1324394,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2410816,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4297,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6627312,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,573336938,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,378007009,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,278846101,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,214586424,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2143694108,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2299894613,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14064,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,947796,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,362188,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5351,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16140,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,462663,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2941060,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61045,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,737652,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70756,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,366785254,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2054436,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9470011,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56134,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1158233,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1348509486,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2487253111,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4663036,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86360764,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27180645,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39924009,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,394453,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9758965,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198089,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24262267,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2573361561,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3161432097,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,438081220,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1301983286,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103435941,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23320130,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1664478495,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1398745712,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61943815,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,428003821,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14422,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81423742,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,355810737,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1397021495,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19711434,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2645592,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2684844199,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2629667637,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,665278,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1174506,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30414563,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,404,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70129,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26667793,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157174,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1698535,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1011449677,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,514496043,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1945576047,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,850126486,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1192869,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105826308,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3258,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3047271,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1406435210,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1714704337,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24712,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58997349,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285707,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,288263,,,0
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,880677,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,271382963,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,188160322,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,391624788,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2235068415,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50579263,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197235586,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,419279937,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1446118810,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8134,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,519378,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,117,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,503895,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2338,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4522,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3977380,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33272707,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101057661,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3280393,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16591724,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100827408,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1772017724,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2360251407,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2868716506,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82361,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17981631,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1731498659,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25233931750,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23298718605,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1262032,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1322525553,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2743829463,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,502183,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13546336,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,456815763,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1280704652,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6525,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,384860,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,678266,,,0
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,141041,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,384358666,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151013,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8765788,,,4
+H1,2016,2016,2016,0,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,305373066,,,4
+H1,2016,2016,2016,0,0,2,Export,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,438,,,0

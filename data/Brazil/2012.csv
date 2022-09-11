@@ -1,0 +1,437 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,235404475808,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,239952538158,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,125917,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8366059,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1811030,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39526485,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3290771085,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1169358734,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23104,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88850,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1108299,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,366024,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47481681,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1143041491,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,360637,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6347088,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184885,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34047528,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16997931924,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17986736999,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1359528977,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,504065518,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1581044407,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,227866511,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,357220,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,213077068,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35458559,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,413543601,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,195714105,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,705432897,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19606,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34180839,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1565769,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16197528,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2156572543,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3734958808,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23288,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1156179,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4059,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81697,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3688292683,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1472448205,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5808355,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1670468,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10932,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,658988,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,778913,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4157386,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80894,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234388,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5873868,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15413518,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22517,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1092018,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86760832,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,358774290,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,894607,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17380063,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,121753,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,301458,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,886197724,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71066509,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20545179,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4456873,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4184578,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106959305,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3270970917,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3078221157,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15670,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26216748,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13244368,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83278436,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,128811,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1315619,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49500106,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120067164,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,111095,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5427905,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4357612845,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4601414246,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36467430827,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41225811420,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8930,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105281,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1355637510,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2820837912,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16377,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,389065,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,506974,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312435944,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16061551,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45737670,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,213310,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,510369501,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,448140065,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42465482,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,242206232,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110654491,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,555121576,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2447713,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106573341,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,566895965,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54330695,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3110005,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,156031618,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,747881840,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,446639194,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37784,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2931657,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19977979,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,490370283,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,140572329,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,897907833,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10108604,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,173353933,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,195268006,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90514798,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,174423,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55184176,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,181512,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21485780,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48028969,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58018189,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1200038,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157275,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3936,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26152,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34298,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,585427,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,905760918,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,624030059,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6098163951,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4136896777,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30800,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1208443,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45137050,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,132832,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38135665,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,354480,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,210563773,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1074658,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75853465,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,97944,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22390247,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14718629980,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7274547267,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40377033,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,318308408,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,275587,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220993,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1037,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99933,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46699669,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,159609514,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,704,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8150166,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,135798,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13672532,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,237266180,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6023517,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59456230,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,216422,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33556728,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,782251,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51935534,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40433,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,930,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16851581,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92554351,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,916233230,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2456371629,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,353229704,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145618010,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15865098,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,284400263,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1823050551,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2001767098,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25949312,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2177150810,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,981714505,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,287094762,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,713893469,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,357704351,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1190970165,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,376001993,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6477255125,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4579859769,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,181933779,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93788723,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10117387,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,224267594,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8042900354,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7954950502,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92960379,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120151852,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2122308,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,215003963,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1487939,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289256060,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43785494,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3428440,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9628994344,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4490872047,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,996796385,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312802923,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3514,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4777316,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1605918,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,633254,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13061546,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,292876391,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68679,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11790,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5668990,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16187703,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3474698,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31402700,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,422336020,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28924237,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50398351,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52694226,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72986421,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12250690,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474249,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2251173,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33129737,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8751588,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2362621,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2153666673,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1573260351,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1946,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11956961,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,326110,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2068541,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55451397,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13758717,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,971,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197986773,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2024489,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19130971,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6322142356,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4002461574,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3303624249,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2341218935,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,351121,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3835185,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9873512,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20681377,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,140,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25290508,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20547,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16395,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1337722572,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,872289566,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25384964,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,122186877,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4345827,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1128976313,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100720,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26171098,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4281,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,955045,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289961,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3221452612,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13385969129,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,639989779,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1334147996,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82254101,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15213027,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19051,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7686250,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164959,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67169766,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62205285,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3060222,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96829278,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,186594,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1748272,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8119656361,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1066605421,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41797,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,162368,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2690,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51145,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,916830843,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,865203979,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1519,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1092,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38609,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1278685,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2563,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145269,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78258,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4605568,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55308,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25823,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96588197,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,192839660,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16430880,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,397114327,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6040933,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,2826677189,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2617442885,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1339850867,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2410458739,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,319811893,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,777292630,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,648,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,667945761,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,389941782,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1055489513,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1624614531,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5186434,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2844849,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1572,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2576416,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,807677264,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,316707521,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,317286082,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,338127179,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2990299429,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3139764566,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45202,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,460278,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,619315,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2534206,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37303,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,367532,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61626,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1253522542,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2010,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6180,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2031875,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7891489,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27087,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1401,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,521787,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3247032770,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2996851274,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,807849,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124501372,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36513717,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27546982,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75580,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6682022,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,217997,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56057110,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5265071301,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5575574651,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,891404919,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2268271174,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145512466,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32443980,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,862929830,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,816907334,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81535112,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,346224072,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3214535,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11756652,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,890900391,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1764251483,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16832,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20104369,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3740243864,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3688113242,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136311,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81792984,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1576162,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61130251,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3713837,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,695320,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2064303668,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,479736502,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2851502242,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1706154629,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2553335,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92013711,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,886,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3222864,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2675006845,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2065079599,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3874173,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78845485,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,380597,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35061,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,702969,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,729175345,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,601415609,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,330702341,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2453043238,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145713425,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,351416171,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1041512938,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1206706408,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12712,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3437998,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1916,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,700232,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2007,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6500,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,304484,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5398193,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,422386650,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,622212271,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3622494,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21787467,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,271405925,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2711017975,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3626087700,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4518090177,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80474,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64642191,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4866496202,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34234736676,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26795355394,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60856,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3030278,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1881279829,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2184176924,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2165719,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20869870,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1074994123,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4993539470,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28774,,,0
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,163005,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2129444,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1408684,,,0
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,453844,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,425577355,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1222512,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12276486,,,4
+H1,2012,2012,2012,0,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,371543730,,,4
+H1,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4051115,,,4
