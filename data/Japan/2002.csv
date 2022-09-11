@@ -1,0 +1,435 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337613132781,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416729388431,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1603417,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83564210,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506681,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1974886,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2526,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1062613,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38993014,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192430295,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2475875,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3928915,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64584,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206276,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394444743,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34770874,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77976,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9832364,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,704320,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29797620,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443164268,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189286072,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14018216836,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8307199049,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,915467900,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,866837395,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1994162,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483282352,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159182361,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254660859,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112351918,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427391431,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2749995,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535281,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397117,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30261774,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1482777954,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4595309483,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3833411,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21592933,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39952,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10078983,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39265079,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30839928,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371596,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636145,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,424612,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1348700,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2667125153,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812270064,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7700648,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22713071,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61147,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20597352,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2089983,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71836,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2602296,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1519350084,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318285532,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20697091,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11317217,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109821165,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115678023,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269627,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264984,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5351264,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8345255,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74918548,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69954320,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4729174,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18633783,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7155960608,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7340304978,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23434,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4903414,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108901,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44533254,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1075781,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2480305,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167256485,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284212483,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77073,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,765211,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2148568883,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495777078,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61784474320,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39824769806,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226900043,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585984197,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977681,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4794995,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79328198,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7116891,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31126419,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12295339,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2836693,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084982,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134695632,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376417784,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59164292,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10438773,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28180905,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26214435,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2758885,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497996601,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181930307,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333534111,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170775,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8534735,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2173465417,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599636672,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1254463,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8996873,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35009967,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309314930,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182307900,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340774863,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12556233,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104340782,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47850266,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1429976,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42498530,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46463819,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169296,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6724281,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17762522,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84400700,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2721588,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22944,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46023849,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32115549,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1036004634,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087249921,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6535412367,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6172002189,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92902590,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23637003,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16870,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15305175,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35137409,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27653880,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5292836,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6098806,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155673,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6029910,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11316,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12414458636,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14122267283,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69627247,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46818098,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39630024,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21578695,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7729170,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76760284,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624336960,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61274239,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284783,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215548,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5394974,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34644279,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87818910,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73704013,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190528976,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571666,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20028811,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202094,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12282879,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466426,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27724256,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45551770,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85795176,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1423014182,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25402203019,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387994528,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802674098,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101199321,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35283587,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14183286933,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6236416312,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4738169580,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,775479949,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110967559,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284259163,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3204085983,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1452457908,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755502259,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734141341,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5425446653,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4492177401,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11676556,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31213793,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34170450,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149377520,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98732801,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91963159,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81489025,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147075945,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27762233,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167017170,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235072938,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132341815,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15484805256,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28569755267,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4206804961,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864617281,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9848700,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304843,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6721720,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18008876,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4978709,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133982055,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262095,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432220,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17525595,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12425926,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59020,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897697156,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6280991,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306347407,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17669755,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26032289,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46852525,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119028376,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19955234,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92216041,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35353605,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9881779,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25814099,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15276521,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11203934193,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11017114862,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17645537,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3690692,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530859,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5683396,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47605320,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218896036,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42254367,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17770254,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14348086,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52063643,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1799757181,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3777380913,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13583082231,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26240543470,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7411074,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30900172,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200837,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256249,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2119,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610528,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326562506,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136883816,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19797722,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85962039,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2098534628,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,857383494,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21845691,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3231361,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156736,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209089,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6279751,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16797474,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4516104,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498254,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1799817168,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10581526166,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3529757,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49613696,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111303345,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19196719,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4356666,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22950853,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1900421518,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441857990,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6941274,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49533899,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465147,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3084699,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,743793779,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260902697,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4245,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14603,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297746,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8484832,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067613110,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,666171551,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1363380,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24977290,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4022,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91449,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14560164,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7231291,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5299128,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152966886,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9194533,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5593235,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151683181,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716535175,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78519765,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4631971616,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276893179,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46071833,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23261008,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22197375,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428428523,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273455148,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6540101565,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8458453775,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19724,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630569,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89263045,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406838359,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143605692,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556222908,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1378729,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46531,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3294531,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5253481670,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369321374,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487421,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49904572,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51062625,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19046802,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3276510379,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944973362,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11921,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5457321,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3556724,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36827,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13752,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5841726,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4733,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737412,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163068,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6468264,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8739,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26312,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5469109,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256955,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,833172,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11631049800,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3758081069,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11300602,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19083398,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21970263,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3010956,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850791,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5300583,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2094694677,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1870338881,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5011066361,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14191439542,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149637931,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48102995,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2528676972,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2130016732,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27307576,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71299333,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82813,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328248,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2892464568,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1553832598,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125439593,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15251442,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139411795,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2706972954,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7108044,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284568147,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49360822,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18775981,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32204846,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5178250,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3894591,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2043551645,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1420276085,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300525189,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605898472,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22139775,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181383162,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1820684,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038446,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10510309690,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13184118192,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156488,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19417332,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47387,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33077,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11680178,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1725979,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2416551,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107917737,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11594941050,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2948753402,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22806598,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50851145,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168293913,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846980781,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875807,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5318512,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537752,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9534761,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14584757,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30067720,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147053259,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58005263,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6979938,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1317838,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69596138,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509410232,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5414953069,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11978655616,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105353192,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68737295,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58808959340,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120388713671,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8429730,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8613404,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52313506,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30477612,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73882487,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17055802,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119943282,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421927792,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922249,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21490504,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75497162,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73303433,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1863354,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6461794,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66215946,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19423218,,,0
+H1,2002,2002,2002,0,0,1,Import,392,Japan,JPN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9141693,,,0
+H1,2002,2002,2002,0,0,2,Export,392,Japan,JPN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68273,,,0

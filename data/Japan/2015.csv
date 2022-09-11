@@ -1,0 +1,433 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625568420678,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624873508116,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565481,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25105867,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6732507,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1265574,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5785,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,927461456,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247912703,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550258,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152836,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29552,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254738,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272147800,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82692171,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132976,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12914260,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1165951,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73151812,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787998382,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,799349308,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34791622271,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12849843790,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1551176956,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033791038,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53206086,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009248537,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323413888,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886969410,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080856659,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1374424201,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10631677,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9018652,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66005,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25891162,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2182283876,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5120955921,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6363,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56728707,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165685,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15436863,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246480758,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220525873,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6770142,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7614020,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10697153,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32284101,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7516851256,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3930772145,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4877603,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5014521,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8969448,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13753255,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7563469,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2342434560,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120289842,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103634361,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66008725,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864259805,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065433456,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288994,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5050808,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23660774,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15426946,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968544081,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302213604,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5812220,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26038294,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9168186718,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7735540455,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28883,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4131579,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28606786,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107863108,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1498900,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5935932,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269784966,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169029870,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249754344,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8791235,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5997202039,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1671691752,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160559698699,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109277766995,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970434991,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965876255,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33568,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2180159,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1579763,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10673452,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1048991,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59481305,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11423451,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2917671,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217389817,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308524408,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64808726,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34122477,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19323166,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35882247,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033653,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266956959,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683947622,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061935041,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024513,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9193031,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1836501415,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425198526,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,618585,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4786162,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79119007,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238128466,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779603001,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,424391539,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26247472,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98767857,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208351100,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9221079,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87153532,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126300332,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27965,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850928,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101128989,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95851219,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750974,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78582,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46575144,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61935093,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1433387197,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357741817,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9482556079,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5260895415,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86898604,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13380209,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,726488,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51355124,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270773679,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36137084,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10534980,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135093071,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57650,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,967657,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537606,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1541517,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20281703987,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16236970951,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121529351,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105469796,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82789,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78103915,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7212175,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30819704,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109666073,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213841446,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73929537,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13198,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9165,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8060053,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12933491,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245286966,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242373525,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245240026,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134968,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11303086,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4951698,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45354419,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2907755,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41473462,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37591622,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72387558,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1879519336,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35006278282,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1247809813,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446682196,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154465110,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52781994,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19753818551,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11538966468,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3251142637,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287375881,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997101482,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503803744,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7240908486,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106006738,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1508774256,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169127286,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7530047864,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3594211151,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20032209,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54535392,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21677323,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164822183,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808648986,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240411073,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30370250,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578350445,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70026177,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926263176,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26807292104,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44018768431,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6412359499,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1865263052,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2687114,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22773055,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97403297,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104544600,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15918861,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470297298,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957105,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5346940,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59644866,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52772392,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10925,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,863913560,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4644905,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60884334,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360348580,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52506803,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71955557,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448006464,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28356123,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330437461,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137293551,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14793750,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14658113,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30345152,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21499265420,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12003888811,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10494743,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17731966,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175668,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5835483,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143512641,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362761635,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130654856,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10415392,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10891696,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102731858,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4752458046,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10475125558,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23282654991,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36960993854,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53810424,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251877836,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14581142,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13379449,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3438014,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5194279,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6297,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,538086,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261787166,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259279356,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77351916,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138689506,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1506731387,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3220258416,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11701031,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25847189,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4513268,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134761,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15933141,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43832595,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24693,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578868,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708402321,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11598497497,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583166,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23049469,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231808828,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40134571,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59968609,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59472438,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2385009316,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2110735941,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23146390,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95209817,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275299,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19628083,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2818094021,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358829656,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117283,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7212199,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315577,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1101442,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1767429349,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956580982,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36651,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47376619,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4459106,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21151906,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20248221,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1610724811,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7853304,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15814362,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259836705,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1675651638,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281164915,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4713322138,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2703817239,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171567210,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91546848,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69793695,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240233832,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790782466,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8874093552,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9487706072,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065018728,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653558784,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329147344,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381487859,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580116,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201584,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7573518,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4926319,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16310606737,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1545811686,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841755,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19693517,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434034453,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326321254,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15740535729,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5104331530,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3807365,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11131897,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4470452,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19668,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1942,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10677666,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3826,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2919795,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9256,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9976268,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1988070,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4810326,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2471,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1321091,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708566097,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6826056802,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11639208,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48407107,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200960390,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16153137,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47661951,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10570582,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,946856,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11021887,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4865168973,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8109854905,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7905144535,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19855330502,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145137078,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264943683,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15141228639,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12531382699,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64863194,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98814028,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1488413,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5396582,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4944491754,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2689898266,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16941002,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28045487,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3661690934,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2384262358,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13683887,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163261212,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59836393,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373392,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348848,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5768297,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79010600,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310131,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9739289,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1870166876,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1337431042,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7394861708,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2700170650,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788840,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9222269,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2230140,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5328669,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20426678158,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27984355623,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3403355,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33612275,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20495,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1851,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2529776,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5176189,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55595283,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226028978,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23521356904,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8694615066,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122983922,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81145968,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,626174098,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2161724499,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86681,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26824349,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1802,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5129787,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952932,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18511848,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12935003,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163436764,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605585722,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205879073,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10531807,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8647706,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149722880,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1284356989,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6515353401,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10740097380,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235437840,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274817758,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68347457576,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126387232489,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41187363,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13639484,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60533511,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77592531,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2725905,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251285076,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114909705,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212490959,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895553,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14686343,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134923626,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113586027,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46140193,,,0
+H1,2015,2015,2015,0,0,2,Export,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73284400,,,0
+H1,2015,2015,2015,0,0,1,Import,392,Japan,JPN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1805477,,,0
