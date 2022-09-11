@@ -1,0 +1,462 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358509533502,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400685883216,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188445,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29926056,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3042755,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26760076,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121865,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2017955607,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332807397,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855569,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692220,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15787188,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61030974,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234614252,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238697,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4201206,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42332229,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152139196,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1060476614,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299694002,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698470475,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1370766658,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2109961873,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5476392947,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341713,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99826389,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103321745,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138946353,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393967625,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54348080,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97977452,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16313595,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1394491,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9345925,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38989924076,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49767758018,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516339,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80982522,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32664,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1300314,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32202696,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12234254,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17068069,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89400010,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473624,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5710072,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209802,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2145831,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3734089304,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1111681385,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1286450,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5089440,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5025,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74124,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85428,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197246,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8498858,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65265689,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109298,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9637396,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194880769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444124287,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18522863,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6824447,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924636,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4443680,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81788791,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233679534,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14114512,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3379559,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251944353,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65803403,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1781020251,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521819119,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5350575,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60984077,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214827,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256792450,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228660,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40442892,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87254946,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74817654,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177138,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13028262,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1771228661,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423799192,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28903825739,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4098818174,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16332,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307804,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464846,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601140017,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329623828,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13130830,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2194829,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2513,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2682289,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4941021,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55377024,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22505329,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65221717,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5025,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746865267,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155017475,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70607736,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547669447,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592432613,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88801992,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149196736,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340271323,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2404769869,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5081691882,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26036783,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71043604,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4156445503,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5449787402,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100504,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257646,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74689450,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77855488,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134064622,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146765823,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7126981,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31986457,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147332389,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38363646,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31352182,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43917933,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109298,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15660298,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357169390,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649331351,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23300565,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21386703,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103016,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85431,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20101,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910816,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15206758,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3899715910,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4563782654,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17922368593,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33023335434,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3257582,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16067352,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917129,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,713577,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33097063,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18873370,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80611901,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8261418,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57036651,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1109311,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28697354,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4193524,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8769264,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69729451707,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99146668266,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303965155,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238549114,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542721,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356219323,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243730,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423799685,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3128815685,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1930931,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4384632,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1434693,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4384632,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135680,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378159,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92368080,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67432878,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2623151,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95504574,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28029272,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26028885,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280155,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23213423,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358105,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76419372,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36337168,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2422195983,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1202847812,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1707844641,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3140325030,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,477393373,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463441795,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2074568179,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562019380,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1286097747,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830938039,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527258367,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62584656,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4427715493,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3882378159,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1279184337,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1646436897,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8945726173,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20109915433,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475939836,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100552555,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99174704,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30285370,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8138937655,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2771985780,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432530959,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395634527,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63073715,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224891425,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347755946,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154599113,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35231631,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21958338,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3291872285,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3132102275,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2427189769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328846152,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282681,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20796222,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14389641,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394491,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26103367,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215265335,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5025,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3040347,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191740023,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409341214,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885690,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28531517,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936079207,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170618725,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317276892,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595449374,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1066790769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1536543443,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40471651,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8974048,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11172261,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7734039,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28878530,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8278035,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5742985744,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,675242140,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4783984,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9055710,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3640753,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21276145,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29487835,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189536716,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29386075,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24457202,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19983938,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27820428,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25845826,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22028693,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,786000550,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1567252200,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3757643642,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2601723857,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206033,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513987,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14014008,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47529915,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83766205,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274638782,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79147,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368108,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256312502,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641529470,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31878571,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25858022,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7351858,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200836252,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34308252,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12820966,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69096,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12563,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3350548,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6687506,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12868264,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6235223,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18755278,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333969513,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12879571,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94185416,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385684,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15392697,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116836,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322880,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395597044,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203146664,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7693571,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16210575,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243722,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32009071,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1174755793,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1635970315,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195105646,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335573861,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62817,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25126,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16176098,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80174694,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4822926853,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3230329341,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133168,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10427635,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149505,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12563,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28896,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140705,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802802,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43970,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82919,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250092569,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323190102,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60471921,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56840662,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19622124,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13283300,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73014804,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9959020,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254372777,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98645428,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2185195300,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410654091,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45227,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3417691821,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6063109490,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1584817856,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2697227175,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18844,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6858369,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2513,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82919,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24411133,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278587464,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17588,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109302,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584240291,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1433137736,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13780567760,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6651259519,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6492550,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13873780,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483688,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10181392,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5025,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1792799,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2513,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837980,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246234,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39885076,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668374,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135680,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5990237,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4322923,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62906279,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3349291,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2452379,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5513599484,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1867482660,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17439934,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200453068,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2795264,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42478165,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5913396,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9844693,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13653450,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27191001,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2084376101,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1379151482,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4030946323,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1867487685,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1068745569,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793877219,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627444392,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287520052,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199312990,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,765820599,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7538,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4988932,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1815720467,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782437129,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61054844,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13810963,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6759199198,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14285443001,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21555567,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160054148,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32313250,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165501645,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25980250,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1539018,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6249621973,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7611623356,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2779424419,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6078180564,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169617865,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168702804,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29046874,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4717563,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806056688,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,884380297,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13012738,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140358481,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3769,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8218987,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15076,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96738,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36843462,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54126964,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729536221,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2366810595,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223523115,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329564780,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2190886331,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4159083623,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084185,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18934324,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532671,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4639669,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193470,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7538,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63422966,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28926009,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250705642,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1328804850,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59775932,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88607259,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368914523,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889070221,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22783610033,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35714631420,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91981140,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80270176,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182163,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2472615914,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29846023119,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20289209197,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418361,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16856335,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78140501,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43738276,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15921069,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30743935,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,949169836,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326863645,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38945,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90457,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18844,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111814,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1783944,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87051908,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34814540,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37332190,,,0
+H1,2006,2006,2006,0,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47611195,,,0
+H1,2006,2006,2006,0,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333014694,,,0
