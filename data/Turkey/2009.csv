@@ -1,0 +1,430 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140928421211,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102142612603,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4649428,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235202637,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4694093,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273109889,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,768994957,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1777198148,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339244,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79471,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7677,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573259,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8865,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151697672,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3403208,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140599202,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1400446093,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225820709,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73734018,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619534056,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304982907,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1203634214,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,807145679,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4361589,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5934620,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24288958,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113628438,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523576442,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133819040,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1051900,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2116,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363247,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3851817,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2371516496,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1795681766,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,540,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823610,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64932,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909811,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3341454,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52058789,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226566745,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186428,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154635,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1105889970,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388206717,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885961,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1546165,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,821,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166354,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8705526,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195043497,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,828004,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1116901691,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1385544468,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17582531,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11646567,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1777,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2073043,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83731812,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119172252,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20009580,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5562538,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21162134,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50261210,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,937364755,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338193128,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4913677,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51416887,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3558027,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604084,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98136256,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31509937,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29046,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4955544,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200386905,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37434963,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12676572760,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1600296212,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1104,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9125,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382984285,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36043914,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8103262,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2813048,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780306,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2644626,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7851212,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39964638,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6177752,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14443720,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57232,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60452261,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7287968,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107383710,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214704550,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1652529,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10470227,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42836674,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772130838,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1028649715,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489014329,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28586773,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585093849,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690864358,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495386,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692577,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7836113,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24347347,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77405805,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16461466,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355140,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5030681,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30339,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20095209,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35114724,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229030167,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587919,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2697863,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102010979,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105984350,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256782,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26109,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,913,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59081,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35183,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7026,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311197,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795958841,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196465071,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7091795276,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6211415361,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,707859,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63013,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061552,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42281744,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11584452,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13946363,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285485781,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762977449,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10889,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20720197,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274108,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29522519,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14096963072,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9793005648,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102094662,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72850617,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9863736,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169538086,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8869,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1131065420,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1629636855,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46646,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34967,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4464,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212165,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26895,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99831,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2470986,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10021954,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922189,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13472190,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600938,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2979915,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115828,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11770727,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558959,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5298827,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100112051,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229172682,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,987289735,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445669313,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6941476,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6246257,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017887914,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248791221,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3405985565,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2024546255,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120558160,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5123406267,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,815650095,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294769268,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1074726958,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1522436016,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7594645080,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5888958025,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90843037,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59521700,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16545,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16559162,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2781971052,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232840715,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,959454596,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633417314,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20354128,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455352395,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5812792,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70094096,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2220683,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2459114,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3118213745,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234609466,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184219139,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211242453,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31446013,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140002456,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543783,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395032,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108800190,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688680959,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176097,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616832,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50464911,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64951950,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1132715,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177139656,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357417456,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1795117369,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81457556,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151504838,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79460145,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19458329,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4831314,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425050,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2551612,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19296476,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30049568,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2133874,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960938050,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139109723,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6639447,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,898483,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8869744,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135162650,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664108783,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661649,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22812903,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6799318,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18509787,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335226375,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93022866,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1342410404,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129930913,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2942,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5629461,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86520174,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118090029,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5845468,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26483438,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5953,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234729259,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,598540652,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66179337,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24495980,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16583892,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105517979,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141263,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483593,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6511,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3435931,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5103980,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2543072706,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2127296707,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448366,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4390012,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16542232,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249760,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6965,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1899157,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265270,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303019,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28278804,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56590658,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68389,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2235765,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59138,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11004557,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146862927,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257481154,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27849,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12894,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771741496,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388949940,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243055,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34409,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85918,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2982080,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108602442,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619218975,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162513659,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12028389,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94974792,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7912,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1737445,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72026137,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7385203,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69225052,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61947040,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98699367,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84132874,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1188,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1817093055,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1322218428,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417987668,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408919924,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858929,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70217,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85652388,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289361278,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257963353,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2201936205,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19450085570,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3189607392,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,880,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7546996,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2954,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11338,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3071674,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3241795,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263521,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7329,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227099,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3781,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3050269,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39789953,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303615,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664040,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453088,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,775784481,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1768216107,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1489358,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95266716,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66075109,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584546894,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733072,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2752263,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2368067,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15728637,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1902606651,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409202201,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202473239,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349441072,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,814138407,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217407535,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456659862,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189112372,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249577354,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595003761,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163653,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3546047,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103312975,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,866773764,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3155627,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837522,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3776923741,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2818591680,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7262198,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247189928,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75459,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3097868,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1893,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16017,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1890994107,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,748741399,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2001886017,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3940363327,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221453649,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1421636808,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107266646,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126363875,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957189451,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131632233,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544101,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31770678,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1979,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25378,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16866686,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19452053,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667856747,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2896572145,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234980277,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645767374,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327559251,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,945655411,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754650,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57041,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11197749,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10326953,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3156659138,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004771571,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39879037,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283463840,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641551791,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2599030331,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3473433486,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5937997069,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11077557,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55281476,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965286801,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957065788,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8575892113,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3250109121,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4856252,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6134263,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30098565,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10545260,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413078836,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279963522,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120742020,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36420401,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12244,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44480,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310158,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379262692,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2596323,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2703510,,,0
+H1,2009,2009,2009,0,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4820142946,,,0
+H1,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446056164,,,0
