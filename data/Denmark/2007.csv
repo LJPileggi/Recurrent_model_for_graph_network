@@ -1,0 +1,443 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97422845558,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101957401495,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462635,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11312212,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325313,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4086104,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36800,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55249683,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1323,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71752,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41944,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2298123,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1528880,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9431605,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010356,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21870063,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14564002,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7631051,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377556058,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108328908,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163476220,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708403283,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079160757,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753337583,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86034,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8949549,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746151,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23261249,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162983598,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36546531,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137478,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3673296,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354995,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2718974,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3449612238,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1284444247,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42822561,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38384710,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208814,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228338,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4851572,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5689527,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14800007,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3495,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024827,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20968,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406500988,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306883527,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7538,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2492700,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79556,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328352,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94250,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332124,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,738857,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93768869,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152450,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1262183,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29662362,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99827570,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10231062,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461092,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730973,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,711914,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173047808,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59149344,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15374508,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2032847,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2800196,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3341434,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562423772,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859650752,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6279,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546022,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240634,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7674953,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41267,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1803473,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22779850,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18273238,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81666,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1628254,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167055263,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117640226,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5498024369,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1660378561,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4030,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27138449,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33480472,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3656,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27257,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274149,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3606169,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12258535,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979633,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4930774,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5143,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2528896,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10097626,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31553915,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157915786,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27307367,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23019851,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17608522,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94617488,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,952235306,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652032582,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993237,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2417389,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10777,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233399,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1357783,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94507935,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25024365,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8527136,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436744,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11341050,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41834696,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473925,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649781,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10008824,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73761,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096918,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291940107,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327775903,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170321321,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463127201,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349947,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28344,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188259,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2143679038,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2699071968,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3977572988,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4095952372,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466468,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2178731,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476315,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1197295,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1205709,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1968181,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,969685,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7844630,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6119,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4505203,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1072488,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21010118809,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15058228149,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4565803,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15106253,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445659,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27679506,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36837,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206508612,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,695715262,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409839706,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497296356,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15767,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1401608,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6409,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1907557,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2498743,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11321840,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329466,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3041039,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269652,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860982,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18327,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4029340,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73269,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13637,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4531797,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5430953,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397131520,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781667290,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760173140,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506592561,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153580962,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545563832,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204037483,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78082418,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13999590,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142966859,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89947,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48940107,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133905700,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1550410788,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135972832,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125915318,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4040622444,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2888204166,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10603704,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5740661,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643937,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3967934,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712990656,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1517965806,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19228919,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51976863,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992841,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39328678,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6828900,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17346137,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1310961,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6119790,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562830576,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655329432,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79212696,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51447148,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1255,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1086397,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1409594,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2182423,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1856517,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89166579,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8100,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336138051,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417201498,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20660,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5314690,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26127,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38332622,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463038794,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494186275,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332398905,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57655971,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23548783,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3169722,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1920172,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844530,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6041743,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4434957,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306919315,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104306964,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39873,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3045050,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114196,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840696,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11750275,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68490813,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58005,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403006,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2658270,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9073596,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89638799,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170288603,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753876405,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204232420,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205814,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2981028,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2520879,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7410512,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1981555,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2243195,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21042,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5139575,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30875456,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4917721,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2818681,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304739,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61158697,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8157827,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6175723,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70540,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2378180,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3273384,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6517068547,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3974955264,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303234,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13238263,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129105,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985259,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14403,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3965543,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13090,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209061,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136484740,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93551439,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483087,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2317833,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230787,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314492,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918732,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91219810,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358405026,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4691,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324608,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9512,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2179449,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4096100600,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5944462799,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4660,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199219,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90916,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73346,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74559403,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64952275,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4395593,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69957369,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2982096,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3494155,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000618,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314404,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107917787,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24379872,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69705740,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65622618,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7671,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2343689722,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2137148852,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383074873,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403068347,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721280,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30295,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193334,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3958144,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56066116,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59271884,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221499383,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1229583396,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653699056,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696927,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780540,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1454,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54963,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363587,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2567062,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3237,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1843784,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18919,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1178705,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35503,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31433,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7439394,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840902,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4284274,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23443,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230847,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4788565,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298443634,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245673,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13348644,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10284033,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49829008,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1077503,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1731192,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197235,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3122095,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688634003,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288792820,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180642117,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423532373,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489809338,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224158314,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175437569,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130731432,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243008584,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92631994,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59309,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79538530,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227778282,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4681391,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2233593,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1762840091,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2665830722,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998333,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18201874,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39617,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033121,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31123,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230335,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14039135315,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14460984954,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854021617,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,813139921,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251035,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27118246,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11202,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,911369,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459363204,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174479129,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294484,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22304113,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24234,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356813,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24306,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116158,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347926,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7276731,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255331836,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297109704,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6804336,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44849695,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1016599953,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525621112,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4158433,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31245,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12551,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10010,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3600842,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8559898,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209142939,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284455258,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3653283,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10702074,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26755701,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147981649,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5015844595,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7639729316,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753786,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11334152,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1269183526,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9903623305,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3376568160,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5574285525,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461309,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2848544,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7363963,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14253175,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91510,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6886247,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30082186,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55369582,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15807,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19752662,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35935812,,,0
+H1,2007,2007,2007,0,0,1,Import,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3331045,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3001493,,,0
+H1,2007,2007,2007,0,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31220466,,,0
