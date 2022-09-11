@@ -1,0 +1,425 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129244050291,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137020424402,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39079,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10597343,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545296,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1987883,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109124659,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322706688,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9792874,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8171394,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4551,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99329,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,948752,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63241848,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40074,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406500,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100012077,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1536648,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613803504,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187056808,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4005313927,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4110969601,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358528324,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34861253,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1887991,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873475,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248948211,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60454388,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26257414,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836025815,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24887,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1471627,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281657,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4055173,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620465145,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1350972150,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2929436,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365471,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27858,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909654,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42284005,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86080,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4973882,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4073,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148929,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1375657849,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992699669,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8005765,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,741808,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119292,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40104,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3954937,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6132853,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8863367,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613591,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2416617483,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59670992,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16295980,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71468518,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29677865,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250765173,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260388,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531204,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132429505,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2688891,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005736,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174027269,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20683310,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28822894,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871683223,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645460932,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15588,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182790,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161617,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14779481,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131245,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44125578,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353593650,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2484399,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456262,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274275676,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128293032,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15249200995,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11636503721,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126448,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11925531,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5954362,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111604557,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572961,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977536,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13705671,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400632,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712834,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12297964,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24147987,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3212574,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44653124,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228720,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12564289,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134415,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15606275,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61196994,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145353649,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26590308,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78401520,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102645570,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170880355,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41745,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1384477,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4520326,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24974207,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5789766,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49401324,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968760,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8915908,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1749401,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7126859,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22799988,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5501033,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6938758,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24081195,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104666,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17918,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4346,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160622,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25237154,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359700604,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108440862,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1692508002,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966163916,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15761,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13306073,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58907050,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1029550,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6978813,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1837673,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32883104,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773794,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7718600,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72055,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534869,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3068957956,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2465159396,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7403936,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135823130,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88990,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643244,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28032422,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214269891,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52293,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46044,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435456,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36404,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1168989,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030533,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16398006,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1430283,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30135652,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416949,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1445634,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220800,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8876597,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58618,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368305,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8540701,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2367618870,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1808777142,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31963643,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39911916,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2511697,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1558002,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23904324,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277943921,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697367947,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1181937,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264409562,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126381039,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89835536,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22123235,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94376389,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,999313871,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1900691792,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49736250,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58854632,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468389,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8918165,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15129172530,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27743856152,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24304332,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9704346,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167449068,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352979527,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12346705,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63870121,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7950121,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6956832,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6925768838,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9116819240,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857056542,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137036834,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784929,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1610588,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210830,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3992541,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5117545,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67146809,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358920,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4437547,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627292,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10562194,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126170,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6007142,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339624336,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44678491,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5716435,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34470527,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7257182,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6344140,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15846053,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4582826,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3948500,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31239050,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3645955,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11305228,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8923145196,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6432551930,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938805,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28703162,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844305,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3274586,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142723,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31215581,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,975355,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12197228,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16703542,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71722727,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149380021,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426078986,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2850567058,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3154708869,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438501,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2920724,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1858251,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107451,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9710,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52551474,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56761493,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20408380,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44276842,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13372338,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153078658,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18763340,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7487238,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468501,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9568,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302084,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15446890,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604120690,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3926404315,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18400724,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9875209,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163997,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214085,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17264720,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3514055,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4004728,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706650909,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542272918,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422799,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8724501,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328680,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884757,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114820403,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289628506,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402041,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199311,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152559735,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57517249,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25160,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103738,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114582,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6930,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,947933,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16499735,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139141,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73809,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64642142,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929645617,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36616840,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80054165,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19679099,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81012168,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1360694,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11681031,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38641986,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49850677,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755539064,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2053611304,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70316227,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274132139,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10332432,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100824957,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3948276,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2939592,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85747242,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262639403,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85920542,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9181147,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78407844,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1325149935,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342311864,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90850,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939883,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189263,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350414,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8364,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451519,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250823,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201471,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,955709,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628186,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16107,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190164,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11146,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869389,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4804976951,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1191949529,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2175649,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16193185,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129091,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5922220,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443000,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5780684,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257670,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9706556,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2905434511,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7163336232,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21790140237,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12862045173,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23580218,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39687310,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717667693,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1672903368,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9403453,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88115395,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85094,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3039342,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354556118,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624204464,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29396406,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3564960,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251745075,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665335009,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691994717,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102493672,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2617,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4707885,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10554429,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554411,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030987690,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134114020,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563139225,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421434814,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1433100,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98773060,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620956,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616352,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6336145572,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3661251936,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14476790,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62591263,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3392,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19869,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409662,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2789353,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60493533,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12414994,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529814607,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1652087435,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24021850,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80866492,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1217604912,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,871615366,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1971124,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,827487,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366583,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224672,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4398558,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7188486,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924275823,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483864916,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32045,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5837488,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222552018,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790745451,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067601901,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1546859376,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35722165,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54977640,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7897981066,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13079933994,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12377137,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2370316,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6730179,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11644342,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9932518,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3821094,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13077721,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79194868,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240600,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2850651,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12680173,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1396785,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112835071,,,0
+H1,2008,2008,2008,0,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7252376,,,0
+H1,2008,2008,2008,0,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2198937,,,0

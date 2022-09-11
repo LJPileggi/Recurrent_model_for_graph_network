@@ -1,0 +1,427 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142694802188,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150366281305,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248283,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36317090,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180730,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5484149,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282771489,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173838078,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4730485,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2122762,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50098,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57867,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640309000,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136969962,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34333,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543323,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1284083821,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3252282,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1298349716,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237063822,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4815794517,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3702296010,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316176425,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29292376,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97814,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013745,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23442979,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52713670,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59470951,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1340794185,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15495,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2651385,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25162,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2566020,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559364252,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1113313180,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1475148,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1224520,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10196,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552412,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292644,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16020772,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316871,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495522,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245375,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2425426649,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1166012281,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2329166,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,981825,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47971,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4310218,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16128329,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17311400,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1968523,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131437232,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91229766,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54518078,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42298688,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160418362,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615670386,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211755,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210918949,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522616,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21127812,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429715881,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26509841,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29590134,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1609251588,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722344686,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2969230,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903304,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51597,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375827,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6284320,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326679,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41281724,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341490408,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367908,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608400,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173847935,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147349521,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29411071328,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15046433812,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6937124,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133121,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3293558,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6046188,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130656760,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3058718,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126403102,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35876943,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236197696,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23588222,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11979,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1187261,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2893783,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27353394,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17780791,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28231705,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1973191,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6048139,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3048995,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10111968,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145392559,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72232559,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32592820,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153441814,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201302936,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206994129,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171600,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925385,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3683005,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36215234,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22672929,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47500804,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1726335,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14075268,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68503912,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4409831,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10962784,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45473920,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1905,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1984459,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3549324,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52463863,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115243,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1108,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718724,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20529081,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534092089,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84891280,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1337703194,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1003241434,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209557,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10082876,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278268407,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296326,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16686124,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6302545,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45784780,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5334,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25289741,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11840,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3471690503,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2664156585,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22372242,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158382913,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6227,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16147,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4400,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1759887,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76426369,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143890585,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281049,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545309,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21666,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091428,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18831377,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37135598,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289049,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43766933,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721619,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288535,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94895310,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166403,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1345593,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10195017,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1817366992,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2067293111,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62246591,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58324405,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517930,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248230,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117768130,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56588573,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216505260,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243033,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95100059,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103340627,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60154911,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77725325,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117848508,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1368233793,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1872932508,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122056084,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53525842,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788793,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17178026,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13263523220,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18020877343,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13768652,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202478,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160782400,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95239087,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12317151,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187653262,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2603176,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1039775,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8427205940,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7664446245,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,738682907,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173875033,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784940,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049888,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809796,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7745233,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3703495,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83573482,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114536,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31044,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4896995,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48534024,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15030103,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23260346,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110141,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28004983,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9564318,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36041625,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15852539,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12418416,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9166603,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9581755,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6826469,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44684081,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5213568,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12748921,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8530667553,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7630889322,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32204655,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43755262,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4372044,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979535,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5027258,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1637362,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59449287,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1832618,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55328188,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197558524,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824002232,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3172095342,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5043821948,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,838684,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5096008,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18971797,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353220,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167774,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2555637,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126934523,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87394731,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16453235,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103005187,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144191243,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211746346,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7494933,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1728301,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30005,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465367,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41314,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25745811,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785230635,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3442165722,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2455343,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3497860,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696756,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354265,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12749997,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84614,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3408588,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,637009821,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436253630,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188853,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10293649,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12552,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7285803,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288155838,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445738349,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1714,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32000,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181715,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226250922,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65652579,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470632,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1713140,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785289,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2193628,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5195111,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467758,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174512383,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1989563438,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44623591,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117236818,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19639578,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204279826,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10557479,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22286228,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52723286,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176533938,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683083232,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3921676834,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150373922,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358889901,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44349101,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143212170,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4001155,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525260,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216482360,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731809868,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96529295,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25069535,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92575595,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992640440,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993743528,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13143,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421000,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321938,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152028,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1695226,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1324552,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214831,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83870,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667059,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,888629,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255647,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8673,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14537,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14887,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,942256,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3421631533,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2060685084,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1731187,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87647074,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9119893,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6204115,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5590559,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3880244,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233371,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24257644,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2741418281,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11731001096,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18022558666,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12632634348,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14780709,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42916517,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3161530523,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2740178896,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12790545,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93251818,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175254,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30904298,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231940029,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,666126684,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25331655,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2667657,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472547243,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1481288142,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344152,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77881306,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1739,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7538116,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1018763,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180398,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691165985,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146845434,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634401700,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071671763,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1608549,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32184700,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67437,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8083368324,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5507253044,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16152039,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103726861,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17037,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4249,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3705384,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473851,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15632768,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1356098749,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1926403037,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21206262,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55932024,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249821102,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1158832992,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8368849,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5720634,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2436,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273749,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8674,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60521,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10223218,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5928451,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198448442,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328467401,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4697881,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881332,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243252019,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1197912485,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818897400,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1527088076,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21451366,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213953594,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7616760788,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16268488416,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48966245,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10912777,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17056127,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28581089,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7256031,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5622408,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439105,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19503855,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138763,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1547412,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6688415,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573182,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88729359,,,0
+H1,2015,2015,2015,0,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9226887,,,0
+H1,2015,2015,2015,0,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1808322,,,0

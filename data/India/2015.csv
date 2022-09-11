@@ -1,0 +1,438 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390744731405,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264381003631,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317719545,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534258251,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12282560,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21941475,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1097721,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2161,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289380824,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848067428,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1212415,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298465,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5108356,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56623,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3169598580,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271631113,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131934,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2654842,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82110486,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59577508,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2228104305,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516569551,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9411865326,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3252811470,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784162909,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329506311,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79648256,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4417982,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355479931,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549458659,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639898542,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5521517617,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14452977,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37063016,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161642,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9826413,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8337646131,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5005521153,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2345159,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195022126,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375222536,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190762763,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75647695,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3548645,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17898487,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564720723,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44991472,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4107796561,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3099148015,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447574,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15829695,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68983506,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4924783,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574441,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,942519,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607783371,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30391574,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88594952,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183317491,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1016301065,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859972730,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161196,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29764342,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162150424,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34250564,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42988881,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145346062,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744370801,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212609638,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844145209,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2081218738,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3111281,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455993,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2408621,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,631190,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8976971,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848781625,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5501015393,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369163454,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52816308,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2158109566,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665245516,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61604426747,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9576578798,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42120,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34411,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869955604,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,963491609,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12903133,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15834236,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304891440,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206403649,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103148515,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322809070,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306836,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68750624,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124159315,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26482587,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116477942,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521937,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52520126,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50087477,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60174837,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524379255,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448052829,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278108445,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,407592946,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411172611,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676298585,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106194,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1727845,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600807970,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162835763,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641096982,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173348825,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8773624,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69135084,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419981469,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14002289,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60007216,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763908565,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169564889,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7028870,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157443729,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69935879,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53022,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1278033,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1977445,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3081,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1245570,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45165902,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,987856636,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243855872,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3195305521,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4819482434,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37310,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3704239,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27936,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61484,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1655028,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204177619,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116296804,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37830602,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21387222,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73224120,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32020575,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55572524,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11829031240,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7023455483,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3219587232,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641964288,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021023527,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1155406,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114535670,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318186078,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165224,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8991407,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1863679,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448330,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13580039,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255344491,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472858253,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271195968,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16549561,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24809615,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2877223,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75127395,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53662,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17869557,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170674806,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5958813661,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12146939702,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250158599,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345288357,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5345975,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18803105,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13902024960,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2868880044,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6225320610,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3126868843,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11300277004,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135282929,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555441458,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509927618,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2083726289,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2917035907,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4108326094,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4228312784,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570766952,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385467105,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264097,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41250472,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9635157521,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4529718159,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337544908,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168372012,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870317378,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535078939,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111847423,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3183932245,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99006331,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110901686,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13087658362,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3609633383,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5923154891,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1214764246,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1581669,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29861165,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142954574,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51263610,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28050535,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244190357,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5163267,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32902939,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62086716,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83188792,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81757489,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159352514,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9251785,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122195185,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186708617,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84274424,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178024224,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8907748,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7236148,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746639,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128765344,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167769552,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67552175,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177751643,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9559920612,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4892061446,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5099973,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166865106,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154822768,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105516282,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25543731,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329794220,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28500093,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58123788,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20100665,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757488150,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2726965352,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2768297735,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3540650712,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467980708,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4618175,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8224943,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4995766,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8070242,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1119534,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23026505,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766542,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1099747751,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328648459,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369755284,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476709553,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1567249523,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2051996050,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12292413,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68588174,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10851845,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6964,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489552737,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3195121941,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935723644,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4876540249,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14614490,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38895254,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250696,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6521694,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32096719,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5590337,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46842,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2042717,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549842860,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313898013,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3752686,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77366225,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226439,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66301010,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10233803270,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2286610727,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14525,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40338,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53792,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98174,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825343918,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537922223,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235033,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572901,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454235,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169963,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296284,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423862,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104497831,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3825611,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24815,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456327942,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963455900,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74998244,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240389221,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189281865,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39395455,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114207604,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112710121,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746281360,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754985449,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,518187692,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304346343,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5718,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571452760,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997863804,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105760489,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581764610,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201280618,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11591347,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70522,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2892447,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9637304665,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968822063,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291240258,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253146833,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4527090538,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1611893266,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1913109,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124228742,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170610,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189946,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2144189,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5985,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23868,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329846,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2675283,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24955,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1920,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645149,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609129,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153971,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9571,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1007620,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21353105035,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6970706761,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227588274,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522111337,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33637237,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51031879,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831779,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31465719,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19941420,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95462781,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7395997582,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7805083993,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144256346,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138243426,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2680088909,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5357212587,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90880215,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237103054,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16298605,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418390395,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6275839168,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3814364710,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22498202,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234441499,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1923556576,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3152258203,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187146228,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824684298,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18195,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242393032,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16317609,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41781008,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66682417,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1582112153,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693656309,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21113151455,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928459286,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35827545,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138255066,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9874612,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31347915,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5650144837,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3113562147,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257176293,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455126112,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3745,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044587,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83582947,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111647552,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20283244409,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29989559762,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115002007,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213839737,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989333706,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4435911919,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47786014,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80464336,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21228,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100625,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10679,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55453,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37326729,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568486638,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1802261694,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251599879,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7212716,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13812308,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460570150,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2357285874,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5375634275,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8891195283,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004389133,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1671326055,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20463650971,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40312702896,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276156609,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99019831,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18536777,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165883889,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56499713,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107855086,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6640613795,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158417075,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240488,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964678,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1598505,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179207316,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461345501,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406835027,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334586548,,,0
+H1,2015,2015,2015,0,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8500380815,,,0
+H1,2015,2015,2015,0,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1876205935,,,0
