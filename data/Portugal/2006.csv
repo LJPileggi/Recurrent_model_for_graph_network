@@ -1,0 +1,416 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70707161372,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44777435756,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8967,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163394,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12604,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2101677,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1124572809,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91398855,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85009,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2069770,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3985585,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66234967,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518680047,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68880,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29396430,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44514357,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4873249,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122740807,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61505132,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35309420,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80798803,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447555546,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232850312,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448507,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5560076,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8799024,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4074107,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12938404,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3049724,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483255,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16207,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218446,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1966335521,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1392184025,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43146,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1237873,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12176,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556315,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010971,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4338565,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7829369,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3627875,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2096963,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117170,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1544175744,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319556618,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9604957,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26183,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73472,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1026,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368647,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2445918,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54120495,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17583861,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1040622,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69472,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3361,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192614,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7596614,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1762406,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109099,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201555,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72718538,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9754856,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110124274,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184716926,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8850299,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237999460,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139321,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3954403,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356500,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3722808,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1481247,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14821862,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429456,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46133018,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69826996,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966469780,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267970108,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5341,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99913,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210846489,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8127922,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57260,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226482,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15509738,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5424714,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27694548,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9442650,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19706,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46477152,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3508768,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7466951,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14240656,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24118758,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7031562,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7872360,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24778420,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347377717,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163167024,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7469480,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651449,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420695806,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301245633,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73589,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762775,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4383924,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23562279,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4119515,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1451674,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9821504,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500511777,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12978857,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9705686,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993813,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6588777,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12497265,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15698,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2745453,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3203,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26067,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7129,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277474196,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321824445,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6000464829,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5588308306,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5052,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627928,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7148,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369767,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11844811,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2645580,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81385953,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1511234,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2510273,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40030,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10076739768,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5772631697,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9142568,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11485115,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20538,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34787865,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109755837,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160565761,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52082,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39749,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257267,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4205308,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2945956,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2965639,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6461905,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48406772,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107548,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1644,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203548,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10921,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8947213,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2204513,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38272494,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115008786,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128182919,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176749140,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33964249,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11790097,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135382317,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7487756,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365697042,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17704204,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340687444,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573247,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633928897,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228787225,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98538307,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86921132,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4181823303,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1793809077,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15808546,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7020189,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2615416,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386587,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687117799,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131224710,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414625942,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477236,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2814058,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17677069,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7832591,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4078081,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89331,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33589,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381274869,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45494637,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266287,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11236854,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1900248,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260036,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,798583,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22942,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220099,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9100937,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28955,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6731286,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30637551,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238229,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646716,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579204874,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6745111,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30537262,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13007118,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193309859,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51806876,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065131,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16749715,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4776984,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2574853,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11213304,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788364,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123334103,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106604885,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40360,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258209,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5395186,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525949,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9983984,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10012816,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8492623,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11797573,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2198768,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1831512,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326921949,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174671722,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140225145,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15924354,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3154,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12190,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5832501,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2124871,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605797,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90850,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19952,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90691839,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203657657,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36029258,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92070969,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850046,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15161093,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5966147,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2936659,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73776,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35273,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362728,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26754,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3359849331,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1600228601,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24277,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2308900,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2883,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98593,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1911351,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24105764,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10410927,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865902,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929567,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,648955,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,967520228,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17345708,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159521785,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330286737,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174168,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25093452,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,847669541,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136887010,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668271,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11330,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153695,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130042,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125412235,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12205113,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4127085,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7036233,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494247,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129698,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10328157,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703737,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24570156,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7202271,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15296185,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12339511,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6499,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483254812,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296206303,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1462085,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33991717,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1564543,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2755252,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979772,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7373444,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34281263,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101481062,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,806429896,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134066372,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34418,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157120,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4081,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428300,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12558,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8302,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446713,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83214,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93397,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117999,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8839,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93225,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1453386,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11756467,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889090,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35060020,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672673011,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64310052,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13875906,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10483531,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55812643,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2311986,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267933,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3710972,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245852,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294473470,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36042467,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55981833,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,879559170,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46765130,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59370888,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26405295,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10373142,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36362891,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32472743,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69819,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252596199,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93959181,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22584333,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423901,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21822728856,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12690487991,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322854,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6234743,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1619801,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264608,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14988066,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218316,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665268352,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489400155,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452545595,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340754625,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38839103,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16166003,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1908273,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114274071,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24708574,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3156187,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1651000,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25822,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42149,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14017739,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781011,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21903777,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66669051,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35390713,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66046599,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597453843,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258249518,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9976900,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169408,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19802,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15330535,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722598,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29543924,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23600597,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16249950,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1359489,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115074088,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30856539,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922476483,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3045264382,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18142888,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,888736,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,295629038,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121572043,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93668215,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,978084305,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2642915533,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4562690,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1216449,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17949406,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3396387,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11046817,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83431,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265464314,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21471047,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1510,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668082,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1671743,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14678961,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402846,,,0
+H1,2006,2006,2006,0,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578661,,,0
+H1,2006,2006,2006,0,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189824157,,,0

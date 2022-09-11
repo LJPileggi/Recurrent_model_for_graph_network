@@ -1,0 +1,383 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32663737842,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23485361671,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14660,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2845006,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243521,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19553484,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1310828,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61056637,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165737,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308664,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3950882,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168402,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242870,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162519899,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7534481,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22730649,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14658429,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47266532,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9004357,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141287795,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731578516,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299153,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81007,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61057,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4388021,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3147293,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5977916,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200803,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364147,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7119,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11856,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488279612,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465118153,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17648,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115690,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249805,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19403162,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40072201,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,682,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2975,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397052655,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10333798,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7997,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232493,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97082,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1779,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,739069,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348889922,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451280076,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183081,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10458,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82685233,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4559595,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247647,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72457,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956373,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7394106,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176237706,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74103742,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189662,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3509,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60901,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20271,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29748,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2046447,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2061054,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584874,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3139859,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2146446,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1063523740,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195290071,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8506285,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7287139,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70775,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61434,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91473,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232560,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565414,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1186402,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1422,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9961338,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290409,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44398894,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188769042,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8964020,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307252,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12881820,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66055675,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706573946,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168076518,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3429,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3852408,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115732805,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52534400,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34198,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,986112,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552420,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43081977,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1160348,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396633,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527730,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2272996,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492043,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8104791,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4754583,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4787831,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809075,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44215,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1567,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52892,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401872,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97015548,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18339959,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2316803596,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1994744456,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1341,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159913,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,930631,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1172078,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87681,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77988729,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1266,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6106776,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62335,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4867790299,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513898618,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1664083,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3612817,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5903520,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93341644,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440862976,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627593185,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8542,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9120,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4512,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1047684,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545201,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36306080,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2322715,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19516,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15383,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4682580,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129442,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23010345,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35752926,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033849615,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,898109098,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721548,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1083907,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56018730,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17228757,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10433518,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59034417,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2742088,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19678300,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159510402,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38620058,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164721468,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105618889,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5601852868,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4979517636,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6340499,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6435484,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3821,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26268,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439033794,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47766197,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587925344,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26275219,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2025948,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37340525,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1793921,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22593635,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408217,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944206,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356763221,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95959830,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350334,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15460367,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4234295,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138411,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429969,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263634,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2919809,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97650334,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2821717,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7404642,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150574,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3334286,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2846,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11931282,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14111941,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9176815,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19507256,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4378757,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325208,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49094,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154620,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526386,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1034258,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117322647,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7306154,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14100,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753099,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784791,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14015426,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82937434,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139556,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476860,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269526,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26475,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32870645,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11437294,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259610090,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38956399,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45414,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84422,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77129812,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205218672,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21285600,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26422877,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163893,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2616147,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202473,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2318093,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40335,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19800,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43187,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16977,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605565972,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,749238652,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147892,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125495,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24932,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5647,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6098,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2312136,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1160729,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,945412,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304434,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166500,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674547,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41432392,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5493,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82669991,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98577408,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6044,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6126684,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81008,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13305149,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18383717,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301888,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3493486,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12379,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19398,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17189,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9075926,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10073885,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44577790,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567311,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822470554,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310039132,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96470304,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46238577,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1610,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4054572,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81992091,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2229438339,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120964887,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2664726,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5930,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1696,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2904,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2757,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1763005,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7299404,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45756890,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10403024,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99626536,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15305,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458057,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46083,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40534,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4835,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455516,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135734073,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129822868,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57075327,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43793904,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335276709,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78432623,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21671676,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13960000,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165530928,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118494332,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41654646,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4827759,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2687032,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2717,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717331166,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465928533,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12830,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2427717,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152225,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103798,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174454,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347263748,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131565296,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326689234,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141868373,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7018186,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145202548,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3562408,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2300700,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102489174,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7554358,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639676,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416142,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1377,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2323,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2612572,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8110998,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162720746,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6001209,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28607945,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364838747,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1642964073,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151060955,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3775222,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1195,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24838,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1932191,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224558,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,887145209,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78247632,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467393,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115311164,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45173211,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206783010,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1069165339,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561085182,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853746,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59396,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,934943452,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667429251,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1552,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3081466,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3021827,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345374,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15256832,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2990825,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21986133,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19222120,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30168,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12679672,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57104437,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226589024,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8646,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239778,,,0
+H1,2004,2004,2004,0,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95909784,,,0
+H1,2004,2004,2004,0,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25305763,,,0

@@ -1,0 +1,450 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209191546426,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188105090147,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1740645,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16040106,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3538633,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27477889,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224375,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49761253,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353553741,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26155,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3199192,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228617,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2803157,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12376618,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113923698,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95027687,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4323526,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126300257,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778712576,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101557117,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178395304,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374637257,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3847993423,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3614727557,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362244193,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286075816,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50259822,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11146120,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,594108960,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26584989,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071067,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22717806,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137680,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404862,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4625565153,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4364167192,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14374908,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100063537,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862410,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1410732,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1381078,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72933518,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152096634,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44520,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,978084,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5266,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10026,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022012682,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376063542,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31255,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9010545,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47917,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21188,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32051,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13808097,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41998,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894661,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447420368,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591314927,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6059347,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2179420,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772553,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23135,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1356193737,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1856239532,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145746462,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5475197,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30220010,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15443174,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311496736,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,792909667,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19928,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698402,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5611,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7955552,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,622300,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369654,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77209381,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18424861,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33114,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1365693,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215757340,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48227497,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18116249854,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860863972,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15119,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23661,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13438,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139732261,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52867390,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240652,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264608,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1919260,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1733134,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10036946,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17470006,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202895,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3776773,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1779675,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74520724,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8137091,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151103516,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446856902,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18440744,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14059088,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216287474,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316030552,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7747372102,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11674787803,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292238,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27218442,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2713177797,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3412321826,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372172,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438485,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14610483,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9271264,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138337642,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13905373,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2019725,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1266177,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2169740,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9672142,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3155426,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20371,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10172,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205841189,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1046024768,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27705848,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5159534,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371892,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36801,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397872,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250587,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2110648450,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1406916661,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8725388439,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11534254050,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4258,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172685,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41743,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922993,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578770,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1198882,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3857983,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7234022,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10572343,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64089082,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3321,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2954493,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297616,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1629120,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46426276182,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48868859611,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53164947,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39514444,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38104338,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7500079,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501169380,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829661568,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5744550,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992979,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578184,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5492,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3862,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9544428,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6458756,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11750159,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19924235,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3051242,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716358,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56464,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025101,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2037,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8573624,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1539927,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167861383,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321538101,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3693669619,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4839700537,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138615125,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44242432,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727060071,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120953237,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142016475,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90445376,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6835,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94210085,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1074027908,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542601045,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369694166,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392848872,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11134636738,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10081022186,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186928947,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11703312,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886675,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3237140,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3676762445,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564801505,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514344631,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493509368,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968495,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40428350,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32058010,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23175081,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10736071,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369747,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4634715295,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416347880,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1147846,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36722422,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1093820,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102466293,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14200310,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1245086,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11152516,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52047510,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694583,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326771139,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1140557985,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89008184,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61868769,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857035,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10663021,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1422111036,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2574998192,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414223437,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281290703,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4160067,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537271,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4501829,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537790,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30594286,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970147,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706264571,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165301998,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454967,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576532,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345348,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1909424,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52238964,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86447678,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109777,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8117062,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15051105,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4169790,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355074470,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432367769,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1409647838,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193706452,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1028336,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49703857,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86177290,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189336693,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5765418,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14066551,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75371,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232648575,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198948003,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20962677,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15981373,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18163004,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20673076,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5322401,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3155399,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757856,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228176,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840181,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7789943327,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8192512457,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357300,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9265597,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690674,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421398,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5061013,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130009655,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56334430,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23623832,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64280554,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1790422,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1378654,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658664,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1676291,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22948973,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88688211,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19061394,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30410626,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5964,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139378,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1095427,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3337080613,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3818964680,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58945,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79415,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7749,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161011,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3203,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158235596,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70816248,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10094,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194563555,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65648243,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158035614,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97379941,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766456,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1846259,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14556955,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2882200,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55178122,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36596992,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138925095,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40286231,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72817,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543603446,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,660394779,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485610,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3026901,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,953,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2010517,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5460682,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21203307,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1432005896,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2899405070,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25531514719,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8531532439,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2874045,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6689,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136311,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729578,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5160000,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13734,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9537,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67440,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57177,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5188,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20458,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3652482,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3068763,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6585864,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24598931,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642830,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63429,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261500952,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276449340,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808115,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26877231,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142161607,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412671771,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221044,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2344900,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6213014,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4546519,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1349359393,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523594083,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435628266,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574156085,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4314891384,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4549098123,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779652453,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130323082,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710493436,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640575152,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18977,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415778500,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528361636,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35118435,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570126,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4071469698,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4534587422,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1375836,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7836969,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5794851,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6912891,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33638332,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4093,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4215022092,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5363984952,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1675344050,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1669735332,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49155155,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40205264,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823824,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8010881,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017617050,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173182983,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27963266,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13429294,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22497,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2440,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2144,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486221,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1429309,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115866786,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342729826,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150204222,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67145556,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2324134646,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3291201929,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2053326,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24631008,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497484,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39689,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17505154,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8481074,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2790501932,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4688049263,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35528265,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52089501,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101450980,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195787629,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5385276403,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12169159380,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20777796,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21321762,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20824,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174070891,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18024119,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23234,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4762337760,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3693647650,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421708,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1966874,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40845377,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31425702,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44229930,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114293149,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47879555,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57022196,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7466,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9597,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25952,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1092,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171351,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8447816,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16595445,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3138010,,,0
+H1,2011,2011,2011,0,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623983018,,,0
+H1,2011,2011,2011,0,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62969222,,,0
