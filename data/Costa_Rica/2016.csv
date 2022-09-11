@@ -1,0 +1,353 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15321512291,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9907873817,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2923,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39603,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,121267,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,193,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16001,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41787,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46957,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12106,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,495344,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13618,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62233560,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7625719,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8465781,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24131665,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21966623,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,549368,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8879721,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6692706,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59013,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40868,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11793642,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98149,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92100,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80693,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9044066,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66388336,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,532214175,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7432,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,335673,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1111274,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2231916,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81642,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13747,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1480,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1170,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,330051745,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34430924,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,223239,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10840560,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7580,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,479860,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2176,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1962473,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184606,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,209841,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,123336,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5192,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1908430,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3901475,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10224,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3400418,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154103623,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85472277,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1912605,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,520592,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1780,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3714642,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,267803,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2984,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,282376334,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34574081,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2082231063,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45501508,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,865,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,292704329,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70226654,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79572,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,463,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2864492,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48565,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,331223,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,318844,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32397215,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130207,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84879,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5683080,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29687,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2637,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37445061,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4450212,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49904,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1043843,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37906052,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,258907564,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27843618,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36152117,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,236078684,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,274153745,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1141,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3300,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1137443,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61982,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,181094,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105482,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10936444,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38076720,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113777811,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82691259,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28879,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10392,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,681,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72011,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,755,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124139,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,988671,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71371,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19404,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3683,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,388285758,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130848070,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,126,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,909523,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4232,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1836,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1878302,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11778404,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39967,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,399,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1077984,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,174,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27666,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,416693417,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,516339787,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1650,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,319583,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14979373,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178321,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16346515,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2485,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5987,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6786,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106064670,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,334816182,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,186732757,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32103717,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41439152,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85268,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65355,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69659687,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4912504,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3225,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88707,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,668,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4464541,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54599620,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,87218776,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36657548,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8218166,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198979979,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,207836033,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12142,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,296628,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1379931,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51131184,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,415049859,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,112861955,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9222,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,546619,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,330129,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65797,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29279,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1421106,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11260,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,256938898,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33572476,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7145,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,620266,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,418,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15410,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36499,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89910,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29875,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1923389,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17946,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5262793,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,584112,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,201,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285588,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1613376,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11363180,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9904678,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3740,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142990,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14025,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108340,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1000,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,134419,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36767844,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1007761,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,548,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,222804,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,434389,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3877,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6470,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50261,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,480,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1067139860,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,257203620,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110632078,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16851630,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,679,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1798589,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,735,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5411661,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2634018,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,288035,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7950,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90151,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71662,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8707,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1607,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7696,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96605203,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,575437868,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,556643,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3154197,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1589,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19426233,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11516,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1300,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70757,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4835,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9392497,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18874467,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,141682638,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,517296833,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2938,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,363514,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7784484,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20463271,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,367,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9102,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,567,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4517,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,237,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8457052,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,305914,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,290874520,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,561017178,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23032300,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1725813,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61111003,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19438242,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9675367,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3311120,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8097,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12402334,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6073414,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13483657,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24643610,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,986,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6974841,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39307,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2512735,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,558630,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48838550,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23482540,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,119,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2647,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,204838,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,93,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3600,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29762,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2070395,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1167275,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,343,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4003949,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6373282,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28845,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1262129,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,542,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18714,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2137,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179396192,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19693327,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32212553,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17454546,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7119369,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285276,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71687077,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6212673,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2291335,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5784251,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1853,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6528413,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1986180,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1074,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,222736739,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153625596,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4390,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1567,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8049189,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,464,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39158214,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21758954,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145244633,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5485739,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1998,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23839,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17444,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15410,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184056633,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2700259,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38135,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15889637,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59390724,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3595681,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2297225,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,977599,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,795323,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56348235,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53415104,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41428,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1551,,,0
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13002,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6061,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62287,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14840686,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6238340,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62370,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1922536,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,636709,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124463353,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,180904418,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21903,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,369151,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5711167765,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4058038120,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,104782,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30841024,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1239112,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18942355,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32540556,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3523,,,4
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,383963,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40528,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43112,,,0
+H1,2016,2016,2016,0,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,485098322,,,4
+H1,2016,2016,2016,0,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84483,,,0
