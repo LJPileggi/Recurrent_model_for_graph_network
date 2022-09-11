@@ -1,0 +1,443 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,341601380377,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,327589023656,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,245170,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20980852,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9397532,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23128247,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2339,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,474863,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,557556667,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,856283196,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83937,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,683747,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,313989,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6196388,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247850590,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,174612049,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,162468,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,489210,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18109676,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51499609,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,288246159,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,492476223,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1271594328,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1635776069,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2466395567,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3241867598,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,532445,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7120543,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23726621,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61365880,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,473588059,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131207040,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73332373,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59087982,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21303,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4579947,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38591,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16536086,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,442,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,882766,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59661776,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29051785,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17729267,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54860559,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,203176998,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52084508,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1948,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2062651802,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2720927780,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4904,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,849016,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1514,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3929,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4685,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6010477,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20417,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15157740,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1432850620,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,416892041,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3188731,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9156651,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8465545,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37372592,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,144779202,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,296426135,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30200561,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36429346,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,103255795,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,206017892,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1781218809,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1676623700,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32621,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18596593,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,355,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,408044,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49833737,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8653797,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,432671870,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,390830720,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7746,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28141657,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1248786092,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,408326640,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9395707045,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7856872067,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5011,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37238,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,974,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,241512515,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285413766,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,177,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2498410,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,169388,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3791566,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48582653,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105619349,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,280185574,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,377260520,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13056,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44883,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,134447785,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31125374,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79197450,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,248401869,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44002848,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32993887,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,109158484,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,232932988,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3656013941,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2707435227,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,898583,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,279916270,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1430701225,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2448426291,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,737621,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,355308,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34001887,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47971245,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,332998716,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81511691,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9874622,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32717461,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19306873,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36206015,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17411417,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85565780,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167494,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7509201,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,158288360,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289092002,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4141,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2950225,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,285847,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,206449,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2485,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,765027,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1645143575,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1781745155,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40302390679,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52081950956,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,913309,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23050558,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49742,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6212321,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,562883,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12835271,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30602259,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96725580,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11051960,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38470021,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1569515,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14505898,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,761458,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2166162,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52654560858,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53970907259,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167573154,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,302015128,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25191283,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165306578,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,368328632,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1321127544,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34247,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,693361,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31377,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,430035,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1613,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2201271,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22200838,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38250984,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40734224,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86992268,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18448218,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9220469,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,274248,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9151638,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,264297,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108561249,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24810369,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1195960163,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3228746176,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1495966877,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1319400449,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69461883,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56349481,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,623622147,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,452678681,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124241528,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,508291135,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,208623,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100591582,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2855870195,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1930642871,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1984963987,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2750957040,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9815325943,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12388643920,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142881335,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113477412,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,485324,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26570238,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7185290006,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2838664331,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33396483,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165799423,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23392806,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,213558445,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34178976,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,164484513,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1072393,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,611238,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1280476826,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1535971820,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38609250,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157923065,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2127779,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17961139,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5420972,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30410324,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110912342,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,323634725,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,333795507,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2177241,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,111085541,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,210654242,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13403111,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18937769,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68842745,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61243389,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,346908785,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,751360979,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2886497602,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7796272795,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24305236,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7355699,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12218436,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40927353,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15370423,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10041024,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,416347174,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,472675921,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91569,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2601159,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4775269,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91092674,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91329652,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96918440,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142947874,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73946297,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31577032,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83009690,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,885048128,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,961068838,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,612476636,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,991518935,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,328296,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18771579,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7861110,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54676909,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1690099,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8023241,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29532,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10901,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,465968290,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,644366087,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35463959,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22598546,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35985109,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,141921255,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,318477703,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20692070,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4128549,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3805380,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83621102502,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41967713194,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38791286,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13114986,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1115684,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2100503,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99091456,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25015897,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3429,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148769,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322812345,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,215871735,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19194648,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7506858,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49594,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45524495,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78588820,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1123090743,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,688,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,467,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185202,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,641500,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5301840314,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1889840980,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,208,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22532,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9665,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,232800,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30142848,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15845,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,196026235,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,261115308,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4463968,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63316557,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34943106,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5489805,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22415722,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29195280,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,437475625,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,189837737,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185260770,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,230000272,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1113,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3883621197,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5613878999,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1887027749,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1544723420,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138696,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5641348,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,321718,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167557,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2102316906,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178199213,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,799211966,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1033842961,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9300837055,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4942344128,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13946938,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38086219,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1696,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,412073,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,343003,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,398,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19152,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6031,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1758934,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,664571,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1733,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178166,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1538823,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5793691,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79278,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2826618,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,867755808,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1630312628,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38070968,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142531549,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124351068,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,219564426,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8925,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6910486,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,109802647,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25419756,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5700394996,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10538893232,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,324656398,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1003454262,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,993877995,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,897271645,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,451788271,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,253979280,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231830910,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,493017743,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,0,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6928644,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1800742850,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1543052719,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4778102,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6889499,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7719708548,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8128120736,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6536734,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62287853,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247524836,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24187389,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,245252,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1642839,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6825914740,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4802201525,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3848904127,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5865549065,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17990360,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,206071277,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3424183,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1109594,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1046996949,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1073155610,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36499168,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98265370,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,793377,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,258245,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1251,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54810,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75035442,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14842416,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3264292605,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2658789452,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,345642685,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,442985949,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2573311778,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4800335830,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2297941,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25845393,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6495,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51903,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25608,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,495,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15333767,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43701208,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,383046926,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,705702301,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42788533,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40775310,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,337170597,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1006007231,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22591900059,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21410451076,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29361733,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46028991,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5893635088,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,280795,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13768565862,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14268618653,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26986281,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60967013,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26979770,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,66809367,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11872316,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37700593,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,791370093,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,175491617,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9770,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124169,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1226531,,,0
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143184187,,,0
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73740564,,,4
+H1,2011,2011,2011,0,0,1,Import,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,123751079,,,4
+H1,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18404225,,,4

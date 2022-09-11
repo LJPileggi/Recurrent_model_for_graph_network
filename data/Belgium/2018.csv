@@ -1,0 +1,463 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,340085567767,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,323378438760,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,186722,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40057539,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4059711,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29561593,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,228800,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,331396173,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,704230579,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4850,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18127,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,115059,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6341603,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,464124151,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234660319,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27630,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1524769,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6268693,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39603258,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,299921450,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,409119568,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,837387138,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1389978527,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2001604971,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2935576647,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,350082,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3159750,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,117840073,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53214045,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,427253727,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,215256732,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15933082,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50206739,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,508509,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2303655,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32626,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,891440,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,204796,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,566011,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25846607,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23654963,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28427613,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62733461,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1440704580,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88589788,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1476,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1558786588,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2479838887,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166183,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1409552,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,175,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18829,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98127,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1038559,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,584509,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,158181,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43924,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11595377,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1080222384,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,676404219,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89015056,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52453546,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2875540,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26706941,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,159996937,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,190313149,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64829100,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96067165,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70556641,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,218131999,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2313190190,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2873954435,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2546,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16307263,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,700,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2125667,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2298840,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15048196,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,197510685,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61628958,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,530,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6916550,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,477697407,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,446688334,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8273273483,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6103391332,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8521,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124957,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6498,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,139052973,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,336827089,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,695,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2151680,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41613047,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71489384,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,182118673,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312190176,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,910,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,172858,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,406459100,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32178333,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,260544799,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,320600126,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19377063,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62379912,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36850809,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,194599755,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4018100219,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2811074121,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4417137,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78595991,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1417653087,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2300435161,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,280813,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,687581,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30218795,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64045384,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81470914,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113178376,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7207525,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16983962,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,440002,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21377085,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12641279,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143506924,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4264065,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,188636189,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322272462,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26201,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3814884,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35298,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,819967,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5036,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8507,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,505,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4111701,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1405349412,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1566583882,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35914637107,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45893427916,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,994772,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13522727,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42828,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120179,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68599,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17389140,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38838286,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62031895,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2953702,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54502584,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3086588,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17792298,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,135072,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4237449,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47546828242,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58288551768,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60493498,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198149777,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22883604,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145194460,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27364,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,253824675,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1235852386,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,360,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,554202,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136379,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,834539,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,852,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124459,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23706886,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41314385,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62473273,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149819683,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74318123,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6338394,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1026173,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13107754,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,945,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73973,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30877,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61793069,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20623913,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,815526004,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2236081536,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1991121855,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1930625268,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322708667,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80422427,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,567622290,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,400436718,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40740126,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,309356264,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8802749,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,157277081,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18743983188,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2022748283,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,839801019,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1794775539,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13349518754,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15147753308,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,191439475,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,202262866,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1528621,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16275725,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8139028849,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3070151230,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,156654086,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,170239864,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38141832,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178911011,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19151649,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136853841,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,201027,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1496696839,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1436624703,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12844402,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,190807513,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,257591,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17495692,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10142345,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27888429,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35552944,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,308067385,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,405262084,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1439944,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136020228,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,294951735,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,63881980,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27048918,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16929768,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,168214598,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,631811677,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,777865653,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2230083931,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6973335620,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1349133,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2940114,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14713577,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51817289,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28441212,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19569737,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,742987546,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,555178025,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,121360,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5989160,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7977333,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,97436486,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55558672,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100947074,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145883,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67565735,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26412581,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113448440,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2396296440,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1074530373,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,826658327,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,700063812,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,373246,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14966305,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14554176,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39310841,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4784397,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8955339,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84308,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34855,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,326238471,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,809549607,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4672504,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45493654,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9615675,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142478434,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,583114797,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16436647,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8891,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3179,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3100631,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19976343,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72396535684,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37577970105,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11055685,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9198281,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32155,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2503165,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35105,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1329808,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11024410,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,535,Bonaire,BES,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1360862,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60138782,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16183416,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99094,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,112752,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,411298637,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231855162,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19701618,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9249767,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23029,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55617828,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,104732251,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1102311875,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,397583,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,231163,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1291,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,373519,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7030,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6982,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1914407,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5378121420,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1355707289,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,326,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1241159,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,228210,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,281590,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1177884784,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25426,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,228360559,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,413226419,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11777410,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166051608,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36666178,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10237311,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6910162,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31539933,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,200107616,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,176023383,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,122844188,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,338422106,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,438,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4834341439,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7195289336,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1263445183,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1752222661,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28427,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4403866,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17150,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73839,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,806618670,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,272698106,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1184708992,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1803919698,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8530291153,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2762928371,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3383818,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49196179,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33709,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,631286,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,350226,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82612,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,639192,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18707,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,152172,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,191,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2255965,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1789,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,392298,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73874,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,379691,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,384553,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6063346,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2087895,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,930998,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1621017256,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1366937374,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15197783,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,338528618,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165461539,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,942764758,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,550266,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5769717,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118448350,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30929225,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3806731253,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8682030923,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4221382966,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1083459096,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1133434989,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,990777701,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,756550393,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,524875825,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,261222425,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,512275981,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45486,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1733370,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2735540753,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,976202662,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12724409,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24442728,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7385216018,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8731449813,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1942,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,878218,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11790558,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62281017,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,304207,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90297518,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15262657,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,595450,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1974778,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6875807411,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5441195249,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5186094412,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4727603405,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,487072,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36982071,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11202040,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4443476,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1122591438,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,950426431,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13072033,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,409973369,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138856,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5848,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2027,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137915,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,291158771,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37021176,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2626213782,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3499537959,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,182943504,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,355005092,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3205500238,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3809023588,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,368033,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8139262,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7418,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44457,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22390165,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52407946,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,480156513,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,491034847,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,241579422,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,146632678,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149301845,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,933022567,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15031509707,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21448907982,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,105605911,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71285364,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1789,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4419029296,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11884,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1450640,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18340411589,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18829444909,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,631164,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,70597428,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13371377,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42361446,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6836880,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77497028,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81648465,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19175825,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,242475,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1016,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1498839,,,0
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1032608,,,0
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52850721,,,4
+H1,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,204885629,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35939610,,,4
+H1,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,96886874,,,0
