@@ -1,0 +1,303 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,313071073658,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,353240364955,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,499731,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19187415,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1393573,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,146778151,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4081968,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,319531537,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4133670,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,435448078,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77812026,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165202641,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3859611228,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12601701509,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1043023041,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,124951201,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,400689761,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,743340346,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220296413,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91253993,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,57327579,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1703296118,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,936799340,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3385344355,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13603,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,147915960,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,146,,,0
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1292227311,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1461210455,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2701961,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78065008,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130765496,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,946003785,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,184254034,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15369964,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82940759,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1159347678,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49297831,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10508956,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,159640480,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2419018947,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1858889,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36252963,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1055165693,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1456100722,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78387,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9139521,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98720595,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1198238566,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,159109563,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39323156,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33671882082,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36361069197,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56643,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1667670,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154303603,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88713303,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5245129,,,0
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6541768,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,348297,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17000352,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,555325457,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21989055,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11225361,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29725852,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4941795,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2233245,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56366610,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,418936811,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,125992446,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,776260988,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,549331,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49374540,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,443493524,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,518057692,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19569312,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10285436,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10832331,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27704971,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1229658,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2053269,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2020082,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5593191,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,313005092,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11059299,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2523119,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,463765390,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,368885265,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148008928,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7442243692,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6040319586,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1211647,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100817600,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,20320,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98576,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12991479,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9461335,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19570862,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8907459872,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6150565500,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33759732,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65076610,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151975578,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,707640803,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2550849,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,369992444,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23327390,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26812613,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1949491,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8488968,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138798,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4000586,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,554155,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10682470,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3421836801,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41272856223,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,954230747,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,803211061,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17026308643,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33566929356,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2196383907,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,358620377,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1203740928,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61936287,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,888805491,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,886783755,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,648690550,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,553052395,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2812640284,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,684959548,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39687984,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32877281,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,329073,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14294144,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24626944445,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16410345317,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,346454,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35264553,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34760941,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,85842211,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55202540,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,180156125,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8286114,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47582777,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18158021960,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14364230018,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2648812999,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,180259524,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2824188,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22972419,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4768028,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53118634,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81561860,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18053570,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,979922,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2884478262,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,27985866,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65121075,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101618231,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11472426,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34943461,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38325158,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18084926,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102579316,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18794426,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,112218555,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36431454195,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42367420946,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2541052,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,278827144,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,382579178,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,887459513,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8948487,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110119115,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1272756529,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1136303963,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18623163374,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12981846272,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,601870,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74516700,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,186749906,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,173309904,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7975241,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64524274,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,813092950,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131934485,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3153582,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82557131,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2914927,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,176858874,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5345884715,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6163620942,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,381475006,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26517747,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15836848,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,401506632,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2654332,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64419360,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,575688833,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1706642830,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36839919,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,246574051,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18506655,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,211317294,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36063576,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198090237,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1304988420,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,370978213,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,318105,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39265070,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,292807,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1154769901,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90797640,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1169745277,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5992262,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7507199962,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44316555,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,586253601,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247526,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5498112,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11566118,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29126608,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9196043992,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7183223123,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,129292119,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,316329587,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80203304,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76113657,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,602,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5510620433,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,204901052,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51021741,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148843939,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62145041,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67968182,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3353313767,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,465739079,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28983,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,138912966,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11233332564,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,815357685,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1444149,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54592721,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,730444,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8568681,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9227885441,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13409642945,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51937483,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64890239,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1610451048,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7393212353,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36065506,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34087583,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20253,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,434081,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,447656269,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1498722242,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10558993,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5295664,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,640670294,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,396586942,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,7,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,280783,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20986836,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3126938,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3421434,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1229550436,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,289145403,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5043725858,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1164110206,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,538122,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36151854,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10281195720,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12704219018,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,809489,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16992132,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6597754370,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3831454191,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5716847,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35137287,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,568593287,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,342120729,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,750953741,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38253931,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67578389,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,545019537,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5583891350,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6123774827,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7722518,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,293329654,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35622014149,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22951029872,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32519896,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55369660,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2728556087,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26873937,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,376812,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54770011,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77987962,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38235259,,,4
+H1,2010,2010,2010,0,0,1,Import,702,Singapore,SGP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55777369,,,4
+H1,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2270351,,,4
