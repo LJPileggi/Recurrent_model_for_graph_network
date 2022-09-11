@@ -1,0 +1,426 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,194720187072,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,217722507482,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,385166,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120562752,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,294982,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4251547,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1562107,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4157,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2150259,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118537636,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13887,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4286248,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322591,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,313099,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1590471,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,222520851,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,306,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,867404,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,739093,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11453171,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1164080506,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,216689921,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4676735802,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7539698996,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,543765175,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,104044467,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15979131,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2581627,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,129906302,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106298395,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,221133534,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1524141581,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77949,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1881041,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15195224,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1707237,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,629607227,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1132492398,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1866,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,311545,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,245928,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,810833,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5114460,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8144123,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,775234,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,854650,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2102,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1958390,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2106336314,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,852121179,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23566,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2682113,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179517,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10357547,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55537979,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1086519,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107931,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,605371991,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,537535125,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29326657,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79584909,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,225176335,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,963562545,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1314488,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41975086,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1368421,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165023325,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,290320969,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80619988,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59658084,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,707376468,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,820727148,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1950954,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35012,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,161223,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68536,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2774982,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69559764,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,578529273,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,112313,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,380793,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,183066168,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166379891,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38279307263,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29332532146,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14098379,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,254388,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1807947,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58315497,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,97780473,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4379717,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79430938,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46044030,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56658093,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17007266,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,320122,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19504094,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59640808,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8172686,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17396800,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1134040,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5825522,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9324850,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16684700,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,224311190,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,333422896,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7977942,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,286920088,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,196142983,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,146461484,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41059,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1064532,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5212171,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46890876,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,113295524,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33788866,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,552510,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16385432,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10529263,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21301082,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2367162,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,154892341,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8305269,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7938202,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41662800,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2691,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23751,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4536692,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71248672,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,173804567,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,123800749,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2964139491,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1377374813,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32576184,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,984,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151497,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,144485096,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,312472791,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36980328,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1482027,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25268715,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3531,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,45145626,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,652981,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1725196,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6117914288,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6211486117,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,211502669,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,257483250,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2234,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,262712,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3505979,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1065456,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18506374,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98272195,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71177,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4750,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,10899,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8855826,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17546,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,393308100,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58093732,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34018279,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11868885,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51889948,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1025943,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6785278,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,341923,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22300506,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133232,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2243617,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16856568,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3261911018,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11111390200,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,172750561,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,442986834,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1693438,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,965992,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8819350622,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,7831818107,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,295011064,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,757860509,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,272592723,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,128230490,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,836438686,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,158304793,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1680255912,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1065335312,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,591197591,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82637103,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,743648,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16240875,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14788770471,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17580964542,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9343454,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69226062,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,56492800,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,95614143,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7538429,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,242551648,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,780437,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,417764,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9101158324,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6657149511,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,261277285,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,188453878,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,48482,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2231083,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5504255,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14509013,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6365215,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73151225,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15653,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1071824,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26982606,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,82025206,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12346772,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,39782888,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79433081,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20810039,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62479755,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19927543,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16293083,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20760623,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16346351,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22637140,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5320671,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,100428119,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1756583,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32457407,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28784500,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,664030,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136825363,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,449978,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4030523,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38214959,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41635274,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86124,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62067482,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3932393,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84264592,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,326346860,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2238220952,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12748362742,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5580182465,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33771,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17109805,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2853748,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,583649,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79340,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1929963,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,509454,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26525846,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72849432,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4299690,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,193266330,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,307051319,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,276721377,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,439289,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4877234,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,121995,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,299733,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,564528,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28412262,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1828121036,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6264402989,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,69585,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,696094,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19181,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,341991,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37647,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21399,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22696134,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7217128,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23186374,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,781969698,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1049840745,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12010246,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5023865,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,824,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6624362,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,193909878,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,382734745,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12033,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,127171,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,346919,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,457801212,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,98936754,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,948662,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,523,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,468173,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,119340,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,437426,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,472737,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,517353,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72956,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167558365,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1174692732,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2453625,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,118672691,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220068044,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,336545082,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6928222,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7484820,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137445764,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,117655190,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2089881883,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3847313505,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59311,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153126799,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,395723412,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58758440,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91326669,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21493,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5046381,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,584757,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17484712,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,492568658,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,177550606,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33148860,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143795075,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,827576413,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,650629045,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14539410,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2555588,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23187,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53180,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,213842,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,500984,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1417671,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2411,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,160886,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2488732816,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,986325027,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1884043,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84884539,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1678523,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8628313,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3436650,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25738628,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,216004,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16498466,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6252020083,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8041444861,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21587907638,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31195409357,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34312340,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86987963,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5267866122,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6426670687,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33901624,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,478441170,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28715,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90092512,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,688537149,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,776238992,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,672675,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5124332,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,589338816,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,625961845,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6698668,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86326725,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,371569,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8264429,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,149149,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2206618,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,632020226,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,361548663,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2759779155,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1216671373,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,380449,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46510757,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13941,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8797360,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,11208591629,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,11762131864,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2351274,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,158002177,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,218482,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,602040,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2005469,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,398314,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,29715378,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3063936014,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2798971325,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30687169,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46771674,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,361191779,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2431932825,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2845036,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13753002,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,654,,,0
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,331,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,288491,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22919447,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19572289,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,102770952,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,106641007,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,543514,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,531638,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,132855429,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,481066432,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1587756026,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2272131383,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61157388,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,226239143,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15209250216,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20706831375,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5114891,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7449587,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12342183,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38735164,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2282257,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,78242026,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,358828404,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7534168,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54842,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72457,,,0
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3892816,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11753761,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185890087,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9420927,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4679400,,,4
+H1,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,205401222,,,4
+H1,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18859499,,,4
