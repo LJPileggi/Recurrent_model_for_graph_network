@@ -1,0 +1,426 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236126622376,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244252016495,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762845,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1332487,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227666543,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418183046,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038574844,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924030090,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1597577,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24385973,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55625881,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106517575,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7510,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3075358,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606271489,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38243337,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903808033,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809796517,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1363125117,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1760866548,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5787478075,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5268355967,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4336655,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236789351,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58240360,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97541864,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292596192,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155315448,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6708582,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30248065,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2367425,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8017178,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10296153462,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7303435594,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9850720,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480179666,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8936,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724917,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14957523,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23095864,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242006009,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347332502,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5902252,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10454957,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2081376764,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2319295305,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3080699,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1914487,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147234,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18904,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8996688,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123612688,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565799,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13503005,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846637180,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676993673,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34019399,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10768722,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1285273,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3049040,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83218840,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134698024,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5273337,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12218226,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565214851,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75116786,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1392154266,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2300640554,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10205,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14218066,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32766990,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91803911,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7309236,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2317474,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68645337,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70415792,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,949471,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6960739,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,877556330,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371589294,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6675752417,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2901082752,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267975171,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269089031,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75436,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861557,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1445966,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57542361,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102819953,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22803586,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14979098,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85668633,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84693025,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784343829,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1508709755,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13931726,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250260258,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14871613,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341475676,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1250501464,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1895134658,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27569241,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49802244,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1707262090,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1928201529,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784977,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1991383,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23180061,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130467648,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200958234,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113297729,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3089239,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44391632,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722928,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23492027,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46398692,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104796714,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3537084,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38663506,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47666712,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147411133,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710999,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488365,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4977612,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231497,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1516605,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589618298,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1164087081,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26500217634,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29892148427,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892343,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23192154,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1732595,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21403624,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36957590,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27775896,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18210719,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39880357,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55675,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9460458,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723059,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2941282,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42073508815,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35665701827,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67958182,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96054558,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23327607,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80222913,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383014,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1220395708,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4788580372,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25405,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359203,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395071,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,812946,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29195735,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88764763,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9964732,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26778662,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2262957,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4379295,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1442194,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6205695,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85504,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5832284,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18611407,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19286866,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353570570,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2921174517,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1741179064,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2660014883,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9155913,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53596934,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,860183820,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442477098,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2112657035,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1040980923,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605678496,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324318865,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3215847198,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1423445931,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758499364,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1607686837,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201441348,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113525786,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9899863,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14209980,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5618329384,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4173389440,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510006214,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238008382,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8736258,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242225091,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44727330,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67686816,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2671651,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9607969,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2104896465,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1809083824,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137263335,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386396960,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005217,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3281595,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11879431,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1515233,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22425783,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650216149,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302033,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984821,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44883542,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195021966,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61325151,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58103127,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4893634293,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156467155,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101931833,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329834129,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796316042,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480819935,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35703874,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21330827,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27510026,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29805803,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4837377,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2332216,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582940906,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988829120,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367634,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5301885,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11273743,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20104491,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150782975,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729773539,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81382242,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34936945,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64254303,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59558147,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283780804,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1753037365,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1491916673,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965018394,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16571538,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5053882,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66508441,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76341056,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74234,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390440,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514030620,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725301579,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36334047,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15627960,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8743437,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115348910,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25446679,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8378246,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9084390,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4744656,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13931008412,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6464822824,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1713234,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173014630,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85022,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11707644,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14388181,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16985666,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235065,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386912,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270559605,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243118289,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5658919,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8006628,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688985,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9263659,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408220388,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492423602,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5962432,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100512862,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782242968,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,953099251,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11559,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2342907,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326051,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124548,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10446669,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104911,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261972396,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261610379,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50810873,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317540087,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30898393,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138843,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39832295,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49684046,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137921192,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121773678,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152976599,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224857168,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96231,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43554,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1968878582,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3775119071,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135497070,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3243818154,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1592132,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2089769,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4524708,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313387470,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3015629567,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2997283583,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4631811506,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3156032676,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652810,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3543359,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297776,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6692368,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24207,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398758,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8121,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1272943,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86964,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1526851,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281377,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405434,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2391145,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8972210,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20235,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181066,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1913924069,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1584846280,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81989836,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82244114,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24769843,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26512650,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453448,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19711781,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1492772596,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,874977603,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366269787,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1524950337,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1102290575,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808446295,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334968419,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250426340,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267586911,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000982423,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1926048,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3905951,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1807308240,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,949342232,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91023776,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12437383,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10006875019,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14999174541,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38136166,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45188579,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75489,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2723998,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5573952,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665736,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3151681275,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2259953189,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8651953941,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8794855312,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1107821461,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,484864047,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22314535,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6112550,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778203655,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580961757,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6751464,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44366056,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20360,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62424,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8231278,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119730157,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132394991,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679289561,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1503420697,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869009270,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708436508,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3421815885,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74525051,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14456536,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100897,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318947,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285975,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16003282,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11137041,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1019603664,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627726654,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103242929,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155115446,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972677403,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314715167,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12114162774,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16438944740,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11445169,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45815981,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366385116,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11453140450,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23402907132,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24073004,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16187903,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95587794,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147840928,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170671149,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41467485,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350188927,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723353239,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239400,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117127,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9618,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282224,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14075027,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89482788,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379482083,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652736185,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30185494,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3783514,,,0
+H1,2001,2001,2001,0,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8432895688,,,0
+H1,2001,2001,2001,0,0,2,Export,381,Italy,ITA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2608445468,,,0

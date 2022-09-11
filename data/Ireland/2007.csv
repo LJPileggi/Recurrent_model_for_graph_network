@@ -1,0 +1,435 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87045335180,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122232810734,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340150,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9725590,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234124,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9161961,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81007313,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41793847,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171928,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6441980,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190463,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24662,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13859798,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1799119,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762583,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104828,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4981737,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136188294,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42142100,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226656246,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1144770070,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319756265,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701090248,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1644894,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4232985,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10588317,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33879589,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67064666,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1099998,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7624,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770204,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31343,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2314108,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1727977021,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17527246055,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95326,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1186020,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84652,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767029,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2579496,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15929300,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5245,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556067,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9167,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330347023,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221420600,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5965285,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1014774,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1684,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58818,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54028,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564191,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15691,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2742239,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16813371,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57807115,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83801,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253952,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44463,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151281,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1525741,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7719314,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23988458,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2616682,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27609546,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11084551,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473593140,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573139752,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4036,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030887,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701167,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467841,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829660,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74446,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57771339,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7512846,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2809223,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509523,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82023348,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52770732,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6556427028,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1808809346,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1003642,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3460,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17258751,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49334131,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99673,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2362519,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425782,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281049,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1334391,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12265378,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70132,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27724437,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22433062,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262048222,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9454394,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56792277,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447368,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835030,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36567290,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46984276,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386491966,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544159774,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1466,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3154573,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914827181,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789037975,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438128,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619710,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6981635,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14211148,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2454078,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7930603,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2513401,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4036450,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27886,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42351,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1383999,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9286072,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156735,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259727,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11694350,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55546107,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5417186,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180124,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763879,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76665,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585919,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225000,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547865,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335450172,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574221414,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3645874054,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7111639611,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8900,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2721239,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1233,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233049,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410004,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2068478,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5138766,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8071978,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6210574,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69109,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320357,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12058,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390216,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7666659324,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9210966567,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36329419,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32783272,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141745,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3791165,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402603,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16203,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66893783,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572210330,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14258,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68485,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185725,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257254,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151703,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2659539,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8679619,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100467962,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1346304,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289622,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1629678,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83950,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,915464,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22640,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8725280,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,751639,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523265754,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,912400440,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453068207,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289885887,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15644067,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49225600,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184565298,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100483566,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3909510,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38131123,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33120,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13345191,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113497011,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299859488,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1981357741,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4350674211,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11686232,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2295558,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2468462,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11209732,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2236026227,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2381017340,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664994,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29260153,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3216641,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53186724,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18594808,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32103213,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3251537,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163920741,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657557664,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455309,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77704005,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137302,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2254684,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2275795,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3194446,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42784587,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210765,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69509023,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23856734,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113131,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1596268,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153447533,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40751019,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52747667,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36614672,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50929478,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223379244,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7530397,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4160938,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1294383,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20343,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479730,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8422268,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672055042,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,950637243,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514666,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231694,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,618484,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16300527,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11526219,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22794380,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29233,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790279,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9405181,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4909700,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256372452,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795599032,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059817790,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328918949,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360099,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263316,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841354,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435097,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604405,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186486,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52114,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47339332,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104324516,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1724,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446127,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14537735,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31589811,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414495,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4559672,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586757,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108823,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246870,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182566,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3702667719,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4847423353,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4030287,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428457,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3070,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223281,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264928,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3738343,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302250,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56739361,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111977543,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2218678,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3682147,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3811173,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2212491,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822793,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258649449,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561900584,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89354212,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23124,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21650,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2128477452,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,804633755,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17314,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353343,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45206,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44999,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201962,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48921612,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38154084,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1073545,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17620127,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,764406,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7977072,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141059,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1689564,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6832789,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28318341,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181487132,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,971093499,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4110,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367147531,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803598310,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211153721,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568672059,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2057,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4110,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6698968,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29641405,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87954107,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249115482,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106323957,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447756781,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37564,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547016,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37085,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180707,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123669,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298478,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480708,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62527,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362716,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49841,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,813,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505827,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316104,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527736,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125813,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121409,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69092712,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504664428,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364035,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61402161,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12671640,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104953247,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3125660,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2137167,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238127,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,899754,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383860708,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230617518,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146691390,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690982668,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38253915,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100955642,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133247787,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65221309,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30332753,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41209295,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14568,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50687,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227648284,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505425346,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303455,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939088,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1437501634,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4494806807,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3269801,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16373318,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516972,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1696992,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1543662,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511235,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858817530,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367087134,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,720926700,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4454742229,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634196,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24362259,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44746,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121536,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587177237,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195137468,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1200270,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13655381,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324622,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4557668,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19055,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638316,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21012034,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79762907,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398085679,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27592260,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58016522,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,732287029,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568421969,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57468,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,791561,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1176273,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37251,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4092,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421474,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11026439,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15558214,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55076141,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616069,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17833687,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57399772,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115694152,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28613786088,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22936400060,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534779,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12510080,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76857,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28822244,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9667356523,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21680299565,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51019,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2611451,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2863892,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13332189,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55920,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1995871,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1216355,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63427321,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11698,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42841,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436097,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2248,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5911353,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380502,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14134738,,,0
+H1,2007,2007,2007,0,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1082458188,,,0
+H1,2007,2007,2007,0,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406422650,,,0
