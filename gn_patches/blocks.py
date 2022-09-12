@@ -13,6 +13,11 @@
 # limitations under the License.
 # ============================================================================
 
+"""
+Slightly modified version of functions and classes coming from graph_nets/blocks.py to
+make them fit into the library.
+"""
+
 """Building blocks for Graph Networks.
 
 This module contains elementary building blocks of graph networks:
