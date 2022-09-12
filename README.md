@@ -11,7 +11,7 @@ For more information:
   - World Trade Network data: https://comtrade.un.org/;
 
 ### Preprocessing
-Raw data csv-s are contained in the ./data folder. It contains 190 folders named by the name of the corresponding country; each of them contains csv files referring to the commercial exchanges of a certain year, and a csv for the yearly GDP data. The polish_raw_data.py file in the ./preprocessing folder creates a first raw adjacency list dumped into the ./final_data/data.json file, and then the adjacency.py or adjacency_gpu.py files creates the final ./final_data/data_dict_list.json file containing data suited for the graph_nets modules.
+Raw data csv-s are contained in the ./data folder. It contains 190 folders named after the corresponding country; each of them contains csv files referring to the commercial exchanges of a certain year, and a csv for the yearly GDP data. The polish_raw_data.py file in the ./preprocessing folder creates a first raw adjacency list dumped into the ./final_data/data.json file, and then the adjacency.py or adjacency_gpu.py files creates the final ./final_data/data_dict_list.json file containing data suited for the graph_nets modules.
 
 ### Training and validation
 Both the Recurrent Graph Network and a simple RNN for node data only are implemented and can be both trained and validated. It is also possible to save trained models and reload them when needed.
