@@ -9,6 +9,7 @@ For more information:
   - Peter W. Battaglia et al., Relational inductive biases, deep learning, and graph networks: https://arxiv.org/abs/1806.01261;
   - graph_nets library: https://github.com/deepmind/graph_nets;
   - World Trade Network data: https://comtrade.un.org/;
+  - yearly GDP figures country by country: https://public.knoema.com/mhrzolg/historical-gdp-by-country-statistics-from-the-world-bank-1960-2019?country=Zimbabwe.
 
 ### Preprocessing
 Raw data csv-s are contained in the ./data folder. It contains 190 folders named after the corresponding country; each of them contains csv files referring to the commercial exchanges of a certain year, and a csv for the yearly GDP data. The polish_raw_data.py file in the ./preprocessing folder creates a first raw adjacency list dumped into the ./final_data/data.json file, and then the adjacency.py or adjacency_gpu.py files creates the final ./final_data/data_dict_list.json file containing data suited for the graph_nets modules.
