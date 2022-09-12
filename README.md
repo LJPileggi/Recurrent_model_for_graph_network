@@ -6,9 +6,6 @@ The newly constructed framework is then applied to the World Trade Network datas
 The results of this framework are then compared to the ones obtained by an RNN applied to the GDP data only, without message-passing, similarly to what is done in the GraphIndependent module of graph_nets, to assess whether message-passing itself yields any improvement to the results.
 
 For more information:
-
-P Battaglia et al., Relational inductive biases, deep learning, and graph networks: https://arxiv.org/abs/1806.01261 ;
-
-graph_nets library: https://github.com/deepmind/graph_nets ;
-
-World Trade Network data: https://comtrade.un.org/ ;
+  P Battaglia et al., Relational inductive biases, deep learning, and graph networks: https://arxiv.org/abs/1806.01261 ;
+  graph_nets library: https://github.com/deepmind/graph_nets ;
+  World Trade Network data: https://comtrade.un.org/ ;
