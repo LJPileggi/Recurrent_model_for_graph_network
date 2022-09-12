@@ -12,3 +12,23 @@ For more information:
 
 ### Preprocessing
 Raw data csv-s are contained in the ./data folder. It contains 190 folders named by the name of the corresponding country; each of them contains csv files referring to the commercial exchanges of a certain year, and a csv for the yearly GDP data. The polish_raw_data.py file in the ./preprocessing folder creates a first raw adjacency list dumped into the ./final_data/data.json file, and then the adjacency.py or adjacency_gpu.py files creates the final ./final_data/data_dict_list.json file containing data suited for the graph_nets modules.
+
+### Training and validation
+Both the Recurrent Graph Network and a simple RNN for node data only are implemented and can be both trained and validated. It is also possible to save trained models and reload them when needed.
+
+The main.py file can be launched along with the following arguments:--graph_nets GRAPH_NETS
+  --graph_nets GRAPH_NETS
+                       use graph_nets (y) or recurrent model (n).
+  --train_test TRAIN_TEST
+                        perform training only (tr), testing only (ts) or both
+                        (trts). Default to both.
+  --config_file CONFIG_FILE
+                        file for configurating training
+  --pool_dim POOL_DIM   feature dimension of nodes in EdgesToNodesAggregator
+                        function. Mandatory when doing validation only.
+  --save_model_as SAVE  name of file to save model's parameters in. If None,
+                        no model is saved.
+  --load_model_as LOAD  name of file to load saved model's parameters from.
+                        Mandatory if testing only.
+  --graph_file GRAPH_FILE
+                        name of graph's file. Mandatory argument.
