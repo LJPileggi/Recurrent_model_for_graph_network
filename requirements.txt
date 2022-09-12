@@ -1,0 +1,6 @@
+tensorflow-gpu==2.8.0
+numpy
+matplotlib
+sonnet
+graph_nets
+setuptools
