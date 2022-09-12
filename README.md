@@ -16,19 +16,13 @@ Raw data csv-s are contained in the ./data folder. It contains 190 folders named
 ### Training and validation
 Both the Recurrent Graph Network and a simple RNN for node data only are implemented and can be both trained and validated. It is also possible to save trained models and reload them when needed.
 
-The main.py file can be launched along with the following arguments:--graph_nets GRAPH_NETS
-  --graph_nets GRAPH_NETS
-                       use graph_nets (y) or recurrent model (n).
-  --train_test TRAIN_TEST
-                        perform training only (tr), testing only (ts) or both
-                        (trts). Default to both.
-  --config_file CONFIG_FILE
-                        file for configurating training
-  --pool_dim POOL_DIM   feature dimension of nodes in EdgesToNodesAggregator
-                        function. Mandatory when doing validation only.
-  --save_model_as SAVE  name of file to save model's parameters in. If None,
-                        no model is saved.
-  --load_model_as LOAD  name of file to load saved model's parameters from.
-                        Mandatory if testing only.
-  --graph_file GRAPH_FILE
-                        name of graph's file. Mandatory argument.
+The main.py file can be launched along with the following arguments:
+  - --graph_nets: use graph_nets (y) or recurrent model (n);
+  - --train_test: perform training only (tr), testing only (ts) or both (trts). Default to both;
+  - --config_file: file for configurating training, contained in the ./config folder;
+  - --pool_dim: feature dimension of nodes in EdgesToNodesAggregator function. Mandatory when doing validation only;
+  - --save_model_as: name of file to save model's parameters in. If None, no model is saved;
+  - --load_model_as: name of file to load saved model's parameters from. Mandatory if testing only;
+  - --graph_file: name of graph's file. Mandatory argument.
+
+The config files contain the n. of epochs and the learning rate for the node and edge block model for training, the model to use and (for RecGraphNetwork) the pool dimension for the reducer function inside the module.
