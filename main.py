@@ -1,8 +1,8 @@
-from parse import parser
+from utils.parse import parser
 from config import Config
-from load_graphs import graph_loader
-from graph_nets_deploy import train_graph_nets, validate_graph_nets, train_test_graph_nets
-from simple_rnn import train_rnn, validate_rnn, train_test_rnn
+from utils.load_graphs import graph_loader
+from models.graph_nets_deploy import train_graph_nets, validate_graph_nets, train_test_graph_nets
+from models.simple_rnn import train_rnn, validate_rnn, train_test_rnn
 
 def main():
     args = parser()

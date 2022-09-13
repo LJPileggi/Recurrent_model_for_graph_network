@@ -1,10 +1,11 @@
 import pickle
 
-from graph_nets import utils_tf
-from gn_patches.modules import GraphNetwork
 import numpy as np
 import tensorflow as tf
 import sonnet as snt
+from graph_nets import utils_tf
+
+from gn_patches.modules import GraphNetwork
 
 """
 Options dictionaries for GraphNetwork blocks.

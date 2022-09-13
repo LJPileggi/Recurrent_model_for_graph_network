@@ -23,9 +23,7 @@ install_requires = [
     'matplotlib',
     'sonnet',
     'graph_nets',
-    'setuptools',
-    'numpyencoder',
-    'pycuda'
+    'setuptools'
 ]
 
 if __name__ == '__main__':

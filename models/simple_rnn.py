@@ -13,7 +13,7 @@ import numpy as np
 import sonnet as snt
 import tensorflow as tf
 
-from plot_series import plot_series
+from utils.plot_series import plot_series
 
 class SimpleRNN():
     """

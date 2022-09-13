@@ -13,8 +13,8 @@ import numpy as np
 import sonnet as snt
 import tensorflow as tf
 
-from rec_graph_net import RecGraphNetwork
-from plot_series import plot_series
+from .rec_graph_net import RecGraphNetwork
+from utils.plot_series import plot_series
 
 """
 Container for training and validation functions for RecGraphNetwork.
