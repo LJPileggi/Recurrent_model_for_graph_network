@@ -29,7 +29,7 @@ def main():
                              args.load, *graph_data)
         else:
             train_test_rnn(config, args.save,
-                        args.load, *graph_data)
+                        *graph_data, load_model=args.load)
 
 if __name__ == '__main__':
     main()

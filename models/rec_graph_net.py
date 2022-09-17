@@ -48,13 +48,11 @@ class MultiTimeSeriesRNN(snt.Module):
         if not loaded_rec_model:
             self.rec_model = snt.GRU(1)
         else:
-            with open(loaded_rec_model, 'rb') as f:
-                self.rec_model = pickle.load(f)
+            self.rec_model = loaded_rec_model
         if not loaded_encoder:
             self.encoder = snt.nets.MLP([1, 1])
         else:
-            with open(loaded_encoder, 'rb') as f:
-                self.encoder = pickle.load(f)
+            self.encoder = loaded_encoder
         self._input_dim = input_dim
         
     def trainable_weights(self):
@@ -144,19 +142,18 @@ class RecGraphNetwork(snt.Module):
     Essentially a GraphNetwork with MultiTimeSeriesRNN as a model.
     Global features are disregarded in this framework.
     """
-    def __init__(self, reducer_pool_dim, loaded_model_nodes,
-                   loaded_model_edges, name="RecGraphNetwork"):
+    def __init__(self, reducer_pool_dim, loaded_nodes_rec, loaded_nodes_enc,
+                loaded_edges_rec, loaded_edges_enc, name="RecGraphNetwork"):
         super(RecGraphNetwork, self).__init__(name=name)
-        if (not loaded_model_nodes) & (not loaded_model_edges):
+        if (not loaded_nodes_rec) & (not loaded_nodes_enc) & \
+            (not loaded_edges_rec) & (not loaded_edges_enc):
             edge_model_fn = lambda : MultiTimeSeriesRNN(3)
             node_model_fn = lambda : MultiTimeSeriesRNN(2*reducer_pool_dim+1)
         else:
             edge_model_fn = lambda : MultiTimeSeriesRNN(3,
-                loaded_rec_model=loaded_model_edges+"_rec.obj",
-                  loaded_encoder=loaded_model_edges+"_enc.obj")
+                        loaded_edges_rec, loaded_edges_enc)
             node_model_fn = lambda : MultiTimeSeriesRNN(2*reducer_pool_dim+1,
-                                loaded_rec_model=loaded_model_nodes+"_rec.obj",
-                                  loaded_encoder=loaded_model_nodes+"_enc.obj")
+                                            loaded_nodes_rec, loaded_nodes_enc)
         self._network = GraphNetwork(
                edge_model_fn,
                node_model_fn,

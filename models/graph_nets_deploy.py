@@ -15,6 +15,7 @@ import tensorflow as tf
 
 from .rec_graph_net import RecGraphNetwork
 from utils.plot_series import plot_series
+from utils.training_routine import training_routine_RecGraphNet
 
 """
 Container for training and validation functions for RecGraphNetwork.
@@ -46,12 +47,30 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
         function in train_test_graph_nets func.
     """
 
-    load_model_nodes = os.path.join("saved_models",load_model+"_nodes") if load_model else None
-    load_model_edges = os.path.join("saved_models", load_model+"_edges") if load_model else None
+    if load_model:
+        f_n_rec = open(os.path.join("saved_models", load_model+"_nodes"+"_rec.obj"), 'rb')
+        f_n_enc = open(os.path.join("saved_models", load_model+"_nodes"+"_enc.obj"), 'rb')
+        f_e_rec = open(os.path.join("saved_models", load_model+"_edges"+"_rec.obj"), 'rb')
+        f_e_enc = open(os.path.join("saved_models", load_model+"_edges"+"_enc.obj"), 'rb')
+        loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
+            pickle.load(f_n_rec), pickle.load(f_n_enc), pickle.load(f_e_rec), pickle.load(f_e_enc)
+        f_n_rec.close()
+        f_n_enc.close()
+        f_e_rec.close()
+        f_e_enc.close()
+    else:
+        loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
+                                                            None, None, None, None
 
-    model = RecGraphNetwork(config.pool_dim, load_model_nodes,
-                                    load_model_edges)
+    model = RecGraphNetwork(config.pool_dim, loaded_nodes_rec, loaded_nodes_enc,
+                                            loaded_edges_rec, loaded_edges_enc)
 
+    loss = tf.losses.MeanSquaredError()
+
+    training_routine_RecGraphNet(model, loss, config.l_rate_nodes, config.l_rate_edges,
+                        config.epochs_nodes, config.epochs_edges, input_tr, target_tr)
+
+    """
     loss = tf.losses.MeanSquaredError()
 
     optimizer_nodes = tf.optimizers.Adam(learning_rate=config.l_rate_nodes)
@@ -79,6 +98,10 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
               f"MSE edges : {loss_edges_tr:.10f}\n"
               f"time taken: {end:.0f} s"
               )
+    """
+
+    #print(model.trainable_weights_nodes)
+    #print(model.trainable_weights_edges)
 
     output_vl = model(input_vl)
     loss_nodes_vl = loss(target_vl[0].nodes, output_vl.nodes)
@@ -106,7 +129,7 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
 
 
 def validate_graph_nets(input_ts, target_ts, pool_dim,
-                    load_model):
+                                load_model, test=False):
     """
     Evaluates performances of trained model on a test set. A plot of a few
     nodes' series are plotted at the end.
@@ -115,13 +138,29 @@ def validate_graph_nets(input_ts, target_ts, pool_dim,
       - input_ts: input temporal graph for testing; GraphsTuple object;
       - target_ts: target temporal graph for testing; GraphsTuple object;
       - pool_dim: dimension of pool operator output in graph model;
-      - load_model: name of load trained model from previously trained file.
+      - load_model: name of load trained model from previously trained file;
+      - test: default to False, deactivates the creation of plots if in testing
+        mode (True).
     
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
     """
 
-    model = RecGraphNetwork(pool_dim, os.path.join("saved_models",
-        load_model+"_nodes"), os.path.join("saved_models", load_model+"_edges"))
+    f_n_rec = open(os.path.join("saved_models", load_model+"_nodes"+"_rec.obj"), 'rb')
+    f_n_enc = open(os.path.join("saved_models", load_model+"_nodes"+"_enc.obj"), 'rb')
+    f_e_rec = open(os.path.join("saved_models", load_model+"_edges"+"_rec.obj"), 'rb')
+    f_e_enc = open(os.path.join("saved_models", load_model+"_edges"+"_enc.obj"), 'rb')
+    loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
+        pickle.load(f_n_rec), pickle.load(f_n_enc), pickle.load(f_e_rec), pickle.load(f_e_enc)
+    f_n_rec.close()
+    f_n_enc.close()
+    f_e_rec.close()
+    f_e_enc.close()
+
+    model = RecGraphNetwork(pool_dim, loaded_nodes_rec, loaded_nodes_enc,
+                                    loaded_edges_rec, loaded_edges_enc)
+
+    #print(model.trainable_weights_nodes)
+    #print(model.trainable_weights_edges)
 
     loss = tf.losses.MeanSquaredError()
 
@@ -133,14 +172,15 @@ def validate_graph_nets(input_ts, target_ts, pool_dim,
           f"MSE edges : {loss_edges_ts:.10f}"
           )
 
-    for i in range(output_ts.nodes.shape[0]//10):
-        indices = range(i*10, (i+1)*10)
-        targets = [target_ts[0].nodes[index] for index in indices]
-        outputs = [output_ts.nodes[index] for index in indices]
-        plot_series(targets, outputs, indices, "multi", i)
+    if not test:
+        for i in range(output_ts.nodes.shape[0]//10):
+            indices = range(i*10, (i+1)*10)
+            targets = [target_ts[0].nodes[index] for index in indices]
+            outputs = [output_ts.nodes[index] for index in indices]
+            plot_series(targets, outputs, indices, "multi", i)
 
-def train_test_graph_nets(config,save_model_as,
-                            load_model, *data):
+def train_test_graph_nets(config, save_model_as,
+                load_model, *data, test=False):
     """
     Performs a training and then a validation on given training/test sets.
     Deprecated.
@@ -150,11 +190,10 @@ def train_test_graph_nets(config,save_model_as,
       - save_model_as: name of file to save trained model in;
       - load_model: name of already trained model to load before training;
       - data: list containing input_tr, target_tr, input_vl, target_vl,
-        input_ts, target_ts, to go into respective functions.
+        input_ts, target_ts, to go into respective functions;
+      - test: default to False, deactivates the creation of plots if in testing
+        mode (True).
     """
 
-    print('Deprecated method. Raises error when calling validate_graph_nets.'
-          ' Execute train_graph_nets and validate_graph_nets separately '
-          'instead.')
     validate_graph_nets(*data[-2:], config.pool_dim, train_graph_nets(
-                        *data[:-2], config, save_model_as, load_model))
+            *data[:-2], config, save_model_as, load_model), test=test)

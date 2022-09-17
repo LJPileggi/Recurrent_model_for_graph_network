@@ -28,7 +28,7 @@ def make_all_runnable_in_session(*args):
 def create_temp_graph(nodes_l, edges_l, senders_l, receivers_l, globals_l):
     """
     Takes lists of shape (n_t_steps, n_nodes/edges/senders/receivers/globals),
-    reshape them into (n_nodes/edges/senders/receivers/globals, n_t_steps) and
+    reshapes them into (n_nodes/edges/senders/receivers/globals, n_t_steps) and
     creates GraphsTuple object off of them.
 
     Args:
