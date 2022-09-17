@@ -1,7 +1,3 @@
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
 import sys
 import os
 import json
@@ -69,40 +65,6 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
 
     training_routine_RecGraphNet(model, loss, config.l_rate_nodes, config.l_rate_edges,
                         config.epochs_nodes, config.epochs_edges, input_tr, target_tr)
-
-    """
-    loss = tf.losses.MeanSquaredError()
-
-    optimizer_nodes = tf.optimizers.Adam(learning_rate=config.l_rate_nodes)
-    optimizer_edges = tf.optimizers.Adam(learning_rate=config.l_rate_edges)
-
-    for i in range(max((config.epochs_nodes, config.epochs_edges))):
-        start = time.time()
-        with tf.GradientTape() as tape:
-            output_tr = model(input_tr)
-            loss_nodes_tr = loss(target_tr[0].nodes, output_tr.nodes)
-        params_nodes = model.trainable_weights_nodes
-        grads_nodes = tape.gradient(loss_nodes_tr, params_nodes)
-        optimizer_nodes.apply_gradients(list(zip(grads_nodes, params_nodes)))
-
-        with tf.GradientTape() as tape:
-            output_tr = model(input_tr)
-            loss_edges_tr = loss(target_tr[0].edges, output_tr.edges)
-        params_edges = model.trainable_weights_edges
-        grads_edges = tape.gradient(loss_edges_tr, params_edges)
-        optimizer_edges.apply_gradients(list(zip(grads_edges, params_edges)))
-
-        end = time.time() - start
-        print(f"Epoch {i} :\n"
-              f"MSE nodes : {loss_nodes_tr:.10f}\n"
-              f"MSE edges : {loss_edges_tr:.10f}\n"
-              f"time taken: {end:.0f} s"
-              )
-    """
-
-    #print(model.trainable_weights_nodes)
-    #print(model.trainable_weights_edges)
-
     output_vl = model(input_vl)
     loss_nodes_vl = loss(target_vl[0].nodes, output_vl.nodes)
     loss_edges_vl = loss(target_vl[0].edges, output_vl.edges)
@@ -159,9 +121,6 @@ def validate_graph_nets(input_ts, target_ts, pool_dim,
     model = RecGraphNetwork(pool_dim, loaded_nodes_rec, loaded_nodes_enc,
                                     loaded_edges_rec, loaded_edges_enc)
 
-    #print(model.trainable_weights_nodes)
-    #print(model.trainable_weights_edges)
-
     loss = tf.losses.MeanSquaredError()
 
     output_ts = model(input_ts)
@@ -183,7 +142,6 @@ def train_test_graph_nets(config, save_model_as,
                 load_model, *data, test=False):
     """
     Performs a training and then a validation on given training/test sets.
-    Deprecated.
 
     Args:
       - config: Config object;
