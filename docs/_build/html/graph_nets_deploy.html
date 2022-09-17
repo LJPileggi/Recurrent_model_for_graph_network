@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>graph_nets_deploy module &mdash; Recurrent_model_for_graph_network 0.1.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="_static/doctools.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> Recurrent_model_for_graph_network
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">graph_nets_deploy module</a></li>
+</ul>
+</div>
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Recurrent_model_for_graph_network</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>graph_nets_deploy module</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/graph_nets_deploy.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="module-models.graph_nets_deploy">
+<span id="graph-nets-deploy-module"></span><h1>graph_nets_deploy module<a class="headerlink" href="#module-models.graph_nets_deploy" title="Permalink to this heading"></a></h1>
+<dl class="py function">
+<dt class="sig sig-object py" id="models.graph_nets_deploy.train_graph_nets">
+<span class="sig-prename descclassname"><span class="pre">models.graph_nets_deploy.</span></span><span class="sig-name descname"><span class="pre">train_graph_nets</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">input_tr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">target_tr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">input_vl</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">target_vl</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">config</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">save_model_as</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">load_model</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.graph_nets_deploy.train_graph_nets" title="Permalink to this definition"></a></dt>
+<dd><p>Trains RecGraphNetwork’s edge and node blocks’ models with input data.
+Can optionally load trained model from file. Optimiser used: Adam.
+Loss function: mean squared error.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><ul class="simple">
+<li><p>input_tr: input temporal graph for training; GraphsTuple object;</p></li>
+<li><p>target_tr: target temporal graph for training; GraphsTuple object;</p></li>
+<li><p>input_vl: input temporal graph for validation; GraphsTuple object;</p></li>
+<li><p>target_vl: target temporal graph for validation; GraphsTuple object;</p></li>
+<li><p>config: Config object from config file;</p></li>
+<li><p>save_model_as: name of model files to save trained models in. If none
+is provided, no model is saved;</p></li>
+<li><p>load_model: name ofload trained model from previously trained file. If
+none is provided, no model is loaded.</p></li>
+</ul>
+</dd>
+</dl>
+<p>Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);</p>
+<dl class="simple">
+<dt>Returns:</dt><dd><ul class="simple">
+<li><p>save_model_as: same as homonymous arg. Goes as input in validate_graph_nets
+function in train_test_graph_nets func.</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="models.graph_nets_deploy.train_test_graph_nets">
+<span class="sig-prename descclassname"><span class="pre">models.graph_nets_deploy.</span></span><span class="sig-name descname"><span class="pre">train_test_graph_nets</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">config</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">save_model_as</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">load_model</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">data</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">test</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.graph_nets_deploy.train_test_graph_nets" title="Permalink to this definition"></a></dt>
+<dd><p>Performs a training and then a validation on given training/test sets.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><ul class="simple">
+<li><p>config: Config object;</p></li>
+<li><p>save_model_as: name of file to save trained model in;</p></li>
+<li><p>load_model: name of already trained model to load before training;</p></li>
+<li><p>data: list containing input_tr, target_tr, input_vl, target_vl,
+input_ts, target_ts, to go into respective functions;</p></li>
+<li><p>test: default to False, deactivates the creation of plots if in testing
+mode (True).</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="models.graph_nets_deploy.validate_graph_nets">
+<span class="sig-prename descclassname"><span class="pre">models.graph_nets_deploy.</span></span><span class="sig-name descname"><span class="pre">validate_graph_nets</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">input_ts</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">target_ts</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">pool_dim</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">load_model</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">test</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.graph_nets_deploy.validate_graph_nets" title="Permalink to this definition"></a></dt>
+<dd><p>Evaluates performances of trained model on a test set. A plot of a few
+nodes’ series are plotted at the end.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><ul class="simple">
+<li><p>input_ts: input temporal graph for testing; GraphsTuple object;</p></li>
+<li><p>target_ts: target temporal graph for testing; GraphsTuple object;</p></li>
+<li><p>pool_dim: dimension of pool operator output in graph model;</p></li>
+<li><p>load_model: name of load trained model from previously trained file;</p></li>
+<li><p>test: default to False, deactivates the creation of plots if in testing
+mode (True).</p></li>
+</ul>
+</dd>
+</dl>
+<p>Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);</p>
+</dd></dl>
+
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Lorenzo Jacopo Pileggi.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

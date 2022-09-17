@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>rec_graph_net module &mdash; Recurrent_model_for_graph_network 0.1.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="_static/doctools.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> Recurrent_model_for_graph_network
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">rec_graph_net module</a></li>
+</ul>
+</div>
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Recurrent_model_for_graph_network</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>rec_graph_net module</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/rec_graph_net.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="module-models.rec_graph_net">
+<span id="rec-graph-net-module"></span><h1>rec_graph_net module<a class="headerlink" href="#module-models.rec_graph_net" title="Permalink to this heading"></a></h1>
+<dl class="py class">
+<dt class="sig sig-object py" id="models.rec_graph_net.MultiTimeSeriesRNN">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">models.rec_graph_net.</span></span><span class="sig-name descname"><span class="pre">MultiTimeSeriesRNN</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">args</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.MultiTimeSeriesRNN" title="Permalink to this definition"></a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">Module</span></code></p>
+<p>Model for forecasting off of different time series. Made of
+MLP layer, to return output with correct shape, and GRU
+recurrent layer. Used both in Edge and Node Block of GraphNetwork.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><ul class="simple">
+<li><p>input_dim: dimension of dataset;</p></li>
+<li><p>loaded_rec_model: name of previously saved model file; if none,
+brand new recurrent and readout layer are initialised.</p></li>
+</ul>
+</dd>
+</dl>
+<dl class="py method">
+<dt class="sig sig-object py" id="models.rec_graph_net.MultiTimeSeriesRNN.trainable_weights">
+<span class="sig-name descname"><span class="pre">trainable_weights</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.MultiTimeSeriesRNN.trainable_weights" title="Permalink to this definition"></a></dt>
+<dd><p>Returns weights of recurrent and readout layer to use during model
+training.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="models.rec_graph_net.RecGraphNetwork">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">models.rec_graph_net.</span></span><span class="sig-name descname"><span class="pre">RecGraphNetwork</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">args</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.RecGraphNetwork" title="Permalink to this definition"></a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">Module</span></code></p>
+<p>Graph module for analysing temporal graphs with RNN model.
+Deploys the MultiTimeSeriesRNN in EdgeBlock and NodeBlock.
+Essentially a GraphNetwork with MultiTimeSeriesRNN as a model.
+Global features are disregarded in this framework.</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="models.rec_graph_net.RecGraphNetwork.edge_model">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">edge_model</span></span><a class="headerlink" href="#models.rec_graph_net.RecGraphNetwork.edge_model" title="Permalink to this definition"></a></dt>
+<dd><p>Returns edge model.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="models.rec_graph_net.RecGraphNetwork.node_model">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">node_model</span></span><a class="headerlink" href="#models.rec_graph_net.RecGraphNetwork.node_model" title="Permalink to this definition"></a></dt>
+<dd><p>Returns node model.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="models.rec_graph_net.RecGraphNetwork.trainable_weights_edges">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">trainable_weights_edges</span></span><a class="headerlink" href="#models.rec_graph_net.RecGraphNetwork.trainable_weights_edges" title="Permalink to this definition"></a></dt>
+<dd><p>Returns trainable weights of edge model for training.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="models.rec_graph_net.RecGraphNetwork.trainable_weights_nodes">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">trainable_weights_nodes</span></span><a class="headerlink" href="#models.rec_graph_net.RecGraphNetwork.trainable_weights_nodes" title="Permalink to this definition"></a></dt>
+<dd><p>Returns trainable weights of node model for training.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="models.rec_graph_net.global_model_fn">
+<span class="sig-prename descclassname"><span class="pre">models.rec_graph_net.</span></span><span class="sig-name descname"><span class="pre">global_model_fn</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.global_model_fn" title="Permalink to this definition"></a></dt>
+<dd><p>Dummy model for global variables; we are not using it in our model,
+so it is just for making the whole thing work.</p>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="models.rec_graph_net.reducer">
+<span class="sig-prename descclassname"><span class="pre">models.rec_graph_net.</span></span><span class="sig-name descname"><span class="pre">reducer</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">pool_dim</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">feats</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">indices</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">num_items</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.reducer" title="Permalink to this definition"></a></dt>
+<dd><p>Reducer function to “pool” data coming from different GraphsTuple’s features,
+in order to implement message passing. For each node/edge, it operates pool_dim
+reduced sums over the i indices such that i mod pool_dim = k for k in
+range(pool_dim); such pool_dim features will be used as additional features
+inside each block’s model.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><ul class="simple">
+<li><p>pool_dim : dimension of reduced features vector;</p></li>
+<li><p>feats: tensor of features to reduce;</p></li>
+<li><p>indices: indices of sender/receiver nodes;</p></li>
+<li><p>num_items: number of nodes/edges.</p></li>
+</ul>
+</dd>
+</dl>
+<p>Returns reduced tensor.</p>
+</dd></dl>
+
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Lorenzo Jacopo Pileggi.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
