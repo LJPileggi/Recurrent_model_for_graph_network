@@ -13,6 +13,11 @@
 # limitations under the License.
 # ============================================================================
 
+"""
+Patches for the blocks module of graph_nets to ensure
+compatibility with our framework.
+"""
+
 """Building blocks for Graph Networks.
 
 This module contains elementary building blocks of graph networks:
@@ -27,10 +32,6 @@ This module contains elementary building blocks of graph networks:
     that only update the edges (resp. the nodes, the globals) of their input
     graph (as described in https://arxiv.org/abs/1806.01261).
 """
-
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
 
 from graph_nets import _base
 from graph_nets import graphs

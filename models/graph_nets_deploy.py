@@ -74,18 +74,18 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
           )
 
     if not save_model_as == None:
-        f1 = open(os.path.join("saved_models", save_model_as+"_nodes_rec.obj"), 'wb')
-        f2 = open(os.path.join("saved_models", save_model_as+"_nodes_enc.obj"), 'wb')
-        f3 = open(os.path.join("saved_models", save_model_as+"_edges_rec.obj"), 'wb')
-        f4 = open(os.path.join("saved_models", save_model_as+"_edges_enc.obj"), 'wb')
-        pickle.dump(model.node_model.rec_model, f1)
-        pickle.dump(model.node_model.encoder, f2)
-        pickle.dump(model.edge_model.rec_model, f3)
-        pickle.dump(model.edge_model.encoder, f4)
-        f1.close()
-        f2.close()
-        f3.close()
-        f4.close()
+        f_n_rec = open(os.path.join("saved_models", save_model_as+"_nodes_rec.obj"), 'wb')
+        f_n_enc = open(os.path.join("saved_models", save_model_as+"_nodes_enc.obj"), 'wb')
+        f_e_rec = open(os.path.join("saved_models", save_model_as+"_edges_rec.obj"), 'wb')
+        f_e_enc = open(os.path.join("saved_models", save_model_as+"_edges_enc.obj"), 'wb')
+        pickle.dump(model.node_model.rec_model, f_n_rec)
+        pickle.dump(model.node_model.encoder, f_n_enc)
+        pickle.dump(model.edge_model.rec_model, f_e_rec)
+        pickle.dump(model.edge_model.encoder, f_e_enc)
+        f_n_rec.close()
+        f_n_enc.close()
+        f_e_rec.close()
+        f_e_enc.close()
 
     return save_model_as
 

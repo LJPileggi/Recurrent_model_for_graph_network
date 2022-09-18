@@ -19,32 +19,6 @@ def matsum_gpu(A, B):
     b_gpu = gpuarray.to_gpu(B)
     c_gpu = gpuarray.to_gpu(C)
     count_gpu = gpuarray.to_gpu(Count)
-
-    '''
-    cudaKernel = """
-        __global__ void MatSumKernel(const int *A, const int *B, int *C, int *Count, int numYears, int numCountries)
-    {
-        int y = blockDim.x * blockIdx.x + threadIdx.x;
-        int i = blockDim.y * blockIdx.y + threadIdx.y;
-        int j = blockDim.z * blockIdx.z + threadIdx.z;
-        if ((y < numYears) && (i < numCountries) && (j < numCountries))
-        {
-            if ((A[y][i][j] != 0) ^ (B[y][j][i] != 0))
-            {
-                C[y][i][j] = (A[y][i][j] + B[y][j][i])/2;
-            }
-            else
-            {
-                C[y][i][j] = A[y][i][j] + B[y][j][i];
-            }
-            if (C[y][i][j] != 0)
-            {
-                Count[i][j]++;
-            }
-        }
-    }
-    """
-    '''
     cudaCode = open("MatSum.cu","r")
     myCUDACode = cudaCode.read()
     myCode = SourceModule(myCUDACode)

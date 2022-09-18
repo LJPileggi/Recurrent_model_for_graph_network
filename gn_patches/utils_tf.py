@@ -13,9 +13,10 @@
 # limitations under the License.
 # ============================================================================
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
+"""
+Patches for the utils_tf module of graph_nets to ensure
+compatibility with our framework.
+"""
 
 import collections
 

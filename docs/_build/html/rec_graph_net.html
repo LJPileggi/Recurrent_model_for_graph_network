@@ -18,7 +18,9 @@
         <script src="_static/doctools.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" /> 
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="graph_nets_deploy module" href="graph_nets_deploy.html" />
+    <link rel="prev" title="simple_rnn module" href="simple_rnn.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -36,11 +38,12 @@
   </form>
 </div>
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
-              <!-- Local TOC -->
-              <div class="local-toc"><ul>
-<li><a class="reference internal" href="#">rec_graph_net module</a></li>
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="simple_rnn.html">simple_rnn module</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">rec_graph_net module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="graph_nets_deploy.html">graph_nets_deploy module</a></li>
 </ul>
-</div>
+
         </div>
       </div>
     </nav>
@@ -77,15 +80,17 @@ recurrent layer. Used both in Edge and Node Block of GraphNetwork.</p>
 <dl class="simple">
 <dt>Args:</dt><dd><ul class="simple">
 <li><p>input_dim: dimension of dataset;</p></li>
-<li><p>loaded_rec_model: name of previously saved model file; if none,
-brand new recurrent and readout layer are initialised.</p></li>
+<li><p>loaded_rec_model: previously saved recurrent model; if none,
+brand new recurrent layer are initialised;</p></li>
+<li><p>loaded_encoder: previously saved encoder; if none,
+brand new readout layer are initialised.</p></li>
 </ul>
 </dd>
 </dl>
 <dl class="py method">
 <dt class="sig sig-object py" id="models.rec_graph_net.MultiTimeSeriesRNN.trainable_weights">
 <span class="sig-name descname"><span class="pre">trainable_weights</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#models.rec_graph_net.MultiTimeSeriesRNN.trainable_weights" title="Permalink to this definition"></a></dt>
-<dd><p>Returns weights of recurrent and readout layer to use during model
+<dd><p>Returns weights of recurrent and readout layers to use during model
 training.</p>
 </dd></dl>
 
@@ -157,7 +162,10 @@ inside each block’s model.</p>
 
            </div>
           </div>
-          <footer>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="simple_rnn.html" class="btn btn-neutral float-left" title="simple_rnn module" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="graph_nets_deploy.html" class="btn btn-neutral float-right" title="graph_nets_deploy module" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
 
   <hr/>
 

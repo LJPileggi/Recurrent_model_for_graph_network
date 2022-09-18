@@ -6,11 +6,11 @@ class Config():
     Config object. Reads config options from config files.
     Options are divided into:
       - epochs:
-        - for node training;
-        - for edge training;
+        - ep_nodes: for node training;
+        - ep_edges: for edge training;
       - learning rates:
-        - for node training;
-        - for edge training;
+        - l_nodes: for node training;
+        - l_edges: for edge training;
       - model options:
         - graph nets: use graph net (y) or a simple rnn (n);
         - pool dim: dimension of the pooling of model aggregators.

@@ -92,14 +92,14 @@ def train_rnn(input_tr, target_tr, input_vl, target_vl,
     if not load_model:
         node_model, edge_model = SimpleRNN(), SimpleRNN()
     else:
-        f1 = open(load_node_model+".obj", 'rb')
-        f2 = open(load_edge_model+".obj", 'rb')
+        f_n = open(load_node_model+".obj", 'rb')
+        f_e = open(load_edge_model+".obj", 'rb')
         node_model, edge_model = SimpleRNN(
-            pickle.load(f1)), \
+            pickle.load(f_n)), \
                                  SimpleRNN(
-            pickle.load(f2))
-        f1.close()
-        f2.close()
+            pickle.load(f_e))
+        f_n.close()
+        f_e.close()
 
     training_routine_SimpleRNN(node_model, loss, config.l_rate_nodes, config.epochs_nodes,
                                             input_tr[0].nodes, target_tr[0].nodes, "nodes")
@@ -126,7 +126,7 @@ def train_rnn(input_tr, target_tr, input_vl, target_vl,
 
 def validate_rnn(input_ts, target_ts, load_model, test=False):
     """
-    Evaluates performances of trained model on a test set. A plot of a few
+    Evaluates performances of trained model on a test set. Plots of the various
     nodes' series are plotted at the end.
 
     Args:
@@ -139,14 +139,14 @@ def validate_rnn(input_ts, target_ts, load_model, test=False):
     
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
     """
-    f1 = open(os.path.join("saved_models", load_model+"_nodes.obj"), 'rb')
-    f2 = open(os.path.join("saved_models", load_model+"_edges.obj"), 'rb')
+    f_n = open(os.path.join("saved_models", load_model+"_nodes.obj"), 'rb')
+    f_e = open(os.path.join("saved_models", load_model+"_edges.obj"), 'rb')
     node_model, edge_model = SimpleRNN(
-        pickle.load(f1)), \
+        pickle.load(f_n)), \
                              SimpleRNN(
-        pickle.load(f2))
-    f1.close()
-    f2.close()
+        pickle.load(f_e))
+    f_n.close()
+    f_e.close()
 
     loss = tf.losses.MeanSquaredError()
 

@@ -10,6 +10,9 @@ SERIES_D = tf.convert_to_tensor([[1.2, 0.7, 0.6, 0.9, 1.]], dtype=tf.float32)
 
 
 class DummyTimeSeries():
+    """
+    Generates a batch of time series to use in tests for SimpleRNN.
+    """
 
     def __init__(self):
         self._time_series = tf.concat([SERIES_A, SERIES_B, SERIES_C, SERIES_D], 0)
@@ -18,6 +21,10 @@ class DummyTimeSeries():
         return self._time_series + tf.random.truncated_normal([4, 5], stddev=0.1)
 
 class DummyBenchmarkGenerator():
+    """
+    Generates 2 small GraphsTuple samples (one as input, one as target)
+    to use as a benchmark during tests.
+    """
 
     def __init__(self):
         senders = tf.reshape([0, 0, 0, 1], [4,1])

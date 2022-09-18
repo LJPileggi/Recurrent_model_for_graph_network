@@ -38,8 +38,10 @@ class MultiTimeSeriesRNN(snt.Module):
 
     Args:
       - input_dim: dimension of dataset;
-      - loaded_rec_model: name of previously saved model file; if none,
-        brand new recurrent and readout layer are initialised.
+      - loaded_rec_model: previously saved recurrent model; if none,
+        brand new recurrent layer are initialised;
+      - loaded_encoder: previously saved encoder; if none,
+        brand new readout layer are initialised.
     """
     def __init__(self, input_dim, loaded_rec_model=None,
             loaded_encoder=None, name="MultiTimeSeriesRNN"):
@@ -57,7 +59,7 @@ class MultiTimeSeriesRNN(snt.Module):
         
     def trainable_weights(self):
         """
-        Returns weights of recurrent and readout layer to use during model
+        Returns weights of recurrent and readout layers to use during model
         training.
         """
         return [
