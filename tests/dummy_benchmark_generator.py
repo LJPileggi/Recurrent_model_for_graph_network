@@ -1,4 +1,3 @@
-import numpy as np
 import tensorflow as tf
 
 from gn_patches.utils_tf import data_dicts_to_graphs_tuple

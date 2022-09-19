@@ -1,11 +1,7 @@
-import sys
 import os
 import json
 
 from graph_nets.utils_tf import make_runnable_in_session
-from matplotlib import pyplot as plt
-import numpy as np
-import sonnet as snt
 import tensorflow as tf
 
 from gn_patches.utils_tf import data_dicts_to_graphs_tuple
@@ -97,11 +93,10 @@ def graph_loader(graph_file, task):
     if task == 'tr':
         return (input_graph_tr, target_graph_tr,
                 input_graph_vl, target_graph_vl)
-    elif task == 'ts':
+    if task == 'ts':
         return input_graph_ts, target_graph_ts
-    elif task == 'trts':
+    if task == 'trts':
         return (input_graph_tr, target_graph_tr,
                 input_graph_vl, target_graph_vl,
                 input_graph_ts, target_graph_ts)
-    else:
-        raise ValueError(f"ValueError: invalid argument for task: {task}")
+    raise ValueError(f"ValueError: invalid argument for task: {task}")

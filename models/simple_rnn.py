@@ -1,10 +1,6 @@
-import sys
 import os
-import json
 import pickle
-import time
 
-from matplotlib import pyplot as plt
 import numpy as np
 import sonnet as snt
 import tensorflow as tf
@@ -76,9 +72,9 @@ def train_rnn(input_tr, target_tr, input_vl, target_vl,
         is provided, no model is saved;
       - load_model: name ofload trained model from previously trained file. If
         none is provided, no model is loaded.
-    
+
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
-    
+
     Returns:
       - save_model_as: same as homonymous arg. Goes as input in validate_rnn
         function in train_test_rnn func.
@@ -86,20 +82,16 @@ def train_rnn(input_tr, target_tr, input_vl, target_vl,
 
     loss = tf.losses.MeanSquaredError()
 
-    load_node_model = os.path.join("saved_models",load_model+"_nodes.obj") if load_model else None
-    load_edge_model = os.path.join("saved_models", load_model+"_edges.obj") if load_model else None
+    load_node_model = os.path.join("saved_models", f"{load_model}_nodes.obj") if load_model else None
+    load_edge_model = os.path.join("saved_models", f"{load_model}_edges.obj") if load_model else None
 
     if not load_model:
         node_model, edge_model = SimpleRNN(), SimpleRNN()
     else:
-        f_n = open(load_node_model+".obj", 'rb')
-        f_e = open(load_edge_model+".obj", 'rb')
-        node_model, edge_model = SimpleRNN(
-            pickle.load(f_n)), \
-                                 SimpleRNN(
-            pickle.load(f_e))
-        f_n.close()
-        f_e.close()
+        with open(f"{load_node_model}.obj", 'rb') as f_n:
+            node_model = SimpleRNN(pickle.load(f_n))
+        with open(f"{load_edge_model}.obj", 'rb') as f_e:
+            edge_model = SimpleRNN(pickle.load(f_e))
 
     training_routine_SimpleRNN(node_model, loss, config.l_rate_nodes, config.epochs_nodes,
                                             input_tr[0].nodes, target_tr[0].nodes, "nodes")
@@ -116,9 +108,9 @@ def train_rnn(input_tr, target_tr, input_vl, target_vl,
           )
 
     if not save_model_as == None:
-        with open(os.path.join("saved_models",save_model_as+"_nodes.obj"), 'wb') as f:
+        with open(os.path.join("saved_models", f"{save_model_as}_nodes.obj"), 'wb') as f:
             pickle.dump(node_model.model, f)
-        with open(os.path.join("saved_models", save_model_as+"_edges.obj"), 'wb') as f:
+        with open(os.path.join("saved_models", f"{save_model_as}_edges.obj"), 'wb') as f:
             pickle.dump(edge_model.model, f)
 
     return save_model_as
@@ -136,17 +128,13 @@ def validate_rnn(input_ts, target_ts, load_model, test=False):
       - load_model: name of load trained model from previously trained file;
       - test: default to False, deactivates the creation of plots if in testing
         mode (True).
-    
+
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
     """
-    f_n = open(os.path.join("saved_models", load_model+"_nodes.obj"), 'rb')
-    f_e = open(os.path.join("saved_models", load_model+"_edges.obj"), 'rb')
-    node_model, edge_model = SimpleRNN(
-        pickle.load(f_n)), \
-                             SimpleRNN(
-        pickle.load(f_e))
-    f_n.close()
-    f_e.close()
+    with open(os.path.join("saved_models", f"{load_model}_nodes.obj"), 'rb') as f_n:
+        node_model = SimpleRNN(pickle.load(f_n))
+    with open(os.path.join("saved_models", f"{load_model}_edges.obj"), 'rb') as f_e:
+        edge_model = SimpleRNN(pickle.load(f_e))
 
     loss = tf.losses.MeanSquaredError()
 

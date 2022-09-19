@@ -1,11 +1,8 @@
 import os
 import sys
 sys.path.append('../')
-import unittest
-import numpy as np
+
 import tensorflow as tf
-import sonnet as snt
-import inspect
 
 from config import Config
 from tests.dummy_benchmark_generator import DummyTimeSeries, DummyBenchmarkGenerator
@@ -118,7 +115,7 @@ class TrainValTest(tf.test.TestCase):
         """
         pass
 
-    def _test_validation(self, saved_model):
+    def _test_validation(self, save_model):
         """
         Tests validation function. The model objects generated
         are deleted at the end of testing.

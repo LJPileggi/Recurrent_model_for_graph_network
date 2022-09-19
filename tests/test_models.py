@@ -1,10 +1,8 @@
 import sys
 sys.path.append('../')
-import unittest
-import numpy as np
+
 import tensorflow as tf
 import sonnet as snt
-import inspect
 
 from models.rec_graph_net import MultiTimeSeriesRNN, RecGraphNetwork
 from models.simple_rnn import SimpleRNN

@@ -1,12 +1,6 @@
-import sys
 import os
-import json
 import pickle
-import time
 
-from matplotlib import pyplot as plt
-import numpy as np
-import sonnet as snt
 import tensorflow as tf
 
 from .rec_graph_net import RecGraphNetwork
@@ -35,25 +29,27 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
         is provided, no model is saved;
       - load_model: name ofload trained model from previously trained file. If
         none is provided, no model is loaded.
-    
+
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
-    
+
     Returns:
       - save_model_as: same as homonymous arg. Goes as input in validate_graph_nets
         function in train_test_graph_nets func.
     """
 
     if load_model:
-        f_n_rec = open(os.path.join("saved_models", load_model+"_nodes"+"_rec.obj"), 'rb')
-        f_n_enc = open(os.path.join("saved_models", load_model+"_nodes"+"_enc.obj"), 'rb')
-        f_e_rec = open(os.path.join("saved_models", load_model+"_edges"+"_rec.obj"), 'rb')
-        f_e_enc = open(os.path.join("saved_models", load_model+"_edges"+"_enc.obj"), 'rb')
-        loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
-            pickle.load(f_n_rec), pickle.load(f_n_enc), pickle.load(f_e_rec), pickle.load(f_e_enc)
-        f_n_rec.close()
-        f_n_enc.close()
-        f_e_rec.close()
-        f_e_enc.close()
+        with open(os.path.join("saved_models", f"{load_model}_nodes_rec.obj"
+                                                        ), 'rb') as f_n_rec:
+            loaded_nodes_rec = pickle.load(f_n_rec)
+        with open(os.path.join("saved_models", f"{load_model}_nodes_enc.obj"
+                                                        ), 'rb') as f_n_enc:
+            loaded_nodes_enc = pickle.load(f_n_enc)
+        with open(os.path.join("saved_models", f"{load_model}_edges_rec.obj"
+                                                        ), 'rb') as f_e_rec:
+            loaded_edges_rec = pickle.load(f_e_rec)
+        with open(os.path.join("saved_models", f"{load_model}_edges_enc.obj"
+                                                        ), 'rb') as f_e_enc:
+            loaded_edges_enc = pickle.load(f_e_enc)
     else:
         loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
                                                             None, None, None, None
@@ -74,18 +70,14 @@ def train_graph_nets(input_tr, target_tr, input_vl, target_vl,
           )
 
     if not save_model_as == None:
-        f_n_rec = open(os.path.join("saved_models", save_model_as+"_nodes_rec.obj"), 'wb')
-        f_n_enc = open(os.path.join("saved_models", save_model_as+"_nodes_enc.obj"), 'wb')
-        f_e_rec = open(os.path.join("saved_models", save_model_as+"_edges_rec.obj"), 'wb')
-        f_e_enc = open(os.path.join("saved_models", save_model_as+"_edges_enc.obj"), 'wb')
-        pickle.dump(model.node_model.rec_model, f_n_rec)
-        pickle.dump(model.node_model.encoder, f_n_enc)
-        pickle.dump(model.edge_model.rec_model, f_e_rec)
-        pickle.dump(model.edge_model.encoder, f_e_enc)
-        f_n_rec.close()
-        f_n_enc.close()
-        f_e_rec.close()
-        f_e_enc.close()
+        with open(os.path.join("saved_models", f"{save_model_as}_nodes_rec.obj"), 'wb') as f_n_rec:
+            pickle.dump(model.node_model.rec_model, f_n_rec)
+        with open(os.path.join("saved_models", f"{save_model_as}_nodes_enc.obj"), 'wb') as f_n_enc:
+            pickle.dump(model.node_model.encoder, f_n_enc)
+        with open(os.path.join("saved_models", f"{save_model_as}_edges_rec.obj"), 'wb') as f_e_rec:
+            pickle.dump(model.edge_model.rec_model, f_e_rec)
+        with open(os.path.join("saved_models", f"{save_model_as}_edges_enc.obj"), 'wb') as f_e_enc:
+            pickle.dump(model.edge_model.encoder, f_e_enc)
 
     return save_model_as
 
@@ -103,20 +95,18 @@ def validate_graph_nets(input_ts, target_ts, pool_dim,
       - load_model: name of load trained model from previously trained file;
       - test: default to False, deactivates the creation of plots if in testing
         mode (True).
-    
+
     Various GraphsTuple.nodes/edges arguments must have shape (n_nodes/n_edges, n_t_steps);
     """
 
-    f_n_rec = open(os.path.join("saved_models", load_model+"_nodes"+"_rec.obj"), 'rb')
-    f_n_enc = open(os.path.join("saved_models", load_model+"_nodes"+"_enc.obj"), 'rb')
-    f_e_rec = open(os.path.join("saved_models", load_model+"_edges"+"_rec.obj"), 'rb')
-    f_e_enc = open(os.path.join("saved_models", load_model+"_edges"+"_enc.obj"), 'rb')
-    loaded_nodes_rec, loaded_nodes_enc, loaded_edges_rec, loaded_edges_enc = \
-        pickle.load(f_n_rec), pickle.load(f_n_enc), pickle.load(f_e_rec), pickle.load(f_e_enc)
-    f_n_rec.close()
-    f_n_enc.close()
-    f_e_rec.close()
-    f_e_enc.close()
+    with open(os.path.join("saved_models", load_model+"_nodes"+"_rec.obj"), 'rb') as f_n_rec:
+        loaded_nodes_rec = pickle.load(f_n_rec)
+    with open(os.path.join("saved_models", load_model+"_nodes"+"_enc.obj"), 'rb') as f_n_enc:
+        loaded_nodes_enc = pickle.load(f_n_enc)
+    with open(os.path.join("saved_models", load_model+"_edges"+"_rec.obj"), 'rb') as f_e_rec:
+        loaded_edges_rec = pickle.load(f_e_rec)
+    with open(os.path.join("saved_models", load_model+"_edges"+"_enc.obj"), 'rb') as f_e_enc:
+        loaded_edges_enc = pickle.load(f_e_enc)
 
     model = RecGraphNetwork(pool_dim, loaded_nodes_rec, loaded_nodes_enc,
                                     loaded_edges_rec, loaded_edges_enc)

@@ -1,9 +1,6 @@
-import pickle
-
 import numpy as np
 import tensorflow as tf
 import sonnet as snt
-from graph_nets import utils_tf
 
 from gn_patches.modules import GraphNetwork
 
@@ -56,7 +53,7 @@ class MultiTimeSeriesRNN(snt.Module):
         else:
             self.encoder = loaded_encoder
         self._input_dim = input_dim
-        
+
     def trainable_weights(self):
         """
         Returns weights of recurrent and readout layers to use during model

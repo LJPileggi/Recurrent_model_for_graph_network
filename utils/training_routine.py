@@ -31,7 +31,8 @@ def training_routine_SimpleRNN(model, loss, l_rate, epochs, input_tr, target_tr,
               f"time taken: {end:.2f} s"
               )
 
-def training_routine_RecGraphNet(model, loss, l_rate_n, l_rate_e, epochs_n, epochs_e, input_tr, target_tr):
+def training_routine_RecGraphNet(model, loss, l_rate_n, l_rate_e,
+                        epochs_n, epochs_e, input_tr, target_tr):
     """
     Training routine to update weights of RecGraphNetwork through gradient descent.
 
@@ -71,4 +72,3 @@ def training_routine_RecGraphNet(model, loss, l_rate_n, l_rate_e, epochs_n, epoc
               f"MSE edges : {loss_edges_tr:.10f}\n"
               f"time taken: {end:.0f} s"
               )
-
